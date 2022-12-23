@@ -1,0 +1,37 @@
+name: 'Generate streams links from YouTube live channels'
+on:
+  schedule: ## Schedule to run every three hours
+    - cron: '0 0/3 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10"]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+
+      - name: Install dependencies 
+        run: pip3 install --user requests
+
+      - name: Excute
+        run: python youtube_to_channels
+      
+      - name: Config Git User
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      - name: Updates channels.json
+        run: |
+          git add -A
+          git commit -m "Updates channels.json"
+          git push
