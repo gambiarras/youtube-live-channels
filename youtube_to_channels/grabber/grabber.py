@@ -49,23 +49,9 @@ def fetch_channels():
         data = json.load(file)
 
         channels = list(map(channel_from, data))
-        return [channel for channel in channels if channel.url is not None]
 
-    # with open('../youtube_channel_info.txt') as f:
-    #     for line in f:
-    #         line = line.strip()
-    #         if not line or line.startswith('~~'):
-    #             continue
-    #         if not line.startswith('https:'):
-    #             line = line.split('|')
-    #             ch_name = line[0].strip()
-    #             grp_title = line[1].strip().title()
-    #             tvg_logo = line[2].strip()
-    #             tvg_id = line[3].strip()
-    #             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
-    #         else:
-    #             __grab(line, s)
-            
-    # if 'temp.txt' in os.listdir():
-    #     os.system('rm temp.txt')
-    #     os.system('rm watch*')
+        if 'temp.txt' in os.listdir():
+            os.system('rm temp.txt')
+            os.system('rm watch*')
+
+        return [channel for channel in channels if channel.url is not None]
