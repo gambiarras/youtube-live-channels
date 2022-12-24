@@ -1,23 +1,23 @@
 [
-  [
-    "SBTNacional.br",
-    "SBT RS Live",
-    "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671870229/ei/tWKmY_nJBMG1uAK106eoAg/ip/40.77.92.160/id/A9E5D6U8Q8c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHOba6kDxnxr2Bg_FIZ5EQp15Vnmhn6ZdvmUbb0RyAPwCIQCVipvk7EYMMnTqlyVfYFjdSQYTywbiT7BZ5Sk26xr8GQ%3D%3D/file/index.m3u8",
-    "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
-    "youtube"
-  ],
-  [
-    "RecordNews.br",
-    "Record News Live",
-    "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671870231/ei/t2KmY7m6Cb6Q_tcPhZeRMA/ip/40.77.92.160/id/YAqJUcHns_I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcx0eN3j56WMrKTwBF5OWlR8rJnBdJj5BHUgPS7MsphoCIBxe-va01jbYrw02CtT1Cxgm1ovYGdZJqF62HSV0azpu/file/index.m3u8",
-    "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj",
-    "youtube"
-  ],
-  [
-    "ChavesLive.br",
-    "Chaves Live",
-    "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671870231/ei/t2KmY4zQIvuN_tcP_ZSLiA4/ip/40.77.92.160/id/zmvVgKPszQI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL_Zz_M9BmJpJYaE8lKuU55uN176-y4MAf0ICGY6Xjg4AiEAtdJlnZpE8DHwdxYjmaRTSUYg_wIpPKyEKxxRQO3vCLs%3D/file/index.m3u8",
-    "https://c-fa.cdn.smule.com/rs-s52/arr/f5/41/cb737524-84d4-4ae6-89f4-03d716cba9c5.jpg",
-    "youtube"
-  ]
+  {
+    "id": "SBTNacional.br",
+    "name": "SBT RS Live",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671917100/ei/zBmnY7_QC4TlNpKRisgE/ip/40.84.174.80/id/A9E5D6U8Q8c.1/source/yt_live_broadcast/requiressl/yes/tx/24425332/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPkNbL2SOL93JJQieXQrT7VqgmQ5ArpPT0uqyc5DTUurAiAQ4nUOoNvtPgD4kaTpXESb8owRpaPYmJFyaobb8dpp8w%3D%3D/file/index.m3u8",
+    "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
+    "group": "youtube"
+  },
+  {
+    "id": "RecordNews.br",
+    "name": "Record News Live",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671917102/ei/zhmnY_OoFou0lu8P672EiAM/ip/40.84.174.80/id/YAqJUcHns_I.1/source/yt_live_broadcast/requiressl/yes/tx/24425332/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCqvqTqvnfIzzvhLr9NbTskQRRctQNX-uLteshDgdUtgCICcBuvP51O1ZIvyjYDTmiET5jMUtVxAvQX7XFXkKohFC/file/index.m3u8",
+    "logo": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj",
+    "group": "youtube"
+  },
+  {
+    "id": "ChavesLive.br",
+    "name": "Chaves Live",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671917103/ei/zhmnY-WfM-K1lu8PvMW1-AM/ip/40.84.174.80/id/zmvVgKPszQI.1/source/yt_live_broadcast/requiressl/yes/tx/24425332/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTDkq8pKilxDPWaLg1uPn00O2XAPOyUJPXjyf56W-8jkCIQDktL1T26QtmlqUrH-mtXOICrGleJbgNxDd636RAwCAmg%3D%3D/file/index.m3u8",
+    "logo": "https://c-fa.cdn.smule.com/rs-s52/arr/f5/41/cb737524-84d4-4ae6-89f4-03d716cba9c5.jpg",
+    "group": "youtube"
+  }
 ]
