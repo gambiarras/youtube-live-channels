@@ -41,7 +41,6 @@ def channel_from(data):
         'youtube'
     )
 
-
 def fetch_channels():
     resource = resources.files("resources").joinpath("channels_list.json")
     
@@ -54,4 +53,5 @@ def fetch_channels():
             os.system('rm temp.txt')
             os.system('rm watch*')
 
-        return [channel for channel in channels if channel.url is not None]
+        channels = [channel for channel in channels if channel.url is not None]
+        return list(map(lambda channel: channel._asdict(), channels))
