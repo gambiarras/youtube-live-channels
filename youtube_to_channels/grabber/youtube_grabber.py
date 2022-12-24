@@ -38,13 +38,11 @@ def channel_from(data):
         data['name'],
         stream,
         data['logo'],
-        'youtube'
+        'web'
     )
 
 def fetch_channels():
-    resource = resources.files("resources").joinpath("channels_list.json")
-    
-    with resources.open_text("resources", "channels_list.json") as file:
+    with resources.open_text("resources", "youtube_channels.json") as file:
         data = json.load(file)
 
         channels = list(map(channel_from, data))
