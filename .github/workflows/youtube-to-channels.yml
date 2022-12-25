@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies 
         run: pip3 install --user requests
 
-      - name: Excute
+      - name: Execute
         run: python youtube_to_channels
       
       - name: Config Git User
