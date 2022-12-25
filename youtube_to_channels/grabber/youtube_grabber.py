@@ -38,7 +38,7 @@ def channel_from(data):
         data['name'],
         stream,
         data['logo'],
-        'web'
+        data.get('group', 'web')
     )
 
 def fetch_channels():

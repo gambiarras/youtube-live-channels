@@ -3,30 +3,35 @@
       "id":"TVBrasil.br",
       "name":"TV Brasil",
       "channel_id":"x82pp99",
-      "logo":"https://cdn.mitvstatic.com/channels/br_tv-brasil_m.png"
+      "logo":"https://cdn.mitvstatic.com/channels/br_tv-brasil_m.png",
+      "group": "general"
     },
     {
       "id":"TVGazeta.br",
       "name":"TV Gazeta",
       "channel_id":"x89qors",
-      "logo":"https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png"
+      "logo":"https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png",
+      "group": "general"
     },
     {
       "id":"CanalEducacao.br",
       "name":"Canal Educação",
       "channel_id":"x8abdvf",
-      "logo":"https://i.imgur.com/bZGO7xc.png"
+      "logo":"https://i.imgur.com/bZGO7xc.png",
+      "group": "general"
     },
     {
       "id":"CanalLibras.br",
       "name":"Canal Libras",
       "channel_id":"x8a60g5",
-      "logo":"https://i.imgur.com/7kRysMu.png"
+      "logo":"https://i.imgur.com/7kRysMu.png",
+      "group": "culture"
     },
     {
       "id":"TVT.br",
       "name":"TVT",
       "channel_id":"x6ph7x7",
-      "logo":"https://cdn.mitvstatic.com/channels/br_tvt_m.png"
+      "logo":"https://cdn.mitvstatic.com/channels/br_tvt_m.png",
+      "group": "general"
     }
   ]
