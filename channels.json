@@ -2,49 +2,42 @@
   {
     "id": "CavernaDragao.br",
     "name": "Caverna do Drag\u00e3o",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672910047/ei/f0C2Y-nuFtaO2_gPw7GI6Aw/ip/70.37.166.241/id/Uk9Li24gCuw.1/source/yt_live_broadcast/requiressl/yes/tx/24425331/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24432634/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPuR82ov7IaCN9iR65-3pFkZNSeqq3ClXIlOki9i7iKjAiEAxjf1gx7qY5fq5Svq34WEki2rduXdOf3W2dC5KCM9I2s%3D/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672920948/ei/FGu2Y97IB8aKhwb0opP4Bg/ip/52.226.126.48/id/Uk9Li24gCuw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAORyP2qvzxkN-C_ntO_PAuj4zM7QmTlm_r2TLzaCe86ZAiEAn_dGZuq7TC42MR42yGhpGfGNew-g-ACysuxhTGB_g8I%3D/file/index.m3u8",
     "logo": "https://pm1.narvii.com/6271/535a152ee5b8fb6dbe40c1f4967356f926e4c5d4_128.jpg",
     "group": "kids"
   },
   {
-    "id": "ChavesLive.br",
-    "name": "Chaves Live 3",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672910047/ei/f0C2Y6foMLihlu8Pm7Sq0AU/ip/70.37.166.241/id/7Zmjo9rTsww.1/source/yt_live_broadcast/requiressl/yes/tx/24425331/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24432634/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPV7h3kiYxLdF2yZYQNQVso_Av00EH7yV3QTepaXPphYCIQCWJUQ09RTzhskuXWhpxIzB-1VqmmJjzoQGb-WC7ZoL7A%3D%3D/file/index.m3u8",
-    "logo": "https://c-fa.cdn.smule.com/rs-s52/arr/f5/41/cb737524-84d4-4ae6-89f4-03d716cba9c5.jpg",
-    "group": "series"
-  },
-  {
     "id": "TVBrasil.br",
     "name": "TV Brasil",
-    "url": "https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu9H3YxZWtpMzxZyh09zXbcy_ut_gZCGEHQsPOCTGtaz)/dm/3/x82pp99/d/live-3.m3u8#cell=lsv4",
+    "url": "https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvIMLBPSqWS_iaM-ZiINE1J6ycCo8N6-x0i3PH_IqBzJ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc",
     "logo": "https://cdn.mitvstatic.com/channels/br_tv-brasil_m.png",
     "group": "general"
   },
   {
     "id": "TVGazeta.br",
     "name": "TV Gazeta",
-    "url": "https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v3TKDeyZCa2KMDnPsr2EXrn1Ekd12FcRofJUij-5gl0M)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4",
+    "url": "https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vw04EkDlsEy961AS0naLUZBs7L0Mh5CvGmg5fAS-ISh9)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc",
     "logo": "https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png",
     "group": "general"
   },
   {
     "id": "CanalEducacao.br",
     "name": "Canal Educa\u00e7\u00e3o",
-    "url": "https://stream-01.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls5ycTLn26lazGRhm6WDXKZ4i9qAfEyn7xBhjYt8mlvzF)/dm/3/x8abdvf/s/live-3.m3u8#cell=lsv4",
+    "url": "https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls-wkxAkd7qhJoFTsMfeE5AwWzrDz2ZjzZxwoNKpZdQK_)/dm/3/x8abdvf/s/live-3.m3u8#cell=lnyc",
     "logo": "https://i.imgur.com/bZGO7xc.png",
     "group": "general"
   },
   {
     "id": "CanalLibras.br",
     "name": "Canal Libras",
-    "url": "https://stream-02.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsyWOkY5eYDNrpoPW8id8sWo6MKieFXF67vlFT-I3X6J5)/dm/3/x8a60g5/d/live-4.m3u8#cell=lsv4",
+    "url": "https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswmNf4YpnEViJ2c4CmQ79vpYylPaKCOw9gXRccuuFVzf)/dm/3/x8a60g5/d/live-4.m3u8#cell=lnyc",
     "logo": "https://i.imgur.com/7kRysMu.png",
     "group": "culture"
   },
   {
     "id": "TVT.br",
     "name": "TVT",
-    "url": "https://stream-03.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G-EoCJj3kLsucglRRCeiAJbVKyHAX4Q52I5WUSjEGrm7)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4",
+    "url": "https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0IKs60F8kP-cZFvjYU2axnVMlzyS3SeRgGBRJrFWyuG)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc",
     "logo": "https://cdn.mitvstatic.com/channels/br_tvt_m.png",
     "group": "general"
   }
