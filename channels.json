@@ -9,7 +9,7 @@
   {
     "id": "TVGazeta.br",
     "name": "TV Gazeta",
-    "url": "https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v65-6MqXuntvW72UW3dEu4DZQf68e01R8AlQVuxaa5E0)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4",
+    "url": "https://stream-03.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v65-6MqXuntvW72UW3dEu4DZQf68e01R8AlQVuxaa5E0)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4",
     "logo": "https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png",
     "group": "general"
   },
@@ -23,15 +23,8 @@
   {
     "id": "CanalLibras.br",
     "name": "Canal Libras",
-    "url": "https://stream-01.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls8Zf9CLjLxyJ8WYV3hybuTu8zUsbzItruWvah_nPoVQ1)/dm/3/x8a60g5/d/live-4.m3u8#cell=lsv4",
+    "url": "https://stream-03.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls8Zf9CLjLxyJ8WYV3hybuTu8zUsbzItruWvah_nPoVQ1)/dm/3/x8a60g5/d/live-4.m3u8#cell=lsv4",
     "logo": "https://i.imgur.com/7kRysMu.png",
     "group": "culture"
-  },
-  {
-    "id": "TVT.br",
-    "name": "TVT",
-    "url": "https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G4vZLbE678lYHCPyUEtkki8t51SmfuyrZmKjEir7ENmW)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4",
-    "logo": "https://cdn.mitvstatic.com/channels/br_tvt_m.png",
-    "group": "general"
   }
 ]
