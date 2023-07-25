@@ -2,14 +2,14 @@
   {
     "id": "PowerRangersTV.br",
     "name": "PowerRangers TV",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690254687/ei/_-i-ZMOVELWh_9EP6eGNqAY/ip/20.42.14.219/id/gkRMKhX4bX8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Ul2Sq1Z3GvMS5Z8dY4iAwCXgl6sveCielH0M4Sw0Cw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJThxIoJSpVo4BK_sHm6QXYGf5FwGexYX_Ny7jTYyjIoCIQDHQF7W0BGpP7F13GXI0F7vOJXkTekimXUpUtjdvwyo9w%3D%3D/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690269249/ei/4SG_ZP6tA4fAir4Pn_ONMA/ip/40.84.220.96/id/gkRMKhX4bX8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Ul2Sq6xH1NBgOBUuFuoCe4ddm8HQbMZJjwYgmvI6jA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP2iww_ZDaDr7kSeibaJZ0kRMh3eEwTJMja8RWOCcHFjAiAZs1QQhgWxeAfTv9tQAlTTiTW7eEPWEJ-LC4ZrDsPZLg%3D%3D/file/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp",
     "group": "series"
   },
   {
     "id": "TVGazeta.br",
     "name": "TV Gazeta",
-    "url": "https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9Wrr32MITxhyMSQaoN61KsW3c7yVTJKVQbxx8gHsqNb)/dm/3/x89qors/s/live-4.m3u8#cell=lnyc",
+    "url": "https://stream-02.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9Wrr32MITxhyMSQaoN61KsW3c7yVTJKVQbxx8gHsqNb)/dm/3/x89qors/s/live-4.m3u8#cell=lsv4",
     "logo": "https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png",
     "group": "general"
   }
