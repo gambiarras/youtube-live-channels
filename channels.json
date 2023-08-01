@@ -2,14 +2,14 @@
   {
     "id": "PowerRangersTV.br",
     "name": "PowerRangers TV",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690924336/ei/0CDJZJb9Np3_ir4Pi4K4gAc/ip/40.84.172.124/id/HGy1N0v8kWE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Ul2SqzMUSNQCZ7-xgIgKI5UpeQ1Mw0uQk-6lWueFqA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgT_3oP4yf-ZswFBZLgWpqGeYMtnb1bNtWSaVOo5HGcRECIFfsBwBuJ18En4-aJTHdh_sHJr-GWk98icAMbfvULvmu/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690935294/ei/nkvJZPb8G66P_tcP08C7iAQ/ip/40.86.27.176/id/MeE1ZT3A2FE.1/source/yt_live_broadcast/requiressl/yes/tx/45170059/txs/45170058%2C45170059/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/Ul2Sq-OBmve7guoxXKAFL9ET-4S9WcraodR9s87b-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMK96souijRy4KR0TzXEw-vsdQrV9CyYvzf3qBSowVcEAiAB5aYF0IBE0dZNtWP2PACBFZWVAKnxXKpz8OoOB0ZfbA%3D%3D/file/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp",
     "group": "series"
   },
   {
     "id": "TVGazeta.br",
     "name": "TV Gazeta",
-    "url": "https://stream-02.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v1Y2B6QnRLuC4HjsewJYZJvCw-sm9pqq5lk_JHOdVGMO)/dm/3/x89qors/s/live-4.m3u8#cell=lsv4",
+    "url": "https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v1Y2B6QnRLuC4HjsewJYZJvCw-sm9pqq5lk_JHOdVGMO)/dm/3/x89qors/s/live-4.m3u8#cell=lnyc",
     "logo": "https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png",
     "group": "general"
   }
