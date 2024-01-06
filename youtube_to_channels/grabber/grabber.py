@@ -1,15 +1,14 @@
 import json
-import re
-import requests
+import streamlink
 
 from importlib import resources
 from models.channel import Channel
 
-__session = requests.Session()
-
 def __grab(url):
-    response = __session.get(url, timeout=15).text
-    return next(iter(re.findall(r"(?<=hlsManifestUrl\":\").*\.m3u8", response)), None)
+    streams = streamlink.streams(url)
+    stream = streams.get("best")
+
+    return None if stream is None else stream.url
 
 def channel_from(data):
     stream = __grab(data['url'])
@@ -22,11 +21,23 @@ def channel_from(data):
         data.get('group', 'web')
     )
 
-def fetch_channels():
-    with resources.open_text("resources", "youtube_channels.json") as file:
+def fetch_channels_from(resourse):
+    with resources.open_text("resources", resourse) as file:
         data = json.load(file)
 
         channels = list(map(channel_from, data))
 
         channels = [channel for channel in channels if channel.url is not None]
         return list(map(lambda channel: channel._asdict(), channels))
+
+def fetch_channels():
+    resources = [
+        "youtube_channels.json",
+        "twitch_channels.json"
+    ]
+
+    channels = []
+    for resource in resources:
+        channels.extend(fetch_channels_from(resource))
+
+    return channels
