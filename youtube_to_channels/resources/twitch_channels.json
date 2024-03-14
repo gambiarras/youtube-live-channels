@@ -4,11 +4,19 @@
       "name":"ChavesNaVila",
       "url":"https://twitch.tv/faixabranca",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/5243aefb-8e1f-49e7-8acb-224ac65278d9-profile_image-70x70.png",
-      "group": "series"
+      "group": "series",
+      "resolution": "720p"
     },
     {
       "id":"CHChannel00.tv",
       "name":"CHChannel00",
+      "url":"https://www.twitch.tv/chchannel00",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/b2749950-324b-4a3a-9495-786c4e6ab63a-profile_image-70x70.png",
+      "group": "series"
+    },
+    {
+      "id":"CHChannel01.tv",
+      "name":"CHChannel01",
       "url":"https://www.twitch.tv/chchannel01",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/b2749950-324b-4a3a-9495-786c4e6ab63a-profile_image-70x70.png",
       "group": "series"
@@ -21,18 +29,19 @@
       "group": "series"
     },
     {
-      "id":"TheMalucoBR.tv",
-      "name":"TheMalucoBR",
+      "id":"HDeterno.tv",
+      "name":"HDeterno",
       "url":"https://www.twitch.tv/hdeterno",
-      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/c6256935-f126-465b-ad7e-fd536970ca3d-profile_image-70x70.png",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/2f8a38f8-41d4-4c79-afaa-ccc4fdb5b158-profile_image-70x70.png",
       "group": "series"
     },
     {
       "id":"TodoMundoOdeiaOChris.tv",
       "name":"Todo Mundo Odeia o Chris",
-      "url":"https://www.twitch.tv/todomundoodeiaochris____",
+      "url":"https://www.twitch.tv/todomundohd",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/4ee6539c-82ec-4685-ac9f-4e6bc996cfaf-profile_image-70x70.png",
-      "group": "series"
+      "group": "series",
+      "resolution": "1080p"
     },
     {
       "id":"EuaPatroaEasCrias.tv",
@@ -42,24 +51,17 @@
       "group": "series"
     },
     {
-      "id":"2homens3metade.tv",
-      "name":"2 Homens e Meio",
-      "url":"https://www.twitch.tv/2homens3metade",
-      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/7d35cbd7-18a0-4374-b841-317d936dc46a-profile_image-70x70.png",
+      "id":"TodoMundoOdeiaOChris2.tv",
+      "name":"Todo Mundo Odeia o Chris 2",
+      "url":"https://www.twitch.tv/todomundofullhd",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/4ee6539c-82ec-4685-ac9f-4e6bc996cfaf-profile_image-70x70.png",
       "group": "series"
     },
     {
-      "id":"mixtvseries.tv",
-      "name":"Mix TV Series",
-      "url":"https://www.twitch.tv/theseries_br",
-      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/f88ebcf0-4728-418b-85ce-662de718c9cf-profile_image-70x70.png",
+      "id":"Anos80.tv",
+      "name":"Anos80 TV",
+      "url":"https://www.twitch.tv/anos80_tv",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/8e0f7620-0176-4cde-8c26-0ae3389da009-profile_image-70x70.png",
       "group": "series"
-    },
-    {
-        "id":"mixtvseries2.tv",
-        "name":"Mix TV Series 2",
-        "url":"https://www.twitch.tv/mixtvseries2",
-        "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/f88ebcf0-4728-418b-85ce-662de718c9cf-profile_image-70x70.png",
-        "group": "series"
     }
   ]
