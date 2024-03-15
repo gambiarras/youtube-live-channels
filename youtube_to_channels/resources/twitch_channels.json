@@ -1,8 +1,16 @@
 [
     {
+      "id":"FaixaBranca.tv",
+      "name":"FaixaBranca",
+      "url":"https://twitch.tv/faixabranca",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/5243aefb-8e1f-49e7-8acb-224ac65278d9-profile_image-70x70.png",
+      "group": "series",
+      "resolution": "720p"
+    },
+    {
       "id":"ChavesNaVila.tv",
       "name":"ChavesNaVila",
-      "url":"https://twitch.tv/faixabranca",
+      "url":"https://www.twitch.tv/chavesnavila",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/5243aefb-8e1f-49e7-8acb-224ac65278d9-profile_image-70x70.png",
       "group": "series",
       "resolution": "720p"
@@ -33,7 +41,8 @@
       "name":"HDeterno",
       "url":"https://www.twitch.tv/hdeterno",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/2f8a38f8-41d4-4c79-afaa-ccc4fdb5b158-profile_image-70x70.png",
-      "group": "series"
+      "group": "series",
+      "resolution": "720p"
     },
     {
       "id":"TodoMundoOdeiaOChris.tv",
