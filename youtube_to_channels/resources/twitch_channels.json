@@ -52,6 +52,13 @@
       "resolution": "1080p"
     },
     {
+      "id":"TodoMundoHD.tv",
+      "name":"Todo Mundo Odeia o Chris 3",
+      "url":"https://www.twitch.tv/familia_4_0",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/4ee6539c-82ec-4685-ac9f-4e6bc996cfaf-profile_image-70x70.png",
+      "group": "series"
+    },
+    {
       "id":"EuaPatroaEasCrias.tv",
       "name":"Eu a Patroa e as Crianças",
       "url":"https://www.twitch.tv/euapatroaeascrias",
@@ -70,6 +77,13 @@
       "name":"Anos80 TV",
       "url":"https://www.twitch.tv/anos80_tv",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/8e0f7620-0176-4cde-8c26-0ae3389da009-profile_image-70x70.png",
+      "group": "series"
+    },
+    {
+      "id":"OsAmarelosUltraHD.tv",
+      "name":"Os Amarelos TV",
+      "url":"https://www.twitch.tv/osamarelosultrahd",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/923ad3db-b2d1-4eb2-82ef-74b5e3f967a6-profile_image-70x70.png",
       "group": "series"
     }
   ]
