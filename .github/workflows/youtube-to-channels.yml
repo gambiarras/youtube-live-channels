@@ -1,7 +1,7 @@
 name: 'Generate streams links from YouTube live channels'
 on:
   schedule: ## Schedule to run every three hours
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/1 * * *'
   
   pull_request:
     branches:
