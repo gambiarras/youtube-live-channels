@@ -5,9 +5,14 @@ from importlib import resources
 from models.channel import Channel
 
 def __grab(url, resolution):
-    streams = streamlink.streams(url)
-    stream = streams.get(resolution)
-    return None if stream is None else stream.url
+    try:
+        streams = streamlink.streams(url)
+        stream = streams.get(resolution)
+        return None if stream is None else stream.url
+    except:
+        pass
+    
+    return None
 
 def channel_from(data):
     resolution = "best" if data.get('resolution') is None else data.get('resolution')
