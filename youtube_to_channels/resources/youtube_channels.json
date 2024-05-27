@@ -71,7 +71,7 @@
     },
     {
       "id":"GamesBrTv.br",
-      "name":"Chaves 24H",
+      "name":"Series 24H",
       "url":"https://www.youtube.com/@gamesbrcx/live",
       "logo":"https://yt3.ggpht.com/dKQtcUMO88qm33EKTBo85DlyG0Zjrc4ABmaWlck_OeEMd6igd7nWJ5y-4L0uQr_6JZSO7MSjkAc=s88-c-k-c0x00ffffff-no-rj",
       "group": "series"
@@ -85,9 +85,23 @@
     },
     {
       "id":"GamesBrTv2.br",
-      "name":"Chaves 24H 3",
-      "url":"https://www.youtube.com/watch?v=5xTyXmDh4Zk",
+      "name":"Chaves 24H",
+      "url":"https://www.youtube.com/watch?v=lg4tGSq4h-I",
       "logo":"https://yt3.ggpht.com/dKQtcUMO88qm33EKTBo85DlyG0Zjrc4ABmaWlck_OeEMd6igd7nWJ5y-4L0uQr_6JZSO7MSjkAc=s88-c-k-c0x00ffffff-no-rj",
+      "group": "series"
+    },
+    {
+      "id":"GamesBrTv2.br",
+      "name":"Chaves 24H 2",
+      "url":"https://www.youtube.com/watch?v=OzeaNSuz-cI",
+      "logo":"https://yt3.ggpht.com/dKQtcUMO88qm33EKTBo85DlyG0Zjrc4ABmaWlck_OeEMd6igd7nWJ5y-4L0uQr_6JZSO7MSjkAc=s88-c-k-c0x00ffffff-no-rj",
+      "group": "series"
+    },
+    {
+      "id":"shout-studios.tv",
+      "name":"Shout! Studios - Alf",
+      "url":"https://www.youtube.com/watch?v=0BC0gVmuEXE",
+      "logo":"https://yt3.ggpht.com/0masu5Vo2cDmgPSxqhKe2zGpvIWYbOUurDSxT31WHWXdwfS1bQ9ttkgi6wvoIyuSYVBIODSu=s88-c-k-c0x00ffffff-no-rj",
       "group": "series"
     }
   ]
