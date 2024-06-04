@@ -27,11 +27,7 @@
 
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
-				"ms-python.python",
-				"ms-python.vscode-pylance",
-				"arcticicestudio.nord-visual-studio-code",
-				"af4jm.vscode-m3u"
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	}
