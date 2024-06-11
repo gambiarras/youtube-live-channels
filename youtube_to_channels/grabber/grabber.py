@@ -1,12 +1,16 @@
 import json
-import streamlink
 
 from importlib import resources
 from models.channel import Channel
+from plugins import kick
+from streamlink import Streamlink
+
+session = Streamlink()
+session.plugins.update({"kick": kick.KICK})
 
 def __grab(url, resolution):
     try:
-        streams = streamlink.streams(url)
+        streams = session.streams(url)
         stream = streams.get(resolution)
         return None if stream is None else stream.url
     except:
