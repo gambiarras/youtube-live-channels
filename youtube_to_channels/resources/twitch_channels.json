@@ -11,7 +11,34 @@
       "name":"Chaves 24horas",
       "url":"https://www.twitch.tv/chaves24horascanal",
       "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/7c1f0ebb-ff25-4ea5-8363-9bce6f32546a-profile_image-70x70.png",
-      "group": "series",
-      "resolution": "720p"
+      "group": "series"
+    },
+    {
+      "id":"tosembolo.tv",
+      "name":"Chaves 24horas 2",
+      "url":"https://www.twitch.tv/tosembolo",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/7c1f0ebb-ff25-4ea5-8363-9bce6f32546a-profile_image-70x70.png",
+      "group": "series"
+    },
+    {
+      "id":"euapatroaeascrias.tv",
+      "name":"EuaPatroaEasCriancas",
+      "url":"https://www.twitch.tv/euapatroaeascrias",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ccd73e5c-3bd4-4e4c-af01-053921e75087-profile_image-70x70.png",
+      "group": "series"
+    },
+    {
+      "id":"todomundoultrahd.tv",
+      "name":"TodoMundoUltraHD",
+      "url":"https://www.twitch.tv/todomundoultrahd",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/03d092dc-a0e5-44de-accb-ebdd31f57712-profile_image-70x70.png",
+      "group": "series"
+    },
+    {
+      "id":"aventuradogreg.tv",
+      "name":"AventuraDoGreg",
+      "url":"https://www.twitch.tv/aventuradogreg",
+      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/f7497cb9-c162-404b-8247-d487a145fa0c-profile_image-70x70.png",
+      "group": "series"
     }
   ]
