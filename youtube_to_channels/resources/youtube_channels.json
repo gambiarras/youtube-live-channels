@@ -21,6 +21,13 @@
       "group": "general"
     },
     {
+      "id":"SBTNacional.br",
+      "name":"SBT - YouTube",
+      "url":"https://www.youtube.com/@sbt/live",
+      "logo":"https://cdn.mitvstatic.com/channels/br_sbt_m.png",
+      "group": "general"
+    },
+    {
       "id":"JovemPanNews.br",
       "name":"Jovem Pan Live",
       "url":"https://www.youtube.com/@jovempannews/live",
@@ -72,7 +79,7 @@
     {
       "id":"nino_tv_.br",
       "name":"Chaves 24H - YouTube",
-      "url":"https://www.youtube.com/@victoorlives/live",
+      "url":"https://www.youtube.com/@AironMedo/live",
       "logo":"",
       "group": "series"
     },
@@ -103,5 +110,19 @@
       "url":"https://www.youtube.com/watch?v=qQMwtMpMAa4",
       "logo":"https://yt3.ggpht.com/0masu5Vo2cDmgPSxqhKe2zGpvIWYbOUurDSxT31WHWXdwfS1bQ9ttkgi6wvoIyuSYVBIODSu=s88-c-k-c0x00ffffff-no-rj",
       "group": "series"
+    },
+    {
+      "id":"classic-mr-bean.tv",
+      "name":"Classic Mr Bean",
+      "url":"https://www.youtube.com/@ClassicMrBean/live",
+      "logo":"https://yt3.ggpht.com/er0IYBx2fOrUdTheL_zI5MRTBuAJPpBqBWqsQxvX-X3h71gjISb6K0Hp02PkE083hiN2qCRw=s88-c-k-c0x00ffffff-no-rj",
+      "group": "series"
+    },
+    {
+      "id":"tvc-youtube.tv",
+      "name":"TV Correio da Manhã",
+      "url":"https://www.youtube.com/c/TVCorreiodaManh%C3%A3/live",
+      "logo":"https://yt3.ggpht.com/ygMbu6lhpO4HV0hqceunzUNG_dqkdyOIrmr1VrtZfC8F48pyK8NFBw3Vn6P3YFmDJDq24YjFHA=s88-c-k-c0x00ffffff-no-rj",
+      "group": "general"
     }
   ]
