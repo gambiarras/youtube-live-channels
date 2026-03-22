@@ -4,16 +4,15 @@ $url kick.com
 $type live, vod
 """
 
-import re
-import cloudscraper
 import logging
+import re
 
+import cloudscraper
+from streamlink import Streamlink
+from streamlink.exceptions import PluginError
 from streamlink.plugin import Plugin, pluginmatcher
 from streamlink.plugin.api import validate
-from streamlink.stream import HLSStream
-from streamlink.utils.parse import parse_json
-from streamlink.exceptions import PluginError
-from streamlink import Streamlink
+from streamlink.stream.hls import HLSStream
 
 
 log = logging.getLogger(__name__)
@@ -21,14 +20,12 @@ log = logging.getLogger(__name__)
 
 @pluginmatcher(
     re.compile(
-        # https://github.com/yt-dlp/yt-dlp/blob/9b7a48abd1b187eae1e3f6c9839c47d43ccec00b/yt_dlp/extractor/kick.py#LL33-L33C111
         r"https?://(?:www\.)?kick\.com/(?!(?:video|categories|search|auth)(?:[/?#]|$))(?P<channel>[\w_-]+)$",
     ),
     name="live",
 )
 @pluginmatcher(
     re.compile(
-        # https://github.com/yt-dlp/yt-dlp/blob/2d5cae9636714ff922d28c548c349d5f2b48f317/yt_dlp/extractor/kick.py#LL84C18-L84C104
         r"https?://(?:www\.)?kick\.com/video/(?P<video_id>[\da-f]{8}-(?:[\da-f]{4}-){3}[\da-f]{12})",
     ),
     name="vod",
@@ -41,9 +38,9 @@ log = logging.getLogger(__name__)
 )
 class KICK(Plugin):
     def _get_streams(self):
-        API_BASE_URL = "https://kick.com/api"
+        api_base_url = "https://kick.com/api"
 
-        _LIVE_SCHEMA = validate.Schema(
+        live_schema = validate.Schema(
             validate.parse_json(),
             {
                 "playback_url": validate.url(path=validate.endswith(".m3u8")),
@@ -64,7 +61,7 @@ class KICK(Plugin):
             ),
         )
 
-        _VIDEO_SCHEMA = validate.Schema(
+        video_schema = validate.Schema(
             validate.parse_json(),
             {
                 "source": validate.url(path=validate.endswith(".m3u8")),
@@ -84,7 +81,7 @@ class KICK(Plugin):
             ),
         )
 
-        _CLIP_SCHEMA = validate.Schema(
+        clip_schema = validate.Schema(
             validate.parse_json(),
             {
                 "clip": {
@@ -104,17 +101,16 @@ class KICK(Plugin):
             ),
         )
 
-        live, vod, clip = (
-            self.matches["live"],
-            self.matches["vod"],
-            self.matches["clip"],
-        )
+        live = self.matches["live"]
+        vod = self.matches["vod"]
+        clip = self.matches["clip"]
+
+        scraper = cloudscraper.create_scraper()
 
         try:
-            scraper = cloudscraper.create_scraper()
-            res = scraper.get(
+            response = scraper.get(
                 "{0}/{1}/{2}".format(
-                    API_BASE_URL,
+                    api_base_url,
                     *(
                         ["v1/channels", self.match["channel"]]
                         if live
@@ -124,29 +120,38 @@ class KICK(Plugin):
                             else ["v2/clips", self.match["clip_id"]]
                         )
                     )
-                )
+                ),
+                timeout=20,
             )
+            response.raise_for_status()
 
-            url, self.id, self.author, self.title, self.category = (
-                _LIVE_SCHEMA if live else (_VIDEO_SCHEMA if vod else _CLIP_SCHEMA)
-            ).validate(res.text)
+            schema = live_schema if live else (video_schema if vod else clip_schema)
+            url, self.id, self.author, self.title, self.category = schema.validate(response.text)
 
-        except (PluginError, TypeError) as err:
-            log.debug(err)
-            return
-        
+        except (PluginError, TypeError, ValueError) as err:
+            log.debug("Kick plugin validation failed: %s", err)
+            return None
+        except Exception as err:
+            log.debug("Kick API request failed: %s", err)
+            return None
         finally:
             scraper.close()
 
         if live or vod:
-            yield from HLSStream.parse_variant_playlist(self.session, url).items()
-        elif (
-            clip and self.author.casefold() == self.match["channel"].casefold()
-        ):  # Sanity check if the clip channel is the same as the one in the URL
-            yield "source", HLSStream(self.session, url)
+            try:
+                return HLSStream.parse_variant_playlist(self.session, url)
+            except Exception as err:
+                log.debug("Kick variant playlist parsing failed, falling back to direct HLS: %s", err)
+                return {"live": HLSStream(self.session, url)}
+
+        if clip and self.author.casefold() == self.match["channel"].casefold():
+            return {"source": HLSStream(self.session, url)}
+
+        return None
 
 
 __plugin__ = KICK
+
 
 def register_kick_plugin(session: Streamlink) -> None:
     session.plugins.update({"kick": KICK})
