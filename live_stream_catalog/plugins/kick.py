@@ -13,6 +13,7 @@ from streamlink.plugin.api import validate
 from streamlink.stream import HLSStream
 from streamlink.utils.parse import parse_json
 from streamlink.exceptions import PluginError
+from streamlink import Streamlink
 
 
 log = logging.getLogger(__name__)
@@ -146,3 +147,6 @@ class KICK(Plugin):
 
 
 __plugin__ = KICK
+
+def register_kick_plugin(session: Streamlink) -> None:
+    session.plugins.update({"kick": KICK})
