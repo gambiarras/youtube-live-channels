@@ -1,8 +1,6 @@
 from live_stream_catalog.cli import parse_args
 from live_stream_catalog.config import AppConfig
 from live_stream_catalog.logging_config import configure_logging
-from live_stream_catalog.services.build import run_build
-from live_stream_catalog.services.refresh import run_refresh
 
 
 def main() -> None:
@@ -12,10 +10,14 @@ def main() -> None:
     configure_logging(config.log_level)
 
     if args.command == "build":
+        from live_stream_catalog.services.build import run_build
+
         run_build(config)
         return
 
     if args.command == "refresh":
+        from live_stream_catalog.services.refresh import run_refresh
+
         run_refresh(config)
         return
 

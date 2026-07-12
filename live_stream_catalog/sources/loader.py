@@ -24,20 +24,14 @@ def _load_single_resource(resource_name: str, source_type: str, default_resoluti
 
 
 def _deduplicate(channels: list[Channel]) -> list[Channel]:
-    seen_ids: set[str] = set()
     seen_urls: set[str] = set()
     result: list[Channel] = []
 
     for channel in channels:
-        if channel.id in seen_ids:
-            logger.warning("Duplicate channel id skipped: %s", channel.id)
-            continue
-
         if channel.source_url in seen_urls:
             logger.warning("Duplicate source URL skipped: %s", channel.source_url)
             continue
 
-        seen_ids.add(channel.id)
         seen_urls.add(channel.source_url)
         result.append(channel)
 
