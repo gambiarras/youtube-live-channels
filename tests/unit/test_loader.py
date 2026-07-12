@@ -49,7 +49,8 @@ class LoaderTest(unittest.TestCase):
             ),
         ]
 
-        result = _deduplicate(channels)
+        with self.assertLogs("live_stream_catalog.sources.loader", level="WARNING"):
+            result = _deduplicate(channels)
 
         self.assertEqual(result, [channels[0]])
 
