@@ -14,6 +14,13 @@ dependencies = [
 [project.scripts]
 live-stream-catalog = "live_stream_catalog.__main__:main"
 
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["live_stream_catalog*"]
+
+[tool.setuptools.package-data]
+"live_stream_catalog.resources" = ["*.json"]
+
 [build-system]
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
