@@ -2,6 +2,7 @@ import logging
 import re
 from dataclasses import dataclass
 from html.parser import HTMLParser
+from importlib import resources
 from urllib.parse import urlencode, urljoin
 
 import requests
@@ -24,6 +25,8 @@ DEFAULT_HEADERS = {
 
 SUPABASE_URL_PATTERN = re.compile(r"https://[a-zA-Z0-9.-]+\.supabase\.co")
 JWT_PATTERN = re.compile(r"eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+")
+SCRIPT_DISCOVERED_SOURCE_TYPE = "script_discovered"
+CONFIG_RESOURCE_NAME = "script_discovered_catalogs.json"
 
 
 class ScriptParser(HTMLParser):
@@ -59,6 +62,31 @@ class DiscoveredRestCatalog:
 
 class DiscoveryError(RuntimeError):
     pass
+
+
+@dataclass(slots=True, frozen=True)
+class ScriptDiscoveredCatalogConfig:
+    id: str
+    site_url: str
+    source_type: str = SCRIPT_DISCOVERED_SOURCE_TYPE
+    table_name: str = "channels"
+    select: str = "*,categories(name)"
+    filters: dict[str, str] | None = None
+    order: str | None = "channel_number.asc"
+    timeout: int = 30
+
+    @classmethod
+    def from_dict(cls, data: dict) -> "ScriptDiscoveredCatalogConfig":
+        return cls(
+            id=data["id"],
+            site_url=data["site_url"],
+            source_type=data.get("source_type", SCRIPT_DISCOVERED_SOURCE_TYPE),
+            table_name=data.get("table_name", "channels"),
+            select=data.get("select", "*,categories(name)"),
+            filters=data.get("filters", {"is_active": "eq.true"}),
+            order=data.get("order", "channel_number.asc"),
+            timeout=int(data.get("timeout", 30)),
+        )
 
 
 def _fetch_text(session: requests.Session, url: str, timeout: int) -> str:
@@ -158,19 +186,124 @@ def _category_name(row: dict) -> str:
     return "web"
 
 
-def row_to_channel(row: dict, source_type: str, default_resolution: str = "best") -> Channel:
+def _row_status(row: dict, stream_url: str | None) -> str:
+    if not stream_url:
+        return "offline"
+
+    status = str(row.get("stream_status") or "active").casefold()
+    if status in {"inactive", "offline", "down", "error"}:
+        return "offline"
+
+    return "resolved"
+
+
+def _row_id(row: dict) -> str:
+    value = (
+        row.get("epg_slug")
+        or row.get("slug")
+        or row.get("channel_number")
+        or row.get("id")
+        or row.get("name")
+    )
+    return str(value)
+
+
+def row_to_channel(
+    row: dict,
+    source_type: str,
+    default_resolution: str = "best",
+    id_prefix: str | None = None,
+) -> Channel:
     stream_url = row.get("stream_url") or row.get("url")
-    channel_id = row.get("id") or row.get("slug") or row.get("channel_number") or row.get("name")
+    base_id = _row_id(row)
+    channel_id = f"{id_prefix}.{base_id}" if id_prefix else base_id
 
     return Channel(
-        id=str(channel_id),
-        name=str(row.get("name") or channel_id),
-        source_url=str(stream_url or ""),
+        id=channel_id,
+        name=str(row.get("name") or base_id),
+        source_url=str(row.get("source_url") or stream_url or ""),
         logo=str(row.get("logo_url") or row.get("logo") or ""),
         group=_category_name(row),
         source_type=source_type,
         resolution=default_resolution,
         stream_url=stream_url,
-        status="resolved" if stream_url else "offline",
+        status=_row_status(row, stream_url),
         ttl_seconds=None,
+    )
+
+
+def load_config_resource() -> list[ScriptDiscoveredCatalogConfig]:
+    resource = resources.files("live_stream_catalog.resources").joinpath(CONFIG_RESOURCE_NAME)
+    if not resource.is_file():
+        return []
+
+    raw = resource.read_text(encoding="utf-8")
+    import json
+
+    return [ScriptDiscoveredCatalogConfig.from_dict(item) for item in json.loads(raw)]
+
+
+def load_rest_catalog_channels(
+    configs: list[ScriptDiscoveredCatalogConfig],
+    default_resolution: str = "best",
+    session: requests.Session | None = None,
+    continue_on_error: bool = True,
+) -> list[Channel]:
+    owns_session = session is None
+    session = session or requests.Session()
+    channels: list[Channel] = []
+
+    try:
+        for config in configs:
+            try:
+                catalog = discover_rest_catalog(
+                    config.site_url,
+                    session=session,
+                    timeout=config.timeout,
+                )
+                rows = fetch_rest_catalog_rows(
+                    catalog,
+                    table_name=config.table_name,
+                    select=config.select,
+                    filters=config.filters,
+                    order=config.order,
+                    session=session,
+                    timeout=config.timeout,
+                )
+            except Exception as exc:
+                logger.exception(
+                    "Failed to load script-discovered catalog id=%s url=%s error=%s",
+                    config.id,
+                    config.site_url,
+                    exc,
+                )
+                if not continue_on_error:
+                    raise
+                continue
+
+            channels.extend(
+                row_to_channel(
+                    row,
+                    source_type=config.source_type,
+                    default_resolution=default_resolution,
+                    id_prefix=config.id,
+                )
+                for row in rows
+            )
+
+    finally:
+        if owns_session:
+            session.close()
+
+    return channels
+
+
+def load_configured_rest_catalogs(
+    default_resolution: str = "best",
+    continue_on_error: bool = True,
+) -> list[Channel]:
+    return load_rest_catalog_channels(
+        load_config_resource(),
+        default_resolution=default_resolution,
+        continue_on_error=continue_on_error,
     )
