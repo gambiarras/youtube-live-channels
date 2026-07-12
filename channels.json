@@ -11,7 +11,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.731728+00:00",
+    "resolved_at": "2026-07-12T06:43:53.345007+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -19,33 +19,33 @@
     "id": "BRCartoonNetworkvideos.br.6suNyB7aXx8",
     "name": "Cartoon Network Brasil - 😱🏃🏻 ESCAPANDO COM MUITA CRIATIVIDADE 🚨😲 | LAMPUT | CARTOON NETWORK",
     "source_url": "https://www.youtube.com/watch?v=6suNyB7aXx8",
-    "logo": "https://i.ytimg.com/vi/6suNyB7aXx8/hqdefault.jpg?v=6a4d5b1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzq8PH_4ghta3E4iSwnaP5QnPemA",
+    "logo": "https://i.ytimg.com/vi/6suNyB7aXx8/hqdefault.jpg?v=6a4d5b1f&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCAmNc3yIaVAmm5ntbEBrt2h5WifQ",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=6suNyB7aXx8 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D6suNyB7aXx8&q=EgSKdd3TGProzNIGIjBP2RU5VXJDn2hE3-KfiNPWDXjbypX3N-K7QN4hvGkbRqe6F9mJTIP7lXqCeyiJP1kyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.947344+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860235/ei/qzdTarOPFPue-LAP_IXZ6A8/ip/138.117.221.211/id/6suNyB7aXx8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhOhPC1XfYsfmcEyvlIm4L8gy-ps5UtWfJSrdmiLAB0jXST4R2qz0_izEkHdNwUBesnY-afBPS3L/spc/SQ-umo_-5AqaZ1vdHx3DTp-8Z2gYrJQqBYhw88SF9vClLOIX3YoBXOJqGeKoNQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838635,/mh/gJ/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAN-EMaIWDsjWmkgZkn6XE9iHuQTRZrcwZAoJ8nWaLlcOAiEAgaFylvvKXc_a7fwE8F2IJ2xHsbnpOLvn16Xr8788rY0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgO_Al9QDrJUURdWYnkdC8vyZu2MdqSL01DB-7E4XFHE0CIQC3v96Hx_10FC5QOmP2T1TFKsXapJZRtmenW80ZwYWfXA%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:55.852282+00:00",
+    "expires_at": "2026-07-12T12:43:55+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "Caze.tv.Mh9xGj3XOPM",
     "name": "CazéTV - VAI PEGAR FOGO! ARGENTINA E INGLATERRA VOLTAM A SE ENFRENTAR! | LIVE DA MADRUGADA",
     "source_url": "https://www.youtube.com/watch?v=Mh9xGj3XOPM",
-    "logo": "https://i.ytimg.com/vi/Mh9xGj3XOPM/hqdefault.jpg?v=6a5329dd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA32SYFtxT3Kb3fhYNxmh2wwk0p0Q",
+    "logo": "https://i.ytimg.com/vi/Mh9xGj3XOPM/hqdefault.jpg?v=6a5329dd&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBYwfJxnxB6Y0lq678LaWlfCC4g9Q",
     "group": "sports",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=Mh9xGj3XOPM (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DMh9xGj3XOPM&q=EgSKdd3TGPnozNIGIjDSSulW0mcDIbEEdFJlEp8Fv7U0-Oc0yFh7uJF8f1sJZoZhLdHeUD54GB5C-v5Cp7cyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.039622+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860233/ei/qTdTatiYN7eYobIPrIAk/ip/138.117.221.211/id/Mh9xGj3XOPM.2~45367093/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/bui/AZFlqhMsNpx9NRRY-NEJlRELwgbUyJm7ASifacmAWef5f1T2kJ6GTQOSlCCN2oCSgEoVH00wzeKedUy9/spc/SQ-umpSIjjpHP0VBmr5mtgcCnXHRB9VIF6_Yhy-gbRVhrmyVl-m2C6fECij3Sw/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/3763750/met/1783838634,/mh/Iw/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,ss,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPjrFcBIT3GUsWLZxkK2bZ19AkzkVcqdvwkze21SDp2QAiB8s6zacAzEvg_0-3NAL45qSV60oo_BbhffCE1ca5JNsQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgTzMo31Nz-OnOrG-SrML2s2n0Jxr8RtCtc44d9VMJAMECIQDloG6KJdJa2rWh68ObcCH--qCYTqOmZH1z9g8dF2m5hA%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:54.440674+00:00",
+    "expires_at": "2026-07-12T12:43:53+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "chapolin24horascanal.tv",
@@ -59,7 +59,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.454812+00:00",
+    "resolved_at": "2026-07-12T06:43:56.378439+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -75,7 +75,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.459876+00:00",
+    "resolved_at": "2026-07-12T06:43:52.896089+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -91,7 +91,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.735631+00:00",
+    "resolved_at": "2026-07-12T06:43:52.790118+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -107,7 +107,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.467340+00:00",
+    "resolved_at": "2026-07-12T06:43:52.628893+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -120,10 +120,10 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/Cq8FTWlc6AOU7xXUPMXjp57_DLb-ChfSm6Vybqd3xcSN9NeZ7n8T6jIkOg_CQHsYlNQCwFKqvgE4K9F0YZqMJJf2p2wMGr8q105Ft_qHTvDtwO1QxgvUiHwfYxc0TPYymJFppbmlFpxn7OW3KZb88Hyzu1i-4msy2tc8hflAHWrjeUIKja0J4Uli9fbTh6gRHuH2LEtk76dhHFSxP5G9KauP6lBj4aK6nJziwU0v_pQOVOEcWbUdm7QAP_SmZj1D1_4Ec64qOlRyX0IVEFH8U4rrEBYUjuXnpA_etDJUjLXKJYaX5KJIOoQkuUwJmKg4dBo5DVBxbEhb8BISGfHzHWIl91KBuEDlEbHP59-d_WRqJrT2NRdk6pUGes4Db3FjJgnLH2v0mmDFT8aO0-iAsXnL-hU-OuWhxMDf22fbw0lQGbnN6akVCxI2QF-nFLYtSCGnVVM9eHUh_8Vb8urwiz3sEnlB5zny5WVSLyEusEXJELSYsgbP96wVnZw64npTRaleAQXTG5HlTYYbYKqcBhC9-mdqEY7_E5fUf7-JL52DuVFkBiiPhXTDlxPrWcCNRucM9Ada9dBN4GqNvJXt1cw3DfbaQQCXlIVBiKos2d6cfHkTWED2CVhgqzFPNZQcMDLBa2hnoghqaJJyz0-6HZIvkvHrqWmO6CF0TEZq5z_CW6dDxQDe_Ils27ScyNSlhzRLspdWIDJiyhjJpnU7C4rqCDQFbIOCHRj3Lc5bjtTu-Ez6ZJw82YCVzZS1y8Fkk1lcYc6hNEqe2AUlISuxh3cQE9sFTvGKxYsgHBvOaX-lyn4-Uj86wmghT3KVYKsxhu7WUBt1DiOMmk9SE5TYzI-T7dYOYU6I9RSi5lMRUKsMHX2NFmiJeTFtov9ZLohGwdg0ctpVizlgf6cZzb1eEcDWGgyJkSt9QqH9_w57ZuEgASoJdXMtZWFzdC0yMMkP.m3u8",
+    "stream_url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/Cq4FYicDAhhx5KXKiMxyLm_FWfOjhQmJvHLwTg24j8Xop-R-T50mVrs20ATkDS7RY3fRUtVijL1_By1Qv2RFTPZqCb3e3n7Id_Y0dALVnU1qUra5ZXVV2AREPhE58WguviyrLINXuZoRbX6722dTqG_W_x3eyZ_erpejfLKFunOAym_3f4g5De9NkFkg_gQJyc-OuNk-CPLPxPhDr6XzvqcjxjVZYL8m6Q6LDsPz-CkaiJ4m7jc_NFZWJQwzVIiEmKOY6wG-oOpSfF57_hCOSWEt_WXmyRG4rRuwsEh3HoW5Uz8Wpaaa5FnN86xthn3IabxUKIrDLYri1FGyOJ80s6FeMeql6O1IBWfZHnxEIQgMUUNOAGnYPchXXgqm6QR_ECIbyKk-BBZ3VQ1OWuuL_qbjgA83i_iIeGwASO0CIjrJpuPgXePsuxf8ZgUVFsh-YxBXvMS6sWhg35WhyKHjFIN1TiMVerfY9ViiHAQxzwLenTJNzSzN9FP5fEEhgnRaHT6808DzjD0kk9Gc8TV_TlkTQMHxqxB-Xzok3k9KfXLCaly97AcAA8JGgeSXyEeaVAwr1M7mzHWqC9gfoqiA_yRJjK0ePDVwLcTbIxYApImotioezogGRQmbuWe075Y8KBLAU5R8Np2b01ZAXqoIXWK-hthOrTBejLT5i12AgIG0nhTmKyMRrjnO0hNrOlPpQ3fAMbtYtbLXx9JtlEdAFQOPBRuWmz7iRNqpl1cakDBdKEakmv41FbLg_3zRj-CZMhWSDC47hXlZkMGqPXD4kDZIN3OtP5RUUtGdgGc9pon9W1CJ2AU5OW-Ottqx64ns0ELXZ4ICS6K8b6zgISAA7lR7b7sATDXEhmFNxjb0FC-Hxh8V7nGTvkK8voUhiNvJLe07KNk0XvbUKJ2vJsyGkvYaDLYW4lqThs5EGCbyMyABKgl1cy1lYXN0LTIwyQ8.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T06:27:29.949257+00:00",
+    "resolved_at": "2026-07-12T06:43:54.591389+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -131,49 +131,49 @@
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
     "name": "Classic Mr Bean - Mr Bean Animated Best Compilations! 🔴LIVE - Watch 7/24",
     "source_url": "https://www.youtube.com/watch?v=8nORcRZ7gqs",
-    "logo": "https://i.ytimg.com/vi/8nORcRZ7gqs/hqdefault.jpg?v=69b9482b&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBJc53QQZdZMDxVPReyuJtyDpPQOA",
+    "logo": "https://i.ytimg.com/vi/8nORcRZ7gqs/hqdefault.jpg?v=69b9482b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLWVJq2tpARGPGtEJ_wNCbNNFW5A",
     "group": "series",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=8nORcRZ7gqs (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D8nORcRZ7gqs&q=EgSKdd3TGPvozNIGIjByiRcSNmWIRopgL5trUAYMIHwIGEvqbAqytUTRE_vi2gn2tLKPhiGjL3qpU3CEtv8yAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.454006+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860236/ei/rDdTarr3INOXg-UPn9CxsQE/ip/138.117.221.211/id/8nORcRZ7gqs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhOOMcLq44ujIA_T29eUebXirOBgi3nAGyHdLxJwpHV0arjX__zx93Im_LqKF86a-rnEI6WZli7I/spc/SQ-umitCYqn_Th4FIy_JZOpbn4Nf_rEb83MNoz8R3rfPZ0EG2Ab1NH2hoNqyww/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838637,/mh/Cr/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgCYBVJEU-Fx_TRpXSkwpsfgSFYaUhB06RPRYz5sjeJo8CIQC3i4pXaBARLxb8ZqT78ofwN_H-UhEyD_0lkUuiRDeAXw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJMudrIyoG_rPUjOxL7E_4fwoi80HTHMAydfbmNBqjqjAiEAh2krc547iruKq1jDyFZLm9JGfSh61yqkBvFuwWJwPLE%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:57.056755+00:00",
+    "expires_at": "2026-07-12T12:43:56+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "classic-mr-bean.tv.U__tcQKkU9w",
     "name": "Classic Mr Bean - Mr Bean Best Compilations Live Action | Classic Mr Bean 🔴 LIVE!",
     "source_url": "https://www.youtube.com/watch?v=U__tcQKkU9w",
-    "logo": "https://i.ytimg.com/vi/U__tcQKkU9w/hqdefault.jpg?v=69b9476d&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDW6bZGhxkm0EdDK6gqlNcUhkGvRw",
+    "logo": "https://i.ytimg.com/vi/U__tcQKkU9w/hqdefault.jpg?v=69b9476d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVyszW21SsmVk_8cCsC5lOuTISYw",
     "group": "series",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=U__tcQKkU9w (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DU__tcQKkU9w&q=EgSKdd3TGPvozNIGIjDlFQETq8j0u2MqcXKb3BwruxvRT3o_KYUjwl4x35CKvLJFM2MxZGmT5Q1Ab9Y-8koyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.453480+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860236/ei/rDdTas7jKtiyobIPj6DjEA/ip/138.117.221.211/id/U__tcQKkU9w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEVUa8N--351ObaqpXj_fK-8AYJRGoDKGiF3uF5Qmpi4PS71BZbhL687ePVMmwRHTMIQnpC7NK6t/spc/SQ-umj75zi-kFRzJWrKINumsxVOp_dasojSpXjRfsQs67BoUaJRQj4gKYlyuoA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838637,/mh/rf/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAPKoaM0_-RR4c4lYk3DriptL21zZMtmVdtw-Gn69d4EbAiEA7BF2fG-gEKndTbrm6et4SKOzhXaMXWWrnbV44AZvRGI%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJ-SBRUkkcUJgw8gEIRRF4sjgCjpTiFIstGPYQAVmF_5AiEAgOgN100YAB4vJ7pJ8kWBGoe2ZTqBYmLEc1pglPnpyc8%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:57.276167+00:00",
+    "expires_at": "2026-07-12T12:43:56+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "classic-mr-bean.tv.XQLEvieRMj4",
     "name": "Classic Mr Bean - Classic Mr Bean 🔴 LIVE! - All Episodes",
     "source_url": "https://www.youtube.com/watch?v=XQLEvieRMj4",
-    "logo": "https://i.ytimg.com/vi/XQLEvieRMj4/hqdefault.jpg?v=69a544a5&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB1v3gU6e4qbgElPo79QLGbT_Myyw",
+    "logo": "https://i.ytimg.com/vi/XQLEvieRMj4/hqdefault.jpg?v=69a544a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq7EW0uXrvIQor9jnyJt4mUBVANg",
     "group": "series",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=XQLEvieRMj4 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DXQLEvieRMj4&q=EgSKdd3TGPvozNIGIjA2S4pPbMkpsuEj1GQ4bWYjSiRSHYZzSyTeL-UntFNXL5EQxa031pDahUPX57GXPRoyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.705822+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860236/ei/rDdTau7gO-6dobIP-Kn7yA4/ip/138.117.221.211/id/XQLEvieRMj4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEUl2egvYf_2ibqcwphuDCEc591iF30lPysls8SQx5vQ0A4OhE-2HXBPUyYtEDo2dekcFKzqByjU/spc/SQ-umowVq3J0WrUCVanHJ2qIkyzYovsmE0Pr0JMxMkcOB7ioogdKDHOgc5McHw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838637,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgbTm2mHmMVT-aMb3u079tSTkq0dRN_xeLfNNyOa3AW88CID_5EJxxt6wP2rONJOCvHak5mAdHyaJ0gjIM_P0NFGr7/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPQfw_ZbMYu7tRc6jieDGOWQBjChSDZh1dJB_oaeRJeyAiBO7E3OZGZiAzA_aAwAuV5b-7OScqFIh-wG4aJpYkkHhg%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:57.514962+00:00",
+    "expires_at": "2026-07-12T12:43:56+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "CNNbrasil.tv.8Lk3suDtUQA",
@@ -184,12 +184,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=8Lk3suDtUQA (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D8Lk3suDtUQA&q=EgSKdd3TGProzNIGIjBmVfDQRMFXmwEC5_h2XRdEBK0QMGTYAXQ5BeR3_BipFD08rdPkZ1jk2rIqJ2jcigcyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.046178+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860236/ei/rDdTarTMKsb6-LAPwvH9mAk/ip/138.117.221.211/id/8Lk3suDtUQA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhP_sQ38g7zbRkz7CxIoe5WCN8UzU_kC-U_VLdWDhZ-DsE89QVvtMz53XmpBl8n9_a2aIxjw6Wzf/spc/SQ-umnR8gi2sUYBAkPuDb3qmH9N08VcF9eZZ2SkvwKBwHsJ4d1oL_XjQjD1oZQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838637,/mh/Hf/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgDe2h99mPtLMJ94mh4iOgYrdqKj0zD08uQkyCafxteCICIHw9R2MTC8Vz64j6U9zEQJSiIJQJ4yIVMmTOySWOCqve/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgK_VR8O15weapEDWkzGWsGbsYEiGv8j6t3DrijOAt_v0CIGEXlaFo6qsrsSR0dKHJNFQKO76Om3OgOHMB9hT01B1P/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:57.220216+00:00",
+    "expires_at": "2026-07-12T12:43:56+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "DiarioTVTeresopolis.br.CoHP7vT762w",
@@ -200,12 +200,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=CoHP7vT762w (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DCoHP7vT762w&q=EgSKdd3TGProzNIGIjCtavpQDjUDy1ecPbrY2vyL8z2KruVmnMdqOeitsJnzm-fZoClZCKb4LfN_T97vovgyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.562487+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860235/ei/qzdTasvWCcuV-LAP_5qKiAo/ip/138.117.221.211/id/CoHP7vT762w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhM07PXfIPjK4a0-3Zw12AJW0P5l8_GP2mNt5PNI_Y-m7tz52llCLJeKRAbY724y_B-E-EjQ4_Ui/spc/SQ-umqtTnkAzEnmZvBKH4vwkXEPN8zy9QPdtZ4XW6xwjDeBintJiPpdL0-QX1w/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838635,/mh/6E/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKHOd3h45l_2lmKc-ZGsJbY4FBYNMNa0aVp5C9Pp7eQ9AiEAv6tsdM_Qn7A62rGrdfo0dijpV6JDr4xxm7SBOXCV17c%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKpMTBF3OHp0av1m24pVbt4xKXz3NWoAuA_ZQ0zauXfvAiAi3WKBGhOzSCTHh3ctPwJQHiApSsHKMZQHCL2gUV7PZA%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:55.738277+00:00",
+    "expires_at": "2026-07-12T12:43:55+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "euapatroaeascrias.tv",
@@ -219,7 +219,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.726507+00:00",
+    "resolved_at": "2026-07-12T06:43:53.285623+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -235,7 +235,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.877017+00:00",
+    "resolved_at": "2026-07-12T06:43:52.622258+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -248,10 +248,10 @@
     "source_type": "twitch",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://sae12.playlist.ttvnw.net/v1/playlist/CtMECsXOUmGLSeojYOu9G6vqLtf4wz6xv-5q7lEFGuvsdtjYg0np9MPluYfxF1q6jtTtHwv_vJ_FNL0MCt3iY6xjIXI0P6DWtZMC88CrQjWYOIYZkZWkWI85zTEaJ0M1hjntTUFyhPxx8zycB9WpXejZ7MCJgbiWz2q6aBRmGCl4MOWdOe5BsR6ymduSJKooQpqJRIVge7BT-vBTmDc_pFeSQY1O_yel6YMFR-ZAC-DTO4UiJ6obHiECZzrU4S_1qpzSjAol-DwTZYtgmHXbMA48AaqGELAbTpy4_LTCtZntxGJCvHFdEohFQTRYC54c5BQflyASrByqh5O4VqrOqOfxhm8R5lwU7_2pf1YhNuo-rjSHey6hN_vAplxs_0wGN6juY3Qcs4iAEqQg0E6u0QaDTgZym1rZ66V1rL-K1mSU0XevwaQETSAfcywuUf3dUgw0KrId-tLy1aYSWBNj9lPFldLU1tCqjgAKZ5fmZVxATSO4ZuVEg2Yjiryi5qfVwzUHTd46g07kGjm_tpGRhP_cMFB5coe2cxvs37_gC0x3IZaJNr6gj2mfb5Lzcq7mQU-Zpt_gcTYFazug2nkpzCZctRFvtOVW3LZX8lQpU4sp95fXQxXZSkzZTIsMmWsKKVi0uGRWqQhv-qftGv6JZ7YnaQHErMOLeCApSpwky6HslgeuELVfJiy8gXrWbL2zSbo6oPt0dBp5dczW8_20wYAnRjFV8S8L-4HEuf_j2u1wqZiVH_18qGZLlKO7-1ieWSE4-fTQokd1kuR2GFAN2m2pd6cL9xoMmYkUjLT7-yYGlcM2IAEqCXVzLWVhc3QtMjDJDw.m3u8",
+    "stream_url": "https://sae11.playlist.ttvnw.net/v1/playlist/CtME9ZwAlKd2BFw0w5Qz06b3r2wBOtL0Ff9k4c33QlBiyqVFUef9Zqu1BCO3V7C3UvCzigA-HZ6vIzQIpGq1ON_rwV8LVE5Nxdm_yOrsek0QsbHdu2Ap0Ms11wsBMSv1mWrCD_GoZazG0BiAb4dN_LD0vnqDEnZVtirBk7koEjP0xgvbvdJMyomCv57XqOrFMgbxShHJMZ3X7PZwqjHnOsaEZEP8e3QjwU600bdrMFEuDugQM7uiXi17nk1MCEWBzSq3OaukYAmGPzuquSMzLgcRGc7WVu2gyEr6QsNV4Hzx77MlpGCTxPCiK4mNORzAQdgWX9dhXFQHQTDe1p46g3STO_NWf3jSzr3NjuSuSKYuTShYZIu7ojukRiilZS7cYAhBeN2mSBHOrhgo7m5XG0SwTxtQR7n-yl7I1UV4S20nMpeMdAygQ13gp_JyXcntafKm1XQ4hgSey9jeiEADTJNk0PXuIz3EPVotV8DBaRVXlOX-ZnQWSILCSwm3_L0GWAK3iNkOpfCTO3G4YxBwtBBBpGCx64-ziG5StzplKX5pxDgyGhwnE4EYMxONTnXBQPQ_wREl25pHkFVmgcMgJ8BWg1U-iON-8DReZF6mkY0X6nuT13LxXiFCF4qpwzWpRFZontwK6X4byaSFyjtCElwwkhIs_h-tk58RGenRPVGs8YauXDXZTaerewe-s6bERe-D-AAyJyMe7uKjMxLwJxTPTVg4JEmUNU-4xuzcnWzkIpreH8YTqPROnkDkkT91D73cfIlMdUxiEyGDXExDA06M2F57exoMdOJ-8HVzQ5IQhiquIAEqCXVzLWVhc3QtMjDJDw.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T06:27:29.860722+00:00",
+    "resolved_at": "2026-07-12T06:43:53.707762+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -264,12 +264,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=eTz4XgOQaAE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DeTz4XgOQaAE&q=EgSKdd3TGPnozNIGIjAwpepadMiP1vFgq9p0Q-dbniQ-0RdFMPkvqzzucZvOGR2HSgRe6OG0Lh4b5-ecKlEyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.327827+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860234/ei/qjdTaoTlHNeYobIPoYCwiA4/ip/138.117.221.211/id/eTz4XgOQaAE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEVfK-zSxCiG1Lduv-wPM0dIpMFQrV6JnUBu9o0rTXXBk8pa4RIKwzclRll98HhWUHdosyUDzbeo/spc/SQ-umoBRWPolS3lXdZN-TMqz8GYStsH9vQdsFBXsCjU6aG8Y8thnqODcbz6x7A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838635,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgNC9BU0WkJVBSPKqHR73Oygf1-fNa13Wqgn7r2l5TK74CIQCBWc8-crZQIlK30zpLY7_VhU3atIc73hp6KiDMtbXUzg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAL-KUDxxDjR7qG_L4J1kT-byJPni_7MKSaka4VGIfCKyAiEA45ZHvrpJj9ServA174sk-zLUePGxiSONuppkBzGY77Y%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:55.037196+00:00",
+    "expires_at": "2026-07-12T12:43:54+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "mr-bean.tv.fD139Si2p4Q",
@@ -280,12 +280,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=fD139Si2p4Q (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DfD139Si2p4Q&q=EgSKdd3TGPvozNIGIjDt9JrUwtZ1rKQ9hNdyHt2wE2hQF6sAwXfoDFxCggMdcmaIE4RFmWlBne4gwutUP7UyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.701201+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860237/ei/rTdTapXQGrOh-LAP3qag6Ac/ip/138.117.221.211/id/fD139Si2p4Q.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEWxmcD5ndVsR_R4LBnloAfnDAzIL2BNmo-slRHXCZ0Y2aR0S_SUKP5d5RVHnE9zbNX-2BmQRiTd/spc/SQ-umjIlw0dUSi58g4JTLSO7J4LoENbemsaC7usedEDjlWoqkri36PK5QRJeKw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838637,/mh/UW/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAK3xDGbumTEKSksyNaVJr1Kq-9nM_UzN32nKmEEsFgt8AiEA_ygXFz1LceV2A09Amrn7n2tEYqjH8cSRVgs2Lv-oN0k%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPvlk86NZc2KWy_rG4Hhg9Ca1Fvf0PjGkljUskqXpxkvAiEAjipqFVEv1FQt1tioH8D8PUGSCt_VXp2rTVEkZ0Xvzyg%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:57.939605+00:00",
+    "expires_at": "2026-07-12T12:43:57+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "mr-bean.tv.SghO7VOnFuY",
@@ -296,12 +296,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=SghO7VOnFuY (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DSghO7VOnFuY&q=EgSKdd3TGPvozNIGIjDQrgx_gTPCng31qMyUgWJrSRvo85b5xjbxmNOScArJTusuS_VQeQLzJqzKrI64PVAyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.780408+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860237/ei/rTdTasC6J5b21sQPhZjhyAk/ip/138.117.221.211/id/SghO7VOnFuY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEW7aTcCiMJnT2zZmuhzn-SBG8FiCUJ_zZgWvCbgduytsnUBTbacxAGPXrmKqhjC4JxlRpZ-fyEH/spc/SQ-umr3dLNL6Kcfo8XeA59X6Eks0g33WP2Iij0GYinSEh-tkVjcLE-s-PpmEUg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838638,/mh/fS/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIofQVV6Mb31phhe71syiIWlScdVb7rKMRwguj96fLPgAiEAtqOZZqE2G9dgW03GsW7yfVg3GgvHRUDtXqlAx4AQrOw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALYeEa5uIjWfizQTU3bdaLFZDyOcfTPXQIhO_CtTBScKAiAuD-RPLoeeAUn80TJXIbsltHPVscTNX12FWYZ8xe0w7A%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:58.139810+00:00",
+    "expires_at": "2026-07-12T12:43:57+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "NBABrasil.tv",
@@ -315,7 +315,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:18.318649+00:00",
+    "resolved_at": "2026-07-12T06:43:53.872489+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -323,49 +323,49 @@
     "id": "pica-pau.br.bK03WDeq5SI",
     "name": "Pica-Pau - LIVE 🔴 Pica-Pau é o Melhor Pescador! + Mais! 🎣 Pica-Pau Antigo 🔴 Maratona de Episódios Antigos",
     "source_url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
-    "logo": "https://i.ytimg.com/vi/bK03WDeq5SI/hqdefault.jpg?v=69bd7a4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8PddgDBPPviSepht4XRi1iutJYg",
+    "logo": "https://i.ytimg.com/vi/bK03WDeq5SI/hqdefault.jpg?v=69bd7a4f&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCJ_hZBCORsJbakQjWQdEkja9m5eA",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=bK03WDeq5SI (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DbK03WDeq5SI&q=EgSKdd3TGProzNIGIjCeN04vrOCfK8cm-QjvnTasN2EfLoce2cycZRQNDlyDdILwKJxi0PhGxRMAlYo-KUMyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.050565+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860235/ei/qzdTav2rJ9Gt4dUPm6-ZkA8/ip/138.117.221.211/id/bK03WDeq5SI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVNiNXX6ttIi3AkIMWrjeO8ljj_LsAT92Ls49TMWyeEM7gfNPLpVWzo80UETm3y2QPA4594hgx9/spc/SQ-umptvyfpHsyFl979kFr3JLDu48u72CHiFUKzs9Uo7j06nk3rqARVXmKRE6A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838636,/mh/VC/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783838428/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgOKWJmjRjtAnIMuxsqVDIvkbhTHyinzWXBymd_e6OkJcCIQCWsHj1ruzq0-gVjwVA5MqXGiWNQIzwqXoSzjL3uIR_BA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMS1vTawdq06Io8Lrpbz5TWoJJenHfXskzESEN2K5CbwCIEriEsg1iJtQt7qvkgUGkkQAij_wiEz0L4uHJCyCk4Uq/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:56.144111+00:00",
+    "expires_at": "2026-07-12T12:43:55+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "pica-pau.br.xIs3odCrjZs",
     "name": "Pica-Pau - LIVE 🔴 Pica-Pau derretendo com o calor 🧊🍦 Pica-Pau em Português 📺 Maratona de Episódios",
     "source_url": "https://www.youtube.com/watch?v=xIs3odCrjZs",
-    "logo": "https://i.ytimg.com/vi/xIs3odCrjZs/hqdefault.jpg?v=696e66d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgtdMxIzMsv_Z3Q3KHRTi6ZfD2iQ",
+    "logo": "https://i.ytimg.com/vi/xIs3odCrjZs/hqdefault.jpg?v=696e66d9&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDLqVQJb8NPccTA_6hkRas1XzjfwA",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=xIs3odCrjZs (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DxIs3odCrjZs&q=EgSKdd3TGProzNIGIjD6E05qgv_HFQi1FG1uwpB8bvtj57ZB26zq0dfr3AkC-u4R04NZAfdBu4OFHT3x7g4yAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.934613+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860235/ei/qzdTap6mJYHy1sQP99ap8Qk/ip/138.117.221.211/id/xIs3odCrjZs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEXhglkHmQVznoWJyAda53QqrkZ1013ZtUmm7G5tTeYYriPRdGZ4MFIHz3foeg3MbHfwGtreTbjv/spc/SQ-umipmJEzFBHC_dHMgPtcCb-h7zmxZnUWnDLDac36wW5fv245e8mksVjr8GQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838635,/mh/HB/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgWomcMrjiXGnBSA0qbIPeZd4sY6wUVHIf4UyYJVwsMIcCIDlvNcMVpjOV8S0uPKpch_9hrucDJvzYpCBOT4RBUOPB/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJkT2Co4R5_8vDyyUfzB9gSgXOxVcR5HHYI5zMmDCkLjAiEAjkHvR2_5WYL7s8PpDeDc4-OwSIAp1evrKjn4otU_qwM%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:55.892576+00:00",
+    "expires_at": "2026-07-12T12:43:55+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "PowerRangersTV.br.cQHlHWNg5zA",
     "name": "PowerRangers TV - 🔴 Power Rangers AO VIVO | Dino Fury | Séries para Crianças",
     "source_url": "https://www.youtube.com/watch?v=cQHlHWNg5zA",
-    "logo": "https://i.ytimg.com/vi/cQHlHWNg5zA/hqdefault.jpg?v=6a0d8090&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-6XpFw1Q-uhnQbbzpuFXxBvLWyw",
+    "logo": "https://i.ytimg.com/vi/cQHlHWNg5zA/hqdefault.jpg?v=6a0d8090&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDi_ef45t6XTuI-kbQgEO2rtmEtKw",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=cQHlHWNg5zA (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DcQHlHWNg5zA&q=EgSKdd3TGPnozNIGIjAZW_G9IMygHEieqTOZFr7jStK8FPcr6Kwxg7yWbQtR7d7zjvARo7miPnP143ohTGMyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.519313+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860235/ei/qzdTasDzCaHP-LAP84Dg-Qk/ip/138.117.221.211/id/cQHlHWNg5zA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMBvHIcXWbrUtpUrxQK8g5cJ13-52H546LDUZz4qWCS3ix77VnpyMxA9EU3J7ce5-7zDo3KZjDd/spc/SQ-umjPxEyhdQv3tXT_HVOSqtC8R8ylQIyx2I9HrWCqbL6730tsuErDkhwABsA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838635,/mh/El/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAIhHXiQ7sGTUXk9ho4hWWVMKHsAU9sVV2blOzE4hB3ClAiAN1uKgfYtpQH1JHO9JO2-LlX9cQbZ0CXoyDRGHAhaKgw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALS7JiaJEEoNgh8ku-z-aYvhdrJhkIYPJBU4LNUWKX43AiEAhaOluAxNYOwokYL4fVVQaczcCntJIbrjp-gUf_nN0Uk%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:55.713939+00:00",
+    "expires_at": "2026-07-12T12:43:55+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "RecordNews.br.UXAVykt1v8U",
@@ -376,12 +376,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=UXAVykt1v8U (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DUXAVykt1v8U&q=EgSKdd3TGPnozNIGIjDrD9rPZnjMqK9rns1ofCQVy2m8F97kHqW9NhGYVdAjOa72zeqjShhd4edYwDFRyLIyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.469067+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860234/ei/qjdTarD9HP76-LAPsPnRoQM/ip/138.117.221.211/id/UXAVykt1v8U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPN70M3WFf43O3zprvZyp1ZAzHJIdcuVl4GZG7yt0i7Ytm0q6MIJjZTXWf8vCRh2tOEsvJzh9wA/spc/SQ-umn84lXgs5K5qmjsCj-guFTdNRnwKOkDK-GPrS3Z8gPsG2PDtABw1BxX9yA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838634,/mh/SL/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992867,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIge44DxMXCz7q9glMOVvRLH7Kao9rx90VE3Up5-qnapagCIG-8Raf5lVYrN0FsX5CvKqX2eTE6gSOx47N0aaQc4Xes/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgZ0UNYjRqdu4Rj9e7ApBLRKoKJiCsFI83e3Ry0owZc2MCIBDuELGm-cjTWrsvyyrwlrABeHUQnVZa8gJFI9HP3vQ9/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:54.988278+00:00",
+    "expires_at": "2026-07-12T12:43:54+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "SantuarioNacionaldeAparecida.tv.juUt-rN5CVo",
@@ -392,28 +392,28 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=juUt-rN5CVo (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DjuUt-rN5CVo&q=EgSKdd3TGProzNIGIjCfkTz1VBiH9kocPrSVeXWVAfnoZjRvxeTeqEZh8wWOxHVqXDZDPOmntrt-rjGfxesyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.257564+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860236/ei/rDdTaqCoH8mV-LAPjNHg-Qs/ip/138.117.221.211/id/juUt-rN5CVo.27/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhPTfiFHGqfTHa8l4MIq9i6gynGpeMeJllb_iTGBv__tWvw1wrGOBOlYVgFpVIYBxpkqe2lFCx08/spc/SQ-umnrIpi63sELwwXdQ-jTdsTrOLjGq4KxYiirksfB9HDYvswbdsmNxoBVhsg/vprv/1/reg/0/playlist_type/LIVE/initcwndbps/3763750/met/1783838636,/mh/tn/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgYmkiCAqXSuMIJ8uBCa8PYnq1Yd7DErZ0v8So7Lbvrt4CIQDP_ScgzELm1i7MyVbIxeCrosszgzHZ54IJ8TJ5q5n3eQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgPWejPZZ7mAQ02RPZoQBS_MpLYpUrmZ7BbWVzUftD-54CIQCT4zvYYMBfwzB3Pdl6FIPLA_JQlVLxKP95KHDyvtYFag%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:56.803329+00:00",
+    "expires_at": "2026-07-12T12:43:56+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "SBTNacional.br.LLpNUqHVam8",
     "name": "SBT - YouTube - SBT Ao Vivo",
     "source_url": "https://www.youtube.com/watch?v=LLpNUqHVam8",
-    "logo": "https://i.ytimg.com/vi/LLpNUqHVam8/hqdefault.jpg?v=6931e6d1&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCe5qAlDp9rOEEDqIVK3OoCptIkSQ",
+    "logo": "https://i.ytimg.com/vi/LLpNUqHVam8/hqdefault.jpg?v=6931e6d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWjEQmE0753BwzWbin5stbK2N4gQ",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=LLpNUqHVam8 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DLLpNUqHVam8&q=EgSKdd3TGPnozNIGIjCFGELzqjJtKhBzQjUqQecvabW3UZ3b_XqBlMqLiR1vREYAKAMY-nmcEKk9q43d_xUyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:18.313115+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860234/ei/qjdTapT0C8z01sQP_4am8QM/ip/138.117.221.211/id/LLpNUqHVam8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEWqg-ds7knzwQUxLHdrkqcv3i_a5n9bSjdvxGhELsIbuh3zvISAZxHR1idGeerbLzk3M-h0suhB/spc/SQ-ummfey7LK2fc73fi4_VApTBRVJ-yoLga8P1aA2Plh1HN0gPCC9kceVRsEvA/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/3763750/met/1783838634,/mh/pR/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgJjkVq6FBZ61WaBpd0rzVOeqwbVYxN0XB5cIu4nKePgkCIQDpGYHrcbcl9acbXRRAOlCBttJVvhjauYjUJiYUR0E14Q%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgGltvnxw_J5pcJ56PDfXcqoFNDE-in9u028otk2_r-asCIAVYH7o8a9Q3V2uXPQk4ZN9iJUhObyptp2VYvSuIEIle/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:54.756125+00:00",
+    "expires_at": "2026-07-12T12:43:54+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "script_catalog_1.101",
@@ -427,7 +427,7 @@
     "stream_url": "https://isaocorp.cloudecast.com/metropole/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130833+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -443,7 +443,7 @@
     "stream_url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130840+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -459,7 +459,7 @@
     "stream_url": "https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130847+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -475,7 +475,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130861+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -491,7 +491,7 @@
     "stream_url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130868+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -507,7 +507,7 @@
     "stream_url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130875+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -523,7 +523,7 @@
     "stream_url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130882+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -539,7 +539,7 @@
     "stream_url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130888+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -555,7 +555,7 @@
     "stream_url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130211+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -571,7 +571,7 @@
     "stream_url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130895+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -587,7 +587,7 @@
     "stream_url": "https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130935+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -603,7 +603,7 @@
     "stream_url": "https://x1colegal.com/hls/stream.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130942+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -619,7 +619,7 @@
     "stream_url": "https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130949+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -635,7 +635,7 @@
     "stream_url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130955+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -651,7 +651,7 @@
     "stream_url": "https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130968+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -667,7 +667,7 @@
     "stream_url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130981+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -683,7 +683,7 @@
     "stream_url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130988+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -699,7 +699,7 @@
     "stream_url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130994+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -715,7 +715,7 @@
     "stream_url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.131000+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -731,7 +731,7 @@
     "stream_url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130230+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -747,7 +747,7 @@
     "stream_url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130238+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -763,7 +763,7 @@
     "stream_url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130246+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -779,7 +779,7 @@
     "stream_url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130275+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -795,7 +795,7 @@
     "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130282+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -811,7 +811,7 @@
     "stream_url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130289+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -827,7 +827,7 @@
     "stream_url": "https://sbtnews.maissbt.com/3.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130297+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -843,7 +843,7 @@
     "stream_url": " https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130303+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -859,7 +859,7 @@
     "stream_url": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130311+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -875,7 +875,7 @@
     "stream_url": "https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1970019486.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130318+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -891,7 +891,7 @@
     "stream_url": "https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130325+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -907,7 +907,7 @@
     "stream_url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130340+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -923,7 +923,7 @@
     "stream_url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130347+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -939,7 +939,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130355+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -955,7 +955,7 @@
     "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130362+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -971,7 +971,7 @@
     "stream_url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130369+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -987,7 +987,7 @@
     "stream_url": "https://s1.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130376+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1003,7 +1003,7 @@
     "stream_url": "https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130395+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1016,10 +1016,10 @@
     "source_type": "script_discovered",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=34536v3x",
+    "stream_url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=9b197qq3",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T06:30:19.604230+00:00",
+    "resolved_at": "2026-07-12T06:43:52.376262+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1035,7 +1035,7 @@
     "stream_url": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130402+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1051,7 +1051,7 @@
     "stream_url": "https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130410+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1067,7 +1067,7 @@
     "stream_url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130417+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1083,7 +1083,7 @@
     "stream_url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130425+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1099,7 +1099,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130432+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1115,7 +1115,7 @@
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130438+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1131,7 +1131,7 @@
     "stream_url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130444+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1147,7 +1147,7 @@
     "stream_url": "https://cdn-5.nxplay.com.br/VEJA_PLUS_FAST/tracks-v1a1/mono.ts.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130451+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1163,7 +1163,7 @@
     "stream_url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130457+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1179,7 +1179,7 @@
     "stream_url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130464+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1195,7 +1195,7 @@
     "stream_url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130471+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1211,7 +1211,7 @@
     "stream_url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130478+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1227,7 +1227,7 @@
     "stream_url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130484+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1243,7 +1243,7 @@
     "stream_url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130491+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1259,7 +1259,7 @@
     "stream_url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130498+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1275,7 +1275,7 @@
     "stream_url": "https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130515+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1291,7 +1291,7 @@
     "stream_url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130523+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1307,7 +1307,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130530+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1323,7 +1323,7 @@
     "stream_url": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130537+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1339,7 +1339,7 @@
     "stream_url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130543+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1355,7 +1355,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130550+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1371,7 +1371,7 @@
     "stream_url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130556+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1387,7 +1387,7 @@
     "stream_url": "https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130563+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1403,7 +1403,7 @@
     "stream_url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130570+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1419,7 +1419,7 @@
     "stream_url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130576+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1435,7 +1435,7 @@
     "stream_url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130583+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1451,7 +1451,7 @@
     "stream_url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130590+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1467,7 +1467,7 @@
     "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130596+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1483,7 +1483,7 @@
     "stream_url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130603+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1499,7 +1499,7 @@
     "stream_url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130610+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1515,7 +1515,7 @@
     "stream_url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130617+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1531,7 +1531,7 @@
     "stream_url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130624+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1547,7 +1547,7 @@
     "stream_url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130173+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1563,7 +1563,7 @@
     "stream_url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130630+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1579,7 +1579,7 @@
     "stream_url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130637+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1595,7 +1595,7 @@
     "stream_url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130645+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1611,7 +1611,7 @@
     "stream_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130651+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1627,7 +1627,7 @@
     "stream_url": "https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130657+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1643,7 +1643,7 @@
     "stream_url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130664+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1659,7 +1659,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130670+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1675,7 +1675,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130678+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1691,7 +1691,7 @@
     "stream_url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130685+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1707,7 +1707,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130691+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1723,7 +1723,7 @@
     "stream_url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130698+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1739,7 +1739,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130704+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1755,7 +1755,7 @@
     "stream_url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130712+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1771,7 +1771,7 @@
     "stream_url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130718+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1787,7 +1787,7 @@
     "stream_url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130725+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1803,7 +1803,7 @@
     "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130738+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1819,7 +1819,7 @@
     "stream_url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130744+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1835,7 +1835,7 @@
     "stream_url": "https://stv1.ipstm.net/p/3639/stream/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130750+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1851,7 +1851,7 @@
     "stream_url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130757+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1867,7 +1867,7 @@
     "stream_url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130778+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1883,7 +1883,7 @@
     "stream_url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130785+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1899,23 +1899,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
-    "expires_at": null,
-    "ttl_seconds": null
-  },
-  {
-    "id": "script_catalog_1.95",
-    "name": "Rede OnTV",
-    "source_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
-    "logo": "https://i.postimg.cc/65GZSvvv/rede-ontv-oficial.jpg",
-    "group": "Recomendados",
-    "source_type": "script_discovered",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130791+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1931,7 +1915,7 @@
     "stream_url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130805+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1947,7 +1931,7 @@
     "stream_url": "https://isaocorp.cloudecast.com/recon/index.m3u8 ",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130812+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1963,7 +1947,7 @@
     "stream_url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130961+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1976,10 +1960,10 @@
     "source_type": "script_discovered",
     "tvg_id": "caravana-play",
     "resolution": "best",
-    "stream_url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=3u53307c",
+    "stream_url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=9g29h8sr",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T06:30:20.184113+00:00",
+    "resolved_at": "2026-07-12T06:43:52.939632+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1995,7 +1979,7 @@
     "stream_url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130114+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2011,7 +1995,7 @@
     "stream_url": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130160+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2027,7 +2011,7 @@
     "stream_url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130908+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2043,7 +2027,7 @@
     "stream_url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130764+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2059,7 +2043,7 @@
     "stream_url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130332+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2075,7 +2059,7 @@
     "stream_url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130268+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2091,7 +2075,7 @@
     "stream_url": "https://tv.ippmais.com.br/live/26092358420999225499.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130929+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2107,7 +2091,7 @@
     "stream_url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1117524747.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130254+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2123,7 +2107,7 @@
     "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130221+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2139,7 +2123,7 @@
     "stream_url": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130854+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2155,7 +2139,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130203+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2171,7 +2155,7 @@
     "stream_url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130915+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2187,7 +2171,7 @@
     "stream_url": "https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130770+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2203,7 +2187,7 @@
     "stream_url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130922+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2219,7 +2203,7 @@
     "stream_url": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130261+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2235,7 +2219,7 @@
     "stream_url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130975+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2251,7 +2235,7 @@
     "stream_url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130826+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2267,7 +2251,7 @@
     "stream_url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.131007+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2283,7 +2267,7 @@
     "stream_url": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130799+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2299,7 +2283,7 @@
     "stream_url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130185+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2315,7 +2299,7 @@
     "stream_url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130731+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2331,7 +2315,7 @@
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130901+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2347,7 +2331,7 @@
     "stream_url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130194+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2363,7 +2347,7 @@
     "stream_url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130819+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2379,7 +2363,7 @@
     "stream_url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T06:43:52.130387+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2395,7 +2379,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T06:30:17.881305+00:00",
+    "resolved_at": "2026-07-12T06:43:53.924761+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2408,12 +2392,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=uLXMHBdcYEA (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DuLXMHBdcYEA&q=EgSKdd3TGProzNIGIjC2RJweG8WNs0B47nAyK9DXoGQPPnXriaw0Bdlce5KckM98clDsOlo5SO6OIOzqUc4yAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:19.120703+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860236/ei/rDdTapLcD6WNobIP-8vCEA/ip/138.117.221.211/id/uLXMHBdcYEA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEUBgpQOzs1-uwGoEfnU7Wj3znqXjOkdQeE77Pt_1JoEteuEKneCtwf9ijbAmeGjHMT4s13p5xny/spc/SQ-umkCz97rMgkqjCfXKWG2PeJCl5GGbD1MhFm5eOQOxN2vSkSBZnET0v6v3cg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838636,/mh/Gt/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhALWoULTrCiXuaNO5U-Y7p6CGz2Y-8PPi05C_SNMGEyG8AiA3fHwAJdrA55DGyr_XeeiXLvx1EIdGPlec2lz_lTd0Ow%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgMRmFl3ZRplvFcpu33bwG43OMk2H3F1ITzSGz9rv-ll4CIQCPzluBJ5UA6cGcQqDdVgNu9uzHGagoQeEyvtPNdxuhKA%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:56.761710+00:00",
+    "expires_at": "2026-07-12T12:43:56+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "tvc-youtube.tv.GTCbzXkcz6g",
@@ -2424,11 +2408,11 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=GTCbzXkcz6g (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DGTCbzXkcz6g&q=EgSKdd3TGPvozNIGIjCLZptkI3RXB1_g-ZnhHMTZh5_lp4rQtb6BDrYJk1w-6qrjALtL3RJ4-zP_ri7tX6wyAnJSWgFD)",
-    "resolved_at": "2026-07-12T06:30:20.033129+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783860237/ei/rTdTavuBMfGZobIP19GD0Q4/ip/138.117.221.211/id/GTCbzXkcz6g.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEUWS6KKuuS0C3pGCJrQwwBQVfm1sqv3i94Ylre7MkXz3zKg1JopD1_xAuH1eB2at_rp_R993rXx/spc/SQ-umvYzlWmG39gPbU20ANVIuiTk506wCwEysyRk6uKW1IPDq_anhdNttGDrxw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3763750/met/1783838638,/mh/Z_/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52017147/mt/1783838192/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKqvuTKSVJs2xVE2HBL50hstuIs2Z3gGF9BAK6DkBKc3AiEArME0QYdkoQZrXhUsep_S9i13ok8GzA3T5muO0b1w6R8%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhANzMRpOfQoRXOwZb-1hKRjqV15MMqLj02wy8yAgSOX7sAiEA2gAUbcsiw8Mb-xojvuU9wXdFz_78Iq7egNbY8yLUouY%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-12T06:43:58.349690+00:00",
+    "expires_at": "2026-07-12T12:43:57+00:00",
+    "ttl_seconds": 21598
   }
 ]
