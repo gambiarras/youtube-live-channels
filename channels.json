@@ -11,7 +11,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:16.986904+00:00",
+    "resolved_at": "2026-07-12T12:05:15.978770+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -24,12 +24,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879219/ei/04FTapDJEqXX1sQProDayQM/ip/138.117.221.211/id/6suNyB7aXx8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEXXVborOHGVS7gZHxAx02R1phIzMoyt3bOQTnH_R_LmY8k7yQyj3kSZ9-FJNSWtpY953Vc_rlrb/spc/SQ-umpWUiF3VrpudnhUYWffvbAvpujff4876U5yKWPmfV-KniclJghtSqxnuaw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857619,/mh/gJ/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAJgf_Spuehtwx--Lb2lBcTuHa1wq8-hbMMykHBoN5uXUAiEAi0G2M3NEaQw00czORbkal8vriCDtvEwz1S_xdK9JxTk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgc4a6UOgGmPHSWmOQudzh4rKwK6YqqtRup6-cT0SYuuACIQDEaGevS2DtSuezdu8wvHmU6PgBGXxbXmNNVF_yIpRzQA%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879517/ei/_YJTasvPMJCsobIPzN-suQQ/ip/138.117.221.211/id/6suNyB7aXx8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEXQYadRcXpEj0EUReKE-Ph6bHIFX7GNCr9ZRJcTDYFBu9Y-kaMSfE-dmM7i2EItyzZciIo01hkh/spc/SQ-umoWoXFRCAiwOhL-S3edeAQIrg1dYR9NOxrEBRsby2sGfWvl2tEhMHFRTCg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1772500/met/1783857918,/mh/gJ/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867,52017147/mt/1783857636/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJ31x5F11ci9jqGodNaR9JJTKM-OQ6VJWeBh46eknNFeAiAvVLDG2UMdPkN9lZliX1Ym8VHGjbX6fS7PFbVZ0yVy1w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMps58gmNppzx5AwzyFUU-6JT7bIr52OdLUp0ZxK4uebAiB6vozY_bN-sJAwSRK_Rf5BdE0KJcoZiAzdhwPV1vCAPg%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:19.853653+00:00",
-    "expires_at": "2026-07-12T18:00:19+00:00",
-    "ttl_seconds": 21599
+    "resolved_at": "2026-07-12T12:05:18.303065+00:00",
+    "expires_at": "2026-07-12T18:05:17+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "Caze.tv.TjKRTjrZNv0",
@@ -40,12 +40,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879217/ei/0YFTarHfJtTE8wLKsKewBA/ip/138.117.221.211/id/TjKRTjrZNv0.3/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AZFlqhPdUPrRJ7JNW9krtr8exMUl6j_Ruuht6tQsD0DBdqq3_8hWxuUp6FCyWXpZCi3t6tm6WIYKK32F/spc/SQ-ummQ9lpf_KMFez8Vxxsfen6SNKEsi_Q5aBzyMz0Q3sbTpXGFUDOI_pthsoA/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2216250/met/1783857618,/mh/bS/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr2---sn-n0hpjput-bpbk.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgNDSa0Qj819Zv1ksxYoxzEumS-n-8HO-im0T2lPTaPpYCIQDPxmC02iZzDAvn02YlwxmwXpflkFsuTwkRb6YDcYVVHA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRgIhAKo6tPDKmxtFJVed3KTbZ5kV7Wgqcg3PlQTPwVT7w6FcAiEAjmX0RDuqXJqCDKlLI2yRdPzGPSjaPjs-4TBGTCqu5Rs%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879516/ei/_IJTaq3qHIny1sQP7szYoQk/ip/138.117.221.211/id/TjKRTjrZNv0.3/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/ARmQxEWwfnTErg1YeM0DbLoEfvtBXVX2WdyVzvL7GGeSlVcCaPuOf0waI-D6nJ0MgCcJmvqvy2bdI4hw/spc/SQ-umt76BRmslNhgL3WT2lQtiNC3MLFDiZaVQxYHrhkl9ZWyf4LGEvJA-tq9kw/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2520000/met/1783857916,/mh/bS/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr2---sn-n0hpjput-bpbk.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgOjDLTJrfAKVCHjyAQ1QvZ89w7vaqiSLk3d0mEDqtgKMCID8J1jUU5WvnBllBNPDsSYsXaBzqEsXsLs4XeMtTA78p/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRAIgLSMqhxTcYwvbmzT3CJdJEMAKXLLt2L8pQ8IQnIkf9O8CIBiUXmKEizGDtgABNptodu07JEqaf5W0ZAMdOOwQ23kE/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:18.198373+00:00",
-    "expires_at": "2026-07-12T18:00:17+00:00",
-    "ttl_seconds": 21598
+    "resolved_at": "2026-07-12T12:05:16.982505+00:00",
+    "expires_at": "2026-07-12T18:05:16+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "chapolin24horascanal.tv",
@@ -59,7 +59,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:16.999546+00:00",
+    "resolved_at": "2026-07-12T12:05:15.559536+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -75,7 +75,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:16.996758+00:00",
+    "resolved_at": "2026-07-12T12:05:15.549365+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -91,7 +91,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:16.990543+00:00",
+    "resolved_at": "2026-07-12T12:05:15.708847+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -107,7 +107,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:16.987474+00:00",
+    "resolved_at": "2026-07-12T12:05:15.551882+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -120,10 +120,10 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/Cq4FYicDAhhx5KXKiMxyLm_FWfOjhQmJvHLwTg24j8Xop-R-T50mVrs20ATkDS7RY3fRUtVijL1_By1Qv2RFTPZqCb3e3n7Id_Y0dALVnU1qUra5ZXVV2AREPhE58WguviyrLINXuZoRbX6722dTqG_W_x3eyZ_erpejfLKFunOAym_3f4g5De9NkFkg_gQJyc-OuNk-CPLPxPhDr6XzvqcjxjVZYL8m6Q6LDsPz-CkaiJ4m7jc_NFZWJQwzVIiEmKOY6wG-oOpSfF57_hCOSWEt_WXmyRG4rRuwsEh3HoW5Uz8Wpaaa5FnN86xthn3IabxUKIrDLYri1FGyOJ80s6FeMeql6O1IBWfZHnxEIQgMUUNOAGnYPchXXgqm6QR_ECIbyKk-BBZ3VQ1OWuuL_qbjgA83i_iIeGwASO0CIjrJpuPgXePsuxf8ZgUVFsh-YxBXvMS6sWhg35WhyKHjFIN1TiMVerfY9ViiHAQxzwLenTJNzSzN9FP5fEEhgnRaHT6808DzjD0kk9Gc8TV_TlkTQMHxqxB-Xzok3k9KfXLCaly97AcAA8JGgeSXyEeaVAwr1M7mzHWqC9gfoqiA_yRJjK0ePDVwLcTbIxYApImotioezogGRQmbuWe075Y8KBLAU5R8Np2b01ZAXqoIXWK-hthOrTBejLT5i12AgIG0nhTmKyMRrjnO0hNrOlPpQ3fAMbtYtbLXx9JtlEdAFQOPBRuWmz7iRNqpl1cakDBdKEakmv41FbLg_3zRj-CZMhWSDC47hXlZkMGqPXD4kDZIN3OtP5RUUtGdgGc9pon9W1CJ2AU5OW-Ottqx64ns0ELXZ4ICS6K8b6zgISAA7lR7b7sATDXEhmFNxjb0FC-Hxh8V7nGTvkK8voUhiNvJLe07KNk0XvbUKJ2vJsyGkvYaDLYW4lqThs5EGCbyMyABKgl1cy1lYXN0LTIwyQ8.m3u8",
+    "stream_url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CrAFWOFbf6iINcNnRhGQBdqGl-Hl-PuXnzp054EudMQin_kx4gKnSnzB0VuGmXy5KT0XG6eWS56XUBvgjpS1awJvf-XrdsCWwCM4xRnpQgfnrcGXgg2Nl__P8ogFR6J36xL9mQFwCBhpnb4HzXBJ0Qrx6p0Yf8HXbhooNebSQPGVTIXUM95_opcAYzYsoTOJeOTGbUk040g99PuV8bwEVZnsvkg9r9DLH4F4-hXs0-cSsDenNZH1ij0ixiYzXM6d1k3gDC2mZ_17-q902qawjjYnRNRafSmIdPJvsxg41rK8Y44PPkIvpCUyziNZGAiattXV8ONuRe5FHMsPL8r83gvampjg4VHi0TZlrFbkT3rBdJAgZW1QV43tbvA2gMSUmKOCWcJ2UGvg7wRJp5gxA6jP3J3vaNiiaUNWozhi2SlxyyevBeAdxYwZXHc9p9gmvGyh1rtrJAEXORFAAFnrQ0YQ9mlsQSsRBLLRlgzihqr60GPpkuWeLY7L2WWmYeVVtPLU71uI0jXczONPQmW70e2qgR16GqnehEoix8EOZFKyjUph0ZWE2wqZgBlmM3eoclSGZyLMKqmF21xYEyRnFd7pyZL6bEMZ1LSDshOkwTMdt4Tg_Ig5uDMk5rmcHDsq3LYA3ZUiTuLB0_KTqOIdXUAYtR9RXH0WzFUocb9ycvxJmiqPWQ5VrSKPG9FpbEynuu9UN818eOOSRmKlXcNbWHSAnQALx7Lmh261F4t7pbAnIe3n3JxlsEkfOOMkJ3sC0TFs7N6FnZb0OqeCWP9JkaNwZmaIfH8E1C9FKuxsZKXUNj313L46T0hgDG4YmSqmtYRo3q74qwGt2inPX7MdDWnb7GGOHWstCWC2A0aEbzl8WsnZSr0TjtwDyKy5GX7TxasHX-Tp-OWcD_WQDE-TrEl2QhoMT7_mG9ZlTSgpuCCCIAEqCXVzLWVhc3QtMjDJDw.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:16.483495+00:00",
+    "resolved_at": "2026-07-12T12:05:16.746312+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -136,11 +136,11 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879220/ei/1IFTavWzHpPy1sQPyay94QM/ip/138.117.221.211/id/8nORcRZ7gqs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEWrT34YpD_AlwL0PkeBaagomZ2TPEDI9K4iPx3B5XFDH6YQ2J8y-_CZdnqyyyZdtqZ6mv20ktnA/spc/SQ-uml6GyLvY6OIBG9MmKJOB6OXuK0XEXW7Y8EcCzD-gPp0WqXpZmZoJArma7w/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857620,/mh/Cr/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgIQst9l5nQHE_dLuk-937nhD8L0uppvG0J5vgKia-u-MCIQDUDINpd51wZvBz5LzPb0iiI67fMSomoKrWNuhetGBEiA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgLojmmGaWpeL5xDpRI7eK_mliefNbMQKv93csCZpNRiACIHgfW637JNhezJMBu-E4Lhrvhfbdfn7Svg6JGI_J5ajq/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879518/ei/_oJTavaeOd6YobIP1MOP4A4/ip/138.117.221.211/id/8nORcRZ7gqs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEVl0Yrir9rxi0fwJzT0Za0ueDNMXuZD_GvJuUEKublb4Jxm_NXVis6UqzZ0vyZn3hp5DQlSRkoa/spc/SQ-umvBeBAqHZZWVPej3zHYqdEQBwra_e6fAJt4y7jzOaTfCtERSL-a8kD8GiA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1772500/met/1783857919,/mh/Cr/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857636/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgN9qjddFj9T95OMOcgbvK6CMoTKn2rgu4lui0TbFLfukCIQDIplaaE9Yt-qJCqLMZBOHZMXFhO1bPFPjrsbXnoFNQAw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMSc6PqMiBU8vK8goO7nQJshiZ6q_Oyhx9xhOJOaifhpAiA7ves0uVJr8UdaA-EJ1EXANsp24PfdtDS7fyKCwXW8Tw%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.023155+00:00",
-    "expires_at": "2026-07-12T18:00:20+00:00",
+    "resolved_at": "2026-07-12T12:05:19.453621+00:00",
+    "expires_at": "2026-07-12T18:05:18+00:00",
     "ttl_seconds": 21598
   },
   {
@@ -152,12 +152,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879220/ei/1IFTauOlJqaL-LAPqNO9gA0/ip/138.117.221.211/id/U__tcQKkU9w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhOuRW1U2LlgJtIa97f99bCThy8y9ceUJv6cA-eP_vVIxaFPkF2jbOiJV5iPw4d5zYFjzRHxhW2j/spc/SQ-umpmoXL79ppYDfc_xdcJbsGgQMxoATrESURUyQMdSTfCNsyI2Hj6VPy-Wzw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857621,/mh/rf/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgRU-Y4nRa83Ep-qtEhGE1ZTbXIUY9dVAyvHP4qJsshtQCIQDNy2VFBi0rMeCNNie_gVBzktFzmI3PUhKKmQATCM9Rfg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgNX0Xe3kmOaswYzE4dm5dJOD6POE3nniiA_L0O20R_egCIQCs_0iwXP_Y4BuISmfe0Q9MM_r9XfkeLM_x1dUEZuoFpg%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879519/ei/_oJTatLlO5731sQP7ISUgA8/ip/138.117.221.211/id/U__tcQKkU9w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEWMyUarw9VSuQ8zjb0r1IHVgjNQOJ84OnyrsvcPURQ25Wr1O3QEc5aUWoAJl-UQQtsxP-fuqIoL/spc/SQ-umrXhHpZoe8Ufh3X7CCJ7B9HmrYzmLP4lWrmT33h11jTt73N_LchWXnVsMg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1772500/met/1783857919,/mh/rf/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857636/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAKl_Ek4eu5uuNVxmmgxV-ji72gs8NJdv2-EZlv9leiKbAiEAnmXIAKhjysy7rYjqhxoQxAIv3qecO-7WPyBJnqNqcYU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMXvuY7y6YXE3bLT6-_SpU9fuLQFvJdbz5ZNSxIxat0oCIBkGsjI3RsCow5paOwBzWfYAwKW91Cluk5mRoI8H0RyM/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.186585+00:00",
-    "expires_at": "2026-07-12T18:00:20+00:00",
-    "ttl_seconds": 21598
+    "resolved_at": "2026-07-12T12:05:19.500608+00:00",
+    "expires_at": "2026-07-12T18:05:19+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "classic-mr-bean.tv.XQLEvieRMj4",
@@ -168,11 +168,11 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879220/ei/1IFTaqm6LZOU-LAPk86ysAk/ip/138.117.221.211/id/XQLEvieRMj4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhOS8rX8Fq8h4K3lNWX2DhKUKb70s6j2kIQ-AkD4wXSo3uKmOhxOq3cgBa0o9BguC6YnF9jSseDa/spc/SQ-umq1EdLWszqYGQmKEzHVeLbYz55WoTvJ73JyGmuFxOqKaJ-tPBvHSlcIH8w/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857621,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPeYEfFoK3d-Q77jGlSoLebCPBDmfT3llA_s2aFHUMyAAiBs-0MVd5DghcJ-SyY6BixFGxBEOwTwOv1dBrlCdo8Z1Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAILpalD-zfzLiAwf8oX1ddyRN0YOfUq-Hiz-yfjsoY-fAiAChpUCWuUrrUeYiyjmJcCF0YXTbNKcLNFvTjxH89eLsg%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879519/ei/_4JTasOiK4esobIPjv6f0QI/ip/138.117.221.211/id/XQLEvieRMj4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEXar3t2PuJdt3ckgMCACVO4dPPmiVvwWa9ZRDzEjgcjKuVm9H1Yw5WAiXHU-o4n1R-ZqMIGVH3C/spc/SQ-umujDiyNTn8RaJ5D6odW3wlRyl-feXg_dSOZeyne2ROmQiELNG0btYNWLchJ-Rw7WXQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857920,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJnODZr5p69td7nkQS7hrXLnheUpDMJBW7KwyXhzshYVAiARSNa4CQm1Ab4Yq4kRyWRVYxwLzplsv_CRe_prCZef-Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUNC0z3rbF1WsQf3qPmrPbGs9CcMCl8jiQrEZ6WQhvYACIDyukOwaxBYmMGKmoOA12asprEZxQKucDH1Y6IFTx0BD/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.269800+00:00",
-    "expires_at": "2026-07-12T18:00:20+00:00",
+    "resolved_at": "2026-07-12T12:05:20.228972+00:00",
+    "expires_at": "2026-07-12T18:05:19+00:00",
     "ttl_seconds": 21598
   },
   {
@@ -184,12 +184,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879220/ei/1IFTapf9C8aNobIPp6W74AM/ip/138.117.221.211/id/UjlrZ-dxhKo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/ARmQxEXPwtHv6Qp_8UQiTMTieqPJOaYnJwo_53KBazJvUYGvrYhNhCMwvRXPfScuUfqlUOhXF3K9HkJ6/spc/SQ-umtr2ZbcIbdd7WOooP7hbI_YuQ3LyaxPFU_BEVTVQ2hWr4BuYeYE1SsLFyg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857620,/mh/5J/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgeeZC7DC-w96EGVy7FniA_j7wQbXKQvmILsVHskZvm0MCIQDWVXQ8ePqyXykQmGq3E68CuhdLrIlX2lLiy3SCBWDnOg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALE7zNm2WLPoWYW4ibxb4KR3guc4itpG2UfGEqr7S3k5AiEAxYFEWEt_jwn3o-PytWyZ9QuFNbaSJ4shW__25RJcYao%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879518/ei/_oJTapDPNLePobIPpdXpqAo/ip/138.117.221.211/id/UjlrZ-dxhKo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/ARmQxEU2R5mw7rJB3f4PXqqIwm3V6jwOFQukOjlGdjqiE5uO7yrEjWFhMuu3NmL016kPFS30Yy_N4qlP/spc/SQ-umtY5BE1RZUePr0EuzX8T5--cPaS11EUHmbqIlOUgW_UvZ6tnlIe2M4LtKw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857919,/mh/5J/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAOiM5U7ENVQGa5c06gnMd0NKMTcOQf8hSeOnDnvJFZ7yAiBMNNiQOpWfPEyigkABc3mHnKY5-MhOSu_YIg5H82g1yg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO37SUofmXdrfd4CbxFfsjdIOjJ7m8ykLi4WhoyLmR47AiAeDbx8kej5Gx8_NgnUKJnEY3KiDYTFGihhBB7TnDzsDg%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:20.736854+00:00",
-    "expires_at": "2026-07-12T18:00:20+00:00",
-    "ttl_seconds": 21599
+    "resolved_at": "2026-07-12T12:05:19.385558+00:00",
+    "expires_at": "2026-07-12T18:05:18+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "DiarioTVTeresopolis.br.CoHP7vT762w",
@@ -200,11 +200,11 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879218/ei/0oFTas-oKfKsobIP6LeXsAY/ip/138.117.221.211/id/CoHP7vT762w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMXJqyF9nHd2iyK6oCN5zYTboiggsM-E2Uu1nIuG47XDb08JUr7zXDMJvyz2do04kxzWQvSdwV9/spc/SQ-umtGW3rleOOiSqEJb_H2wBrI7qWtkw9IuBVf5bgCuxhO6T_Su4Ae9zcSOlg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857619,/mh/6E/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAI2eSxDd4Acby9CMAc4VspxwH8ZXhulJljgYGkXwQnOZAiBtLSdYGoLpFGAeSvN4d3nyJJH0WciSeNWi6ROTU-ovhg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgGNZSyVdXZHev5JNa5NZvxkn3H9J_3CdHkFH1J7O0XgwCID-qh9ZIExuQ3q_KLPFuWw3Um6GsmjsgEFXXhkrgopiR/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879517/ei/_YJTatKRK9P11sQPv_PP4QM/ip/138.117.221.211/id/CoHP7vT762w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVawvAzoDGmBWPtBPUXUFe3Swh7GqseqqzFs-Lvp4SqeitlRnpp0OOSnAeNwwh2odB2OWQuGhUT/spc/SQ-umiXpJ9kQKcIqdDBNunqjiWqhQNRVU1zho7HzrlbXDFC-C1el06ELMWABWg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857918,/mh/6E/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMCWmqeEoqgcycFYQcYlhkq5kxdbNuFl253Kame0WPECAiA17fnMp-urF-wpsD-01KEEdNuooFT4uyRgNBWo77ZkeQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdCnO6T6j3ciM_gskcn_8IlDX0NcBZ_3Xl9rzRq3R5bMCIQCvRf0yinTgAG09EUOYKplIYLy7tOJFK6OVXBopfG3tgw%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:19.216659+00:00",
-    "expires_at": "2026-07-12T18:00:18+00:00",
+    "resolved_at": "2026-07-12T12:05:18.244053+00:00",
+    "expires_at": "2026-07-12T18:05:17+00:00",
     "ttl_seconds": 21598
   },
   {
@@ -219,7 +219,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:16.993834+00:00",
+    "resolved_at": "2026-07-12T12:05:15.986111+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -235,7 +235,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:17.432826+00:00",
+    "resolved_at": "2026-07-12T12:05:15.547263+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -248,10 +248,10 @@
     "source_type": "twitch",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://sae11.playlist.ttvnw.net/v1/playlist/CtME9ZwAlKd2BFw0w5Qz06b3r2wBOtL0Ff9k4c33QlBiyqVFUef9Zqu1BCO3V7C3UvCzigA-HZ6vIzQIpGq1ON_rwV8LVE5Nxdm_yOrsek0QsbHdu2Ap0Ms11wsBMSv1mWrCD_GoZazG0BiAb4dN_LD0vnqDEnZVtirBk7koEjP0xgvbvdJMyomCv57XqOrFMgbxShHJMZ3X7PZwqjHnOsaEZEP8e3QjwU600bdrMFEuDugQM7uiXi17nk1MCEWBzSq3OaukYAmGPzuquSMzLgcRGc7WVu2gyEr6QsNV4Hzx77MlpGCTxPCiK4mNORzAQdgWX9dhXFQHQTDe1p46g3STO_NWf3jSzr3NjuSuSKYuTShYZIu7ojukRiilZS7cYAhBeN2mSBHOrhgo7m5XG0SwTxtQR7n-yl7I1UV4S20nMpeMdAygQ13gp_JyXcntafKm1XQ4hgSey9jeiEADTJNk0PXuIz3EPVotV8DBaRVXlOX-ZnQWSILCSwm3_L0GWAK3iNkOpfCTO3G4YxBwtBBBpGCx64-ziG5StzplKX5pxDgyGhwnE4EYMxONTnXBQPQ_wREl25pHkFVmgcMgJ8BWg1U-iON-8DReZF6mkY0X6nuT13LxXiFCF4qpwzWpRFZontwK6X4byaSFyjtCElwwkhIs_h-tk58RGenRPVGs8YauXDXZTaerewe-s6bERe-D-AAyJyMe7uKjMxLwJxTPTVg4JEmUNU-4xuzcnWzkIpreH8YTqPROnkDkkT91D73cfIlMdUxiEyGDXExDA06M2F57exoMdOJ-8HVzQ5IQhiquIAEqCXVzLWVhc3QtMjDJDw.m3u8",
+    "stream_url": "https://sae11.playlist.ttvnw.net/v1/playlist/CtQEZRdOWHJAbpFJvjFt_yoM29r_ApT7UkAa0XaI72GZU6-iFZ-pNu7UsBd6pnn3Sfm2Q9-lp3qWejFHhtu30SNoDW2JSMTERm9QwKd3dkiYM9HZqTD3JDr-ryGHn4d_wcINhmmCZGpxzeHbRnqt6EhGeT7UIlYYCHUjDAkV_-diRjZmCU1JNSg8vkohidkCk33Le3DGHUFYEGNE7b4UXb_xzMdQutrC1wf_M0C9D3tbdyayqDh6L519Rlwo7hW3tnzs3y-YsVN5iiVg7ZZdbBzLnndzRLigzKDi-pVVCssAN781SdfP0ao3LOaujz9GQZgUrbTqf9kE7DI58NxI1cjBmEfUHKdHkpE6d7MTuc2M4WHdXQtiovRiKHfMLmVoEc9B9XM8vRT_gjQBUsTOChBXElhj5c4KSiC5a5JKPsL_SevbE65qpuinMT3nExEEJ0XGrgB_0vp3sU91inQBc8A065N-KaFad4MwDk-fjVkaiOUYbtyQm15WbcbWDJvuxjFFXCDYcf1LPqgXV5HzGoXfn_cKZ-bNSGuuTCcOU05tk1E_MYQUvR5IBOQrzovKfwRTtSn6Z-9g9JnQu7nVNlu5a58AK5KIeOV2vtlSC2xuWdm6RD1ml5JzAtkCTGGTj4XGrMCRWCLQOl1GPkvIB7KfqMEli8Blwze_c5k8Wd36f1eWFQCzbyGK2O3JAQlD5EvCm3oDuhxAjz_ebJXhEZd75_AOc4eBpB0XqdHso3ApKde2c9gtgIIws7o54LxQDdH1COS_01Vj2-0FGa6VXYSO-eqocEMaDI727E0xJrcEYNA7FyABKgl1cy1lYXN0LTIwyQ8.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:16.483527+00:00",
+    "resolved_at": "2026-07-12T12:05:16.478432+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -264,11 +264,11 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879218/ei/0oFTas_2BYab1sQP75qR8Qg/ip/138.117.221.211/id/eTz4XgOQaAE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEUV_MIqY5pPym2tMLCvmXnx5QXnwcgdlxXdxcBNX2-IPH6oCn14s5gApTdkBdArBAJ4JFMgjZED/spc/SQ-ummVZkV0jPiL1g-mYqxQHGeQg93Qhp2ClpG0SHPZmsZgOZpJ0W3ta8qOJlQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857618,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgQMHVUThiciadXhjfsxpFdLYCKbWoWcMZIvypWkl7TpgCIQCQkVHl_ZMeUrzNr8P1jkBXBd2bSc5WUphoXraDzK1xzQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgObEuhVQgJEY3JEjEF48982QsCbAS3_W1OqFCUriTsBwCIAbwjnJ9LzHD_FyFtHlGnt37SHuioXAplbrneTdxukMa/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879517/ei/_YJTavSZDZiPobIP0POr2Q4/ip/138.117.221.211/id/eTz4XgOQaAE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEU9FCdPd2Dt8IvQFpeApoibhSLTa3u-4jh4ElJzCJwURYlOBpUBGDxT1Uq51Cks1IJyvZXdY5Pg/spc/SQ-umg-MgvQSqiNIhOd-jyjphjuKZiFkq6t1QM_xC2jlTzEjRuUSZqwO0CBo4Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857917,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAKjsqhzcKdycNX5ac8KGOfWWKtDCnj87DyvtOFeQu2XfAiBFjIRuktSL6qUKXu_hSb_V4NK4TAdTPrZge0xvqLUrvA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOlltSfJMaHrYdaJJ6etIH0vdVygVIkIibUj_UyK8U0vAiEAk1eGch2O6o9-s5jlnWTNuRigQcBq_eLYSI-St9llKLU%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:18.609086+00:00",
-    "expires_at": "2026-07-12T18:00:18+00:00",
+    "resolved_at": "2026-07-12T12:05:17.758228+00:00",
+    "expires_at": "2026-07-12T18:05:17+00:00",
     "ttl_seconds": 21599
   },
   {
@@ -280,44 +280,44 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879217/ei/0YFTap_3M9eq1sQP9NikKQ/ip/138.117.221.211/id/UPppXxh1tq4.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVl0204qJGTYxRhZuuYW5qjnOjnPjs1sXbCaLuIUki0caVhZI9fjgu961L5VZrALu9o9wBu_9JD/spc/SQ-umtsOeVIdnwfUkWZK5A0uRYDPlkOwohBkyIuCzXTfhTIhxEklKeWDtC0lKQ/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/2216250/met/1783857618,/mh/IP/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr2---sn-n0hpjput-bpbk.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhALPAZAe0K0DhFmN5xpz64Y5mw975UUw3fWq1l1YQu1uxAiAuNMELBxXQD1PHJYpnfOWe4zbZhyo57utbyJS3s6Tdng%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRgIhAPEnlbi7UTCVTGj6X9xunY7uFblaUyM0cqsTP4s6UvD5AiEAtFdsyFjLpHUiBsCOpYAT7yd7_abrMTc8jDorer1O5Qo%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879516/ei/_IJTauKWLcb6-LAPwvH9mAk/ip/138.117.221.211/id/UPppXxh1tq4.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPr_3ydeVj9aAaNekIf7kouOFtPwBOS-eypFU1hzaj3i0P9YkQ2V0_8Nt4o0dYOMNwqP3GpwSu_/spc/SQ-umj-2T2AyLCdapPFZl2zzs4v5t35svDtJ_6K8iYauSIEyj6g6y82KFEYs2Q/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/1772500/met/1783857917,/mh/IP/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857636/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAPoyU3Y7VVscpDRtXcifKWt6yey9GewIbdwXfmfimUBYAiEA-IrhfHWkkmDoMrc0BJiCpITNY6d0blRJW7v52p-t_-M%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgG9XqOW5Vg_z8SKS8ZjiBQmQby7Ho9VR8IZrX46Tga5ICIQCTwXPiO1hW8XuKrbCftJy8OqkqW4rkXOo73IUQXJwyiA%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:18.391100+00:00",
-    "expires_at": "2026-07-12T18:00:17+00:00",
+    "resolved_at": "2026-07-12T12:05:17.260220+00:00",
+    "expires_at": "2026-07-12T18:05:16+00:00",
     "ttl_seconds": 21598
   },
   {
     "id": "mr-bean.tv.fD139Si2p4Q",
     "name": "Mr Bean - Mr. Bean Cartoon S1 LIVE: Hilarious Trouble Starts Here!",
     "source_url": "https://www.youtube.com/watch?v=fD139Si2p4Q",
-    "logo": "https://i.ytimg.com/vi/fD139Si2p4Q/hqdefault.jpg?v=6a463bad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL0fmixG3_rKvEeEsGAQPnkjDE_A",
+    "logo": "https://i.ytimg.com/vi/fD139Si2p4Q/hqdefault.jpg?v=6a463bad&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCvUEONcT8Xh6w0ttXc-eMFo_xvxw",
     "group": "series",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879221/ei/1YFTaqysBuWZ-LAP5p6ViQM/ip/138.117.221.211/id/fD139Si2p4Q.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhP1_zXhChhRkMRsDPO0mig04at1K3PAUiA17xwwp-FuikkSWGmRosoCsOVwhmSA2fjxSa8UYGX5/spc/SQ-umoim4jiK6MdOTk29fPZhJosj9Fv3mYMsGJ-xCn_js99VxJhdUcxFoWxY1g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857621,/mh/UW/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992868,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAMGuhWL_ZC7SG9XfEWmGqzlh1YahvIvcjNuQ3Wk92aVTAiEA7bfUJaLTOm-prKEnqa6JQWEkHJLrEvGephO8KmqT_ZY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALgL2Gl8i9w5PwgXEs2UNGAUYkJeSNmoCUK-7uOPnBRMAiEAxfTh6cKqCx2yuCanktaQI1dw608TG_c9dndfsakXbuU%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879519/ei/_4JTavuVO8qH4dUPwv_qoAk/ip/138.117.221.211/id/fD139Si2p4Q.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEX3EEPd0Xn2XX4LRtXeUTUwTQcXCBnY5winegkQS2wmN-RshZdzdQVPastrEN6EsnSiv1WtAhhV/spc/SQ-umhAtxX0bwW8Q0CRkLvffaOm1pflYkgOJHhKV1evsnr6qaW8WUNEbB5xavQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857920,/mh/UW/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992868,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgL3neibzvFCmrKuQxHjA3rEmMXqJRPcBL9PllByQ2NZYCIHMKU9vuMdJR6VEPDbwssKg3NTOD_0lo8b4TVDJmpxkS/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgW9QrQJOYiMZZgjRpeuacsikjP_UpAm5d70njGos7ORUCIQDjdZtvL3kv_GTWctm0DDw1yujUjW_57M8AftkAAhMzbQ%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.413264+00:00",
-    "expires_at": "2026-07-12T18:00:21+00:00",
-    "ttl_seconds": 21599
+    "resolved_at": "2026-07-12T12:05:20.519526+00:00",
+    "expires_at": "2026-07-12T18:05:19+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "mr-bean.tv.SghO7VOnFuY",
     "name": "Mr Bean - 🔴 Mr Bean LIVE! Classic Comedy | Full Episodes",
     "source_url": "https://www.youtube.com/watch?v=SghO7VOnFuY",
-    "logo": "https://i.ytimg.com/vi/SghO7VOnFuY/hqdefault.jpg?v=6a463d46&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4ssZQi8909pCTfhwH8NIlcREa9g",
+    "logo": "https://i.ytimg.com/vi/SghO7VOnFuY/hqdefault.jpg?v=6a463d46&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDqz5wwFXGiXyDyKGkygH0ZAa8XRw",
     "group": "series",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879220/ei/1IFTarepL7WQ-LAPscjw-Qg/ip/138.117.221.211/id/SghO7VOnFuY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMIE784vJzLhUJlkNj6QDhmO6dK0SLMb4uSMT4ottF1CymUcKBcn0weovzc3CP4rjtMnolOXH0J/spc/SQ-umqcjgb3MEtOOQPjxJqQujsqXgdErXIKEwJaiRluaggBWivDc2amtmX4Z4Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857621,/mh/fS/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIGd64jxzYFVLgiDfoBdn2fjOOXJWOUtAV8z25qvsnZaAiEAumRf4YIPyV1S7bHqx9VN24HOArOyk4V4X_jOgdLCT2M%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPeLanU4zlTutTWfNs7eKE02-vv_4bq_ScwRp-7PQfGlAiASKVv_d5WzFKMRGQ5ec6JLemXHG9euiGewbtopIqPZGg%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879519/ei/_4JTaqftKMDx1sQPpfvamQ8/ip/138.117.221.211/id/SghO7VOnFuY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVeIwqzuc2MANA2_VEsXbS3PSIuigtlPCGxMBNpdqEsDr17EV8xUSZ-iAbRvWjnLb2ziMmWHwtE/spc/SQ-umhtbd3s5_mdS5-5RjthwsaCWOIq8E2c3WTtAh2HfDaxCdEuMIu7e1e0AUw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857919,/mh/fS/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMXSiAifgDlB_lP29qXgT4xl5Nq7-DfnDdYBEVLbiJQAAiBR-JxZWw3FsnigK-Isg7wAEcMjbBhvuqclLy0QJv0Plw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOGIxOUjJO1PheqJEBX6qTg25oiU-ZfI3iQNg-dkUM7oAiEA__WgurlXlyXnMEm408q9LPyTrC6Mthm5aIRy5RLfuo0%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.342098+00:00",
-    "expires_at": "2026-07-12T18:00:20+00:00",
-    "ttl_seconds": 21598
+    "resolved_at": "2026-07-12T12:05:19.965829+00:00",
+    "expires_at": "2026-07-12T18:05:19+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "NBABrasil.tv",
@@ -331,7 +331,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:17.779320+00:00",
+    "resolved_at": "2026-07-12T12:05:16.677587+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -339,33 +339,33 @@
     "id": "pica-pau.br.bK03WDeq5SI",
     "name": "Pica-Pau - LIVE 🔴 Pica-Pau é o Melhor Pescador! + Mais! 🎣 Pica-Pau Antigo 🔴 Maratona de Episódios Antigos",
     "source_url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
-    "logo": "https://i.ytimg.com/vi/bK03WDeq5SI/hqdefault.jpg?v=69bd7a4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8PddgDBPPviSepht4XRi1iutJYg",
+    "logo": "https://i.ytimg.com/vi/bK03WDeq5SI/hqdefault.jpg?v=69bd7a4f&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAeLFn2E-4mOJujmWUaJGsz2-VRIQ",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879219/ei/04FTaqeVF_epobIPn8Ps4Q4/ip/138.117.221.211/id/bK03WDeq5SI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEUIxOxXBHCN42BY8EiTTPiBFoIZOu5glh7G_ZyT93gk_HhYhztdASVQm8_a97YWGVxAhxIypfY5/spc/SQ-umjwFmVIYGZvbjA9qA_lmj_n39ajQYhHpxzF2Qpm-euXDo6cnkOGUPCFGuA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857619,/mh/VC/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgU9WNtWNf-icksd3-cqOi4-lR1eUl0QJVJSozHrSFn4gCIQCsh4NTBZ3gu-BNx2G8O7MyS24ZXXUcTEJbn8M69xFduQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgSHNKih5CJ-Mu0RSl3_Bsv21ot3mcF84N8Q2zyIE-SI8CIAS6z2OAfH39EsKONN7I84_qqtKGHn0XEi97XeQ_kInf/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879517/ei/_YJTaozlM9eTobIPk_6PsQU/ip/138.117.221.211/id/bK03WDeq5SI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNUc1yt-cdFLtlxIaxK4Hr_q-M-TPqx6vuwCIBru8OS4TirTgo27hbiF2G16NzC_CTXA_oQYItG/spc/SQ-ums0OPo-c_Mx9qKkwxjR7ncyzwapn_FyBJQdy1CRDeR_7f_2ryQHv6WWaRw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857918,/mh/VC/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgL-vw3N2uDzRyxidko8lMflyGexpJgHoEZrhDyokJaG0CIQC2bqJx2E-qAUvA4PFlw8-I_kEIDQGq3A0JKaLfeUnamA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKqsKxXCy4CGyb8nzKU9ol5TLffr4b0BjMxi_APzgv8EAiEAnlixAD0oWaw5eHoTNNpnOAmUUWmpotLhoqgx1sFkIXE%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:19.890277+00:00",
-    "expires_at": "2026-07-12T18:00:19+00:00",
-    "ttl_seconds": 21599
+    "resolved_at": "2026-07-12T12:05:18.344267+00:00",
+    "expires_at": "2026-07-12T18:05:17+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "pica-pau.br.xIs3odCrjZs",
     "name": "Pica-Pau - LIVE 🔴 Pica-Pau derretendo com o calor 🧊🍦 Pica-Pau em Português 📺 Maratona de Episódios",
     "source_url": "https://www.youtube.com/watch?v=xIs3odCrjZs",
-    "logo": "https://i.ytimg.com/vi/xIs3odCrjZs/hqdefault.jpg?v=696e66d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgtdMxIzMsv_Z3Q3KHRTi6ZfD2iQ",
+    "logo": "https://i.ytimg.com/vi/xIs3odCrjZs/hqdefault.jpg?v=696e66d9&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBvvHktvrLuvBqCk1ysCRWfl9o7_A",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879219/ei/04FTaurSGO6iobIP2sLSoQo/ip/138.117.221.211/id/xIs3odCrjZs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMe6rKBB6Nol15uBmbsb5c34_fad6-dg4Wlh5bTfUlz66ecRmbpC98bE6sXGCkvR51AaaEi8qq3/spc/SQ-umgMfdosgeC3_nytv5gigu8WyMTj0KrE0HkTiNdBbBwRybzLk2dvh6-ruzQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857619,/mh/HB/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992868,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPQhqzObQlTFxWcESMAQonGsDG6-1iB7x9MP0GWGDYPCAiAq0TZRUTnFy0vt7amYzAjHk8BVq6OGG8OQYr65WXFLVA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAK3Ixi11Z84FbrE7sPgZVDuhhqnYIsbRWZx9kQlhTLU8AiEA26hCTNGYSvDWfgcLE-oZpwSI_vkeMy3Pw1D1cbIVAuI%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879518/ei/_oJTarvUHu2P-LAP576jyQY/ip/138.117.221.211/id/xIs3odCrjZs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOwT2CI25UNhByFd_HrvYSs7TfUQUb5jHoWGWay5NGwLbWVq-QSiqMRnmJJO-80-sUymcKHTes3/spc/SQ-umuE3Mx1eqvh8ezZMfc6rT9RqJzb3arBPUoMWm94qMp-l0yYdxWHlahysJg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857918,/mh/HB/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhALXQ0Itm8no0Nu9cSGV9hATyHFXrFfIAB-BGI3Q9FBouAiAjTsSdtLjizrwsVdLe1i45BNdtjmRn3S8GzBgktEfBkw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgPf35M_JS9tu3YKv1gE_YRVdibXfph1BG12fkf5YT9pcCIQCObp-qMsorrPCFeGYJr-b89GSizu80rKiKBEaqHEcbWg%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:19.960112+00:00",
-    "expires_at": "2026-07-12T18:00:19+00:00",
-    "ttl_seconds": 21599
+    "resolved_at": "2026-07-12T12:05:19.032592+00:00",
+    "expires_at": "2026-07-12T18:05:18+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "PowerRangersTV.br.cQHlHWNg5zA",
@@ -376,12 +376,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879218/ei/0oFTatmCKKGa1sQPxsqMsQM/ip/138.117.221.211/id/cQHlHWNg5zA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEVUFsfOdme6XrABEtBT_fLYBGqEcUm2DfXqb0Rcd8cp0UJ6T9Uo-PIDRn8zpmPPyJRx2_21iDyh/spc/SQ-umvLA4aIuoLxn8bOmaMfTBreN0zx8hO_uFIM9Z9Mf12DPzvKY9foL8V3wbg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857619,/mh/El/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgGnIKfAQXF9Vd9vzPI0Jmh-y3i8WWveLuOAXopmknDBICIDvGghL_FjqhfYAhhke6RRt1LFTaUW-jBuEwKnULjoQX/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgMchQ3m3aEW-5K9XEQxaEz762TeWyaMqvSnT8cM1keWgCIQCkTmwS718y9ORfcSqsYMc9Etk0a8wv0XyKeL65v8iO9A%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879517/ei/_YJTavCcFNiU-LAP9oWM4QI/ip/138.117.221.211/id/cQHlHWNg5zA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhPgkxh7TlzV_tGamSjuW7bCM2vJDggnG3S4yWdjTBXnX1v84FI704H3L0OrUYgbwTgH9J-CBTYD/spc/SQ-umgX492TFn_HB4-A8wzECnV7nd2VNR4ycCcjcEzEFyc4dkveKvd3CSqGSqQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857917,/mh/El/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhANQ8zL6lOj4Wb2ViZXMWN2vLo5flnohkB9t-2udLST-fAiEAksh37JlRuJ4kz2_FYA45ppD3y-b83uWJyLpxV3tRN_w%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUVuomKbP5ivO4IICKrJJf9_sfzFiehQ3W0jBHNG68sQCIFI-zsWRCfgJhFz9JjMGm6DlREGCUFXBYatOPlQ50qj8/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:19.234232+00:00",
-    "expires_at": "2026-07-12T18:00:18+00:00",
-    "ttl_seconds": 21598
+    "resolved_at": "2026-07-12T12:05:17.883308+00:00",
+    "expires_at": "2026-07-12T18:05:17+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "RecordNews.br.UXAVykt1v8U",
@@ -392,12 +392,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879218/ei/0oFTavbQH_aW-LAPtLnOyA0/ip/138.117.221.211/id/UXAVykt1v8U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNvpFLa7ArJFpb5R7ZKwCal4qrOgPeI_21VQdQYEKfC7_Mxo5KCFiJhqV36K_gVIJ9yDH9YTN01/spc/SQ-umkSxZdZ9BFRLV2-j4oWVbCIb2J0K7FsjVJZJ1ggbrLuh-ZwHU-zKhOStRg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857619,/mh/SL/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgLuwUqhwj76PnVJpBlu5ea7IlJ0VkKnhL4yspTFOqtgwCIQCN4xgseXLLBQRyPzOL-0QPvemYL0EN9EmnNlX8H19RiQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgVX0J8X0j-ef1YvkqLOaDaZ7mmvRVzj7jOdejuPtW1_8CIGcki5hs48FPIo2t5vbPe1qy8QYbNAZkhDoOUlD27-iy/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879517/ei/_YJTateXGe6Q1sQP-N3bsAY/ip/138.117.221.211/id/UXAVykt1v8U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEXrQvMlhyKkjM-sB65RReAdUW7ppZ981UJvQ4pxw_hOws1Dl1KAH4xC4rKnnXmWN_ZsY4UJdY9X/spc/SQ-umtJcjkvq66fmTxXysSiJZ996guFc8wQNZxKrRtmO-rgkD8QyfkrV_WmIuA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857917,/mh/SL/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgUYEdeIO4sQ_UIw8gY9JpbDsyEYwRRwr7Qz_L0qCWjqwCIQDf7rJiO809LIIOe6qtEyGRuwG_S1P7jJJAJ2tcA7-Y2Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJBiBuwxuFubbFFDONUyqK7CEhrQrZTPHVsrHMj-zXlfAiEA_GBXCqpYgeAoHb3Qtv-BGB3SxFlYGyTEFCW7DlFZ1DQ%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:19.059407+00:00",
-    "expires_at": "2026-07-12T18:00:18+00:00",
-    "ttl_seconds": 21598
+    "resolved_at": "2026-07-12T12:05:17.914674+00:00",
+    "expires_at": "2026-07-12T18:05:17+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "SantuarioNacionaldeAparecida.tv.juUt-rN5CVo",
@@ -408,27 +408,27 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879219/ei/04FTapnCOc2tobIP9NK-GQ/ip/138.117.221.211/id/juUt-rN5CVo.27/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEU5jX-BAE7g70UDn8bQN883R0ydYSuxjcWQ4eG9Llu5p0bx2n4kdRJ3qWWUUEPgPxZo0FlFtj--/spc/SQ-umtUmlloegDfMwy5B5-fz1RPSuypgZp5vIlVZzN6fmwlr1rXNS5K2oJNXuA/vprv/1/reg/0/playlist_type/LIVE/hcs/sd/initcwndbps/2216250/met/1783857620,/mh/tn/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAKxX6QV4Jb1WeNLHEChUczUqu1yPVYQnGOnOmM3ab3rWAiBeNImAnYay9accsHsM5Oxiwyg2oWxAMy8ZYFukk_sDag%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMCLQJrzC_lCKLGLDqBRnyBupz-moSdPyWHVxHSRJnaIAiAxetpayKlKWBFEPWc5MdiouyhuytdJjCfLrf2MPGJ8UQ%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879519/ei/_4JTarvMDqKH4dUPzIKx0Qg/ip/138.117.221.211/id/juUt-rN5CVo.27/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEXcnv9ptnKKddW7ppn73KPgjCeK1Li87ltll3DxV6GAXZXaTT9RWO-2NukUHfFuCOk5BUYbrciO/spc/SQ-umpmWREKAlRulUnyfyE981KOLYlbfh7IJ5vhNgCWPEI0Vc837djL-h47zcA/vprv/1/reg/0/playlist_type/LIVE/hcs/sd/initcwndbps/2520000/met/1783857919,/mh/tn/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr2---sn-n0hpjput-bpbk.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhANfsf79SYzwcUAYtnPQtW2rW4kLLnNvXigyjb0gyrnYNAiEAj_OJyW-hsjcrkbPUTHRrmYHpZTjtz3PPKIWqufYXKyI%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRgIhAMk3ixsU2qJORyXggPUHDe6IL1Q5Z5Ud7vD_MYvAFG78AiEAuJPTGOhNxwLr0b66CGU0pmH1fNs6utDEjaRVRqI7xTs%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:20.473431+00:00",
-    "expires_at": "2026-07-12T18:00:19+00:00",
-    "ttl_seconds": 21598
+    "resolved_at": "2026-07-12T12:05:19.775508+00:00",
+    "expires_at": "2026-07-12T18:05:19+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "SBTNacional.br.LLpNUqHVam8",
     "name": "SBT - YouTube - SBT Ao Vivo",
     "source_url": "https://www.youtube.com/watch?v=LLpNUqHVam8",
-    "logo": "https://i.ytimg.com/vi/LLpNUqHVam8/hqdefault.jpg?v=6931e6d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWjEQmE0753BwzWbin5stbK2N4gQ",
+    "logo": "https://i.ytimg.com/vi/LLpNUqHVam8/hqdefault.jpg?v=6931e6d1&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCe5qAlDp9rOEEDqIVK3OoCptIkSQ",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879217/ei/0YFTar_IJeT01sQPxf-auQM/ip/138.117.221.211/id/LLpNUqHVam8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ARmQxEX9_RfdQrtU5jVHB7_qi0jAsMAeuS3o36qnAukuwm_6jcMvkx-2HB5sT06ZRXN9_w-J692WHo2f/spc/SQ-umga4js4ll-WqexlxgD_PmKoh61y_rGT8JsRth9_qRefCyYyw5nmtYfeEEw/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/2216250/met/1783857618,/mh/pR/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgRJZOFJsamu2F-mNuPYf8sUV2c3Wk3waSco6kB-cAwZgCIGXDgH65rsykmmZopDgQas73MOWYQP5mg1bZDFRqYBAp/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANAxTPTUkJSqpY5cXrXQIvM0wOUuq-vc4B8_-UYoZbnvAiA3L6RGnHEJvEoqXGkPK5BpbKDtwMK-f10StcUNCQnJPg%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879516/ei/_IJTaubfIaaZ-LAPr4HCsQM/ip/138.117.221.211/id/LLpNUqHVam8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhNXW8_qZF9AhhcpCgjQde0FnpM3VXXh3iCojqnTgt4nYRkqf-KYAZayuQKg8gQfwVVRkLAmYO0V/spc/SQ-umpMVj4jZz00pFSTxzYSlWcOq5MMcu7rGApgLB6f5ExtlyplYK8sKD7Jg1w/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/2520000/met/1783857917,/mh/pR/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMCFYLDQc-hw3IfBJoMQ97JULRSgK-O3xXHDAJ2xe-dtAiBbsffF3rriHerWHnVl16S0WDpnT2yeagMaefbxEZhzBA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMg_PlDqN5C8Pt7_fkV6ABeWbWCSB_U6IpLp5ZAxinN4AiBzXB68LAKUDw8GztKd-S3BNb5QAD8TedsoTyMAY69dfA%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:18.138660+00:00",
-    "expires_at": "2026-07-12T18:00:17+00:00",
+    "resolved_at": "2026-07-12T12:05:17.071679+00:00",
+    "expires_at": "2026-07-12T18:05:16+00:00",
     "ttl_seconds": 21598
   },
   {
@@ -443,7 +443,7 @@
     "stream_url": "https://isaocorp.cloudecast.com/metropole/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058301+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -459,7 +459,7 @@
     "stream_url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058307+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -475,7 +475,7 @@
     "stream_url": "https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058313+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -491,7 +491,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058325+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -507,7 +507,7 @@
     "stream_url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058331+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -523,7 +523,7 @@
     "stream_url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058337+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -539,7 +539,7 @@
     "stream_url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058343+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -555,7 +555,7 @@
     "stream_url": "https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058349+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -571,7 +571,7 @@
     "stream_url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057768+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -587,7 +587,7 @@
     "stream_url": "https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058355+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -603,7 +603,7 @@
     "stream_url": "https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058390+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -619,7 +619,7 @@
     "stream_url": "https://x1colegal.com/hls/stream.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058396+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -635,7 +635,7 @@
     "stream_url": "https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058402+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -651,7 +651,7 @@
     "stream_url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058408+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -667,7 +667,7 @@
     "stream_url": "https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058420+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -683,7 +683,7 @@
     "stream_url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058432+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -699,7 +699,7 @@
     "stream_url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058438+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -715,7 +715,7 @@
     "stream_url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058443+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -731,7 +731,7 @@
     "stream_url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058449+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -747,7 +747,7 @@
     "stream_url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057786+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -763,7 +763,7 @@
     "stream_url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057792+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -779,7 +779,7 @@
     "stream_url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057799+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -795,7 +795,7 @@
     "stream_url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057824+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -811,7 +811,7 @@
     "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057831+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -827,7 +827,7 @@
     "stream_url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057837+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -843,7 +843,7 @@
     "stream_url": "https://sbtnews.maissbt.com/3.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057843+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -859,7 +859,7 @@
     "stream_url": " https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057848+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -875,7 +875,7 @@
     "stream_url": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057855+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -891,7 +891,7 @@
     "stream_url": "https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1970019486.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057860+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -907,7 +907,7 @@
     "stream_url": "https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057866+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -923,7 +923,7 @@
     "stream_url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057879+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -939,7 +939,7 @@
     "stream_url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057885+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -955,7 +955,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057892+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -971,7 +971,7 @@
     "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057898+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -987,7 +987,7 @@
     "stream_url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2010912641.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057905+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1003,7 +1003,7 @@
     "stream_url": "https://s1.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057912+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1019,7 +1019,7 @@
     "stream_url": "https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057928+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1032,10 +1032,10 @@
     "source_type": "script_discovered",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=r8855h1f",
+    "stream_url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=pm813bt3",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.212399+00:00",
+    "resolved_at": "2026-07-12T12:05:15.287796+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1051,7 +1051,7 @@
     "stream_url": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057934+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1067,7 +1067,7 @@
     "stream_url": "https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057940+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1083,7 +1083,7 @@
     "stream_url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057947+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1099,7 +1099,7 @@
     "stream_url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057953+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1115,7 +1115,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057959+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1131,7 +1131,7 @@
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057964+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1147,7 +1147,7 @@
     "stream_url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057970+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1163,7 +1163,7 @@
     "stream_url": "https://cdn-5.nxplay.com.br/VEJA_PLUS_FAST/tracks-v1a1/mono.ts.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057976+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1179,7 +1179,7 @@
     "stream_url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057982+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1195,7 +1195,7 @@
     "stream_url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057988+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1211,7 +1211,7 @@
     "stream_url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057994+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1227,7 +1227,7 @@
     "stream_url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058000+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1243,7 +1243,7 @@
     "stream_url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058006+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1259,7 +1259,7 @@
     "stream_url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058012+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1275,7 +1275,7 @@
     "stream_url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058024+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1291,7 +1291,7 @@
     "stream_url": "https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058033+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1307,7 +1307,7 @@
     "stream_url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058039+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1323,7 +1323,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058045+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1339,7 +1339,7 @@
     "stream_url": "https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058050+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1355,7 +1355,7 @@
     "stream_url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058056+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1371,7 +1371,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058061+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1387,7 +1387,7 @@
     "stream_url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058066+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1403,7 +1403,7 @@
     "stream_url": "https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058072+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1419,7 +1419,7 @@
     "stream_url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058078+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1435,7 +1435,7 @@
     "stream_url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058084+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1451,7 +1451,7 @@
     "stream_url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058089+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1467,7 +1467,7 @@
     "stream_url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058095+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1483,7 +1483,7 @@
     "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058101+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1499,7 +1499,7 @@
     "stream_url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058106+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1515,7 +1515,7 @@
     "stream_url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058112+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1531,7 +1531,7 @@
     "stream_url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058118+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1547,7 +1547,7 @@
     "stream_url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058123+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1563,7 +1563,7 @@
     "stream_url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057737+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1579,7 +1579,7 @@
     "stream_url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058129+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1595,7 +1595,7 @@
     "stream_url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058135+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1611,7 +1611,7 @@
     "stream_url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058141+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1627,7 +1627,7 @@
     "stream_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058147+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1643,7 +1643,7 @@
     "stream_url": "https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058152+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1659,7 +1659,7 @@
     "stream_url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058159+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1675,7 +1675,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058164+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1691,7 +1691,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058170+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1707,7 +1707,7 @@
     "stream_url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058176+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1723,7 +1723,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058182+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1739,7 +1739,7 @@
     "stream_url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058187+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1755,7 +1755,7 @@
     "stream_url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058192+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1771,7 +1771,7 @@
     "stream_url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058198+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1787,7 +1787,7 @@
     "stream_url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058203+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1803,7 +1803,7 @@
     "stream_url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058209+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1819,7 +1819,7 @@
     "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058219+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1835,7 +1835,7 @@
     "stream_url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058225+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1851,7 +1851,7 @@
     "stream_url": "https://stv1.ipstm.net/p/3639/stream/play.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058231+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1867,7 +1867,7 @@
     "stream_url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058237+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1883,7 +1883,7 @@
     "stream_url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058255+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1899,7 +1899,7 @@
     "stream_url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058261+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1915,23 +1915,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
-    "expires_at": null,
-    "ttl_seconds": null
-  },
-  {
-    "id": "script_catalog_1.95",
-    "name": "Rede OnTV",
-    "source_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
-    "logo": "https://i.postimg.cc/65GZSvvv/rede-ontv-oficial.jpg",
-    "group": "Recomendados",
-    "source_type": "script_discovered",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058266+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1947,7 +1931,7 @@
     "stream_url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058278+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1963,7 +1947,7 @@
     "stream_url": "https://isaocorp.cloudecast.com/recon/index.m3u8 ",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058283+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1979,7 +1963,7 @@
     "stream_url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058414+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -1992,10 +1976,10 @@
     "source_type": "script_discovered",
     "tvg_id": "caravana-play",
     "resolution": "best",
-    "stream_url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=g3w225s7",
+    "stream_url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=y44u56re",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.874089+00:00",
+    "resolved_at": "2026-07-12T12:05:15.811583+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2011,7 +1995,7 @@
     "stream_url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057685+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2027,7 +2011,7 @@
     "stream_url": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057725+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2043,7 +2027,7 @@
     "stream_url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058366+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2059,7 +2043,7 @@
     "stream_url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058243+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2075,7 +2059,7 @@
     "stream_url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057872+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2091,7 +2075,7 @@
     "stream_url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057817+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2107,7 +2091,7 @@
     "stream_url": "https://tv.ippmais.com.br/live/26092358420999225499.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058384+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2123,7 +2107,7 @@
     "stream_url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1117524747.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057805+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2139,7 +2123,7 @@
     "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057778+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2155,7 +2139,7 @@
     "stream_url": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058320+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2171,7 +2155,7 @@
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057761+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2187,7 +2171,7 @@
     "stream_url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058372+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2203,7 +2187,7 @@
     "stream_url": "https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058249+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2219,7 +2203,7 @@
     "stream_url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058378+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2235,7 +2219,7 @@
     "stream_url": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057811+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2251,7 +2235,7 @@
     "stream_url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058426+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2267,7 +2251,7 @@
     "stream_url": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058295+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2283,7 +2267,7 @@
     "stream_url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058456+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2299,7 +2283,7 @@
     "stream_url": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058272+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2315,7 +2299,7 @@
     "stream_url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057746+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2331,7 +2315,7 @@
     "stream_url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058214+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2347,7 +2331,7 @@
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058361+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2363,7 +2347,7 @@
     "stream_url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057754+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2379,7 +2363,7 @@
     "stream_url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.058289+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2395,7 +2379,7 @@
     "stream_url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": null,
+    "resolved_at": "2026-07-12T12:05:15.057921+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2411,7 +2395,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-12T12:00:17.984056+00:00",
+    "resolved_at": "2026-07-12T12:05:15.984117+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -2424,27 +2408,27 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879219/ei/04FTas2ZI6KaobIPw4_GkAM/ip/138.117.221.211/id/uLXMHBdcYEA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVOHqs_yTDRp6H86v32iwEfC5qo-2FBt2l36goImXDjeVSoAju87gXQjGLzxssD5CMX41KZcTR5/spc/SQ-ums0CQD01nY1cu2hVbQ6uED_yUtg9PqXCRCPnpTqlXDh8GMU0OHnfXYnrDQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2216250/met/1783857620,/mh/Gt/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgDQL7msXpmUj5CxtoafUFKpVHWFMWLOT_CrwYvq0jbmgCIQCz7SGEm0ICWeualxwlSYRIStNuT5s9Jvqaw2to1skw5g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKaigYqUdiF7N5iL_TnF6rMksTUIsPclZ_Oyy71F6lcyAiEA6KqcX6Kuh193JvcfnvoAQyfIPlf7yc3ZvLAujO3E37I%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879518/ei/_oJTavzCJK-c-LAPtITW0Qo/ip/138.117.221.211/id/uLXMHBdcYEA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPclR7eMoj-gdsp1N42UcSkyaqrDKxhWTjr63kyDWCib49kaenMAAVN1tVBstgjfTcYl8bM-2kI/spc/SQ-umtlRXm9o7SUxv01WhOM8OEdCrL-r6zIhC_K9NRE3VnWiRsIh-Sifp4B4og/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857919,/mh/Gt/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPUyNaWbZwZm8uN7ctYPSvP0C__HzWWmzCIzY7oPFnoYAiB4f8eYI88r55JSrpIpb0pSrj6BTOoiRvmmoXdXJRnMlQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdoTSwctKPrsigSLxLQOXCPjB2r2I1L00_nLnomcTfc0CIQC6s7HVoU4sC5drPdQumv-yjnUQoXYbCNBLO_LLZ3ynRA%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:20.100170+00:00",
-    "expires_at": "2026-07-12T18:00:19+00:00",
+    "resolved_at": "2026-07-12T12:05:19.153180+00:00",
+    "expires_at": "2026-07-12T18:05:18+00:00",
     "ttl_seconds": 21598
   },
   {
     "id": "tvc-youtube.tv.GTCbzXkcz6g",
     "name": "TV Correio da Manhã - Transmissão TV Correio da Manhã",
     "source_url": "https://www.youtube.com/watch?v=GTCbzXkcz6g",
-    "logo": "https://i.ytimg.com/vi/GTCbzXkcz6g/hqdefault.jpg?v=6a438e60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD95qyEAkDC0--ahlgeTTy-ONnAVg",
+    "logo": "https://i.ytimg.com/vi/GTCbzXkcz6g/hqdefault.jpg?v=6a438e60&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC7cvSMI1ce8Wepj8xfaH_1J_5LSg",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879221/ei/1YFTaomgFMucobIPs9vuCQ/ip/138.117.221.211/id/GTCbzXkcz6g.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEVIL-Q52pRCHCYeoKdWlljSkRnF1al0qOEhA0tLzce2VwDOUtpcQGMlyAqPCh-mWBuBqqS0mdp5/spc/SQ-umvxbQySeOsWxgaKu6gftmhstz7h1fM8Z6r9w84Y-6Q3ox9ldjits7gcgZQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857621,/mh/Z_/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946838,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJNEZE_9ugeo9t7UP5mx56fCcrdyE3czXPhFRRuHSECZAiAwdHbeAlcwe4xm71UcwHG8JPUJmZGHkRMSaL5lYHYNlQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO6nfc1B_zP3B2XxdmCAbKk8t2s6h45oY26RbmX_uORcAiAGtbrSO0HqghlduuB9RunDh7fFDTFdugwdEUemX1eCwQ%3D%3D/playlist/index.m3u8",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783879520/ei/AINTatHsIJ2jobIPxMSjsQk/ip/138.117.221.211/id/GTCbzXkcz6g.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEUvqd85Iq_axEll9jutsHCp3g4efiYDMZmQVEBs1W-YvLMaAm9feBlA0M3HC3TcSZQAeVpQSNS5/spc/SQ-umiQul2Go1TmlXvR1xUYPjh57Q7keJReGvZkkNOrgKkL4LDQ3fs02NljniA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2520000/met/1783857921,/mh/Z_/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783857392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAOKv7g00A-4HyBeA36vQtKdfW_3P89FRaGQ-hRpKteBWAiEAo-tjGDyMjqgYuKkraJQzbl6nzQQp8sD8Fvgs5A7_6mk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgaR_MxV3znJsqzT8cSAbOmd_pGwzC2Srljcw9XeqZzDICIQDqo1qacUNtJUtX9R1Nz1sqp0ThoBdqEIVmmZ_-9-zZag%3D%3D/playlist/index.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-12T12:00:21.829236+00:00",
-    "expires_at": "2026-07-12T18:00:21+00:00",
-    "ttl_seconds": 21599
+    "resolved_at": "2026-07-12T12:05:21.062701+00:00",
+    "expires_at": "2026-07-12T18:05:20+00:00",
+    "ttl_seconds": 21598
   }
 ]
