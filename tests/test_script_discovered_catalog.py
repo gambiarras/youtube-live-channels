@@ -2,10 +2,59 @@ import unittest
 
 from live_stream_catalog.sources.script_discovered_catalog import (
     DiscoveredRestCatalog,
+    ScriptDiscoveredCatalogConfig,
     discover_script_urls,
     extract_rest_catalog_config,
+    load_rest_catalog_channels,
     row_to_channel,
 )
+
+
+class FakeResponse:
+    def __init__(self, text="", payload=None):
+        self.text = text
+        self.payload = payload
+
+    def raise_for_status(self):
+        return None
+
+    def json(self):
+        return self.payload
+
+
+class FakeSession:
+    def __init__(self):
+        self.closed = False
+
+    def get(self, url, headers=None, timeout=None):
+        if url == "https://example.test/":
+            return FakeResponse('<script src="/assets/app.js"></script>')
+
+        if url == "https://example.test/assets/app.js":
+            return FakeResponse(
+                'const url = "https://project-ref.supabase.co";'
+                'const key = "eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiYW5vbiJ9.signature_part";'
+            )
+
+        if url.startswith("https://project-ref.supabase.co/rest/v1/channels?"):
+            return FakeResponse(
+                payload=[
+                    {
+                        "id": "row-id",
+                        "name": "Sample Channel",
+                        "epg_slug": "sample-channel",
+                        "stream_url": "https://media.example.test/live.m3u8",
+                        "logo_url": "https://media.example.test/logo.png",
+                        "stream_status": "active",
+                        "categories": {"name": "news"},
+                    }
+                ]
+            )
+
+        raise AssertionError(f"Unexpected URL: {url}")
+
+    def close(self):
+        self.closed = True
 
 
 class ScriptDiscoveredCatalogTest(unittest.TestCase):
@@ -83,6 +132,25 @@ class ScriptDiscoveredCatalogTest(unittest.TestCase):
         self.assertEqual(channel.source_type, "script_discovered")
         self.assertEqual(channel.status, "resolved")
         self.assertIsNone(channel.ttl_seconds)
+
+    def test_loads_channels_from_script_discovered_rest_catalog(self):
+        config = ScriptDiscoveredCatalogConfig(
+            id="catalog_1",
+            site_url="https://example.test/",
+        )
+        session = FakeSession()
+
+        channels = load_rest_catalog_channels([config], session=session)
+
+        self.assertEqual(len(channels), 1)
+        self.assertFalse(session.closed)
+        self.assertEqual(channels[0].id, "catalog_1.sample-channel")
+        self.assertEqual(channels[0].name, "Sample Channel")
+        self.assertEqual(channels[0].stream_url, "https://media.example.test/live.m3u8")
+        self.assertEqual(channels[0].logo, "https://media.example.test/logo.png")
+        self.assertEqual(channels[0].group, "news")
+        self.assertEqual(channels[0].source_type, "script_discovered")
+        self.assertEqual(channels[0].status, "resolved")
 
 
 if __name__ == "__main__":

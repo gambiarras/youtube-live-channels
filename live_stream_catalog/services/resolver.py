@@ -17,6 +17,12 @@ def build_streamlink_session() -> Streamlink:
 
 
 def resolve_channel(channel: Channel) -> Channel:
+    if channel.status == "resolved" and channel.stream_url:
+        channel.error = None
+        channel.resolved_at = utc_now().isoformat()
+        channel.expires_at, channel.ttl_seconds = extract_expiry_from_stream_url(channel.stream_url)
+        return channel
+
     session = build_streamlink_session()
 
     try:
