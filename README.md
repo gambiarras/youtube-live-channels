@@ -60,6 +60,41 @@ Contains execution statistics for monitoring.
 
 ---
 
+## Development
+
+Create a local virtual environment and install the project in editable mode:
+
+```bash
+python3.11 -m venv .venv
+.venv/bin/python -m pip install -e .
+```
+
+Run the fast unit test suite:
+
+```bash
+.venv/bin/python -m unittest discover -s tests/unit
+```
+
+Run all tests. Network integration tests are skipped unless explicitly enabled:
+
+```bash
+.venv/bin/python -m unittest discover -s tests
+```
+
+Run network integration tests:
+
+```bash
+RUN_INTEGRATION_TESTS=1 .venv/bin/python -m unittest discover -s tests/integration
+```
+
+Generate a fresh catalog:
+
+```bash
+.venv/bin/python -m live_stream_catalog --max-workers 6 build
+```
+
+---
+
 ## Project structure
 
 ```text
