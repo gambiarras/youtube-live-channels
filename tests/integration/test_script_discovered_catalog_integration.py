@@ -14,6 +14,9 @@ DEFAULT_CATALOG_SITE_URL = "https://batistaplay.net/"
 
 class ScriptDiscoveredCatalogIntegrationTest(unittest.TestCase):
     def test_fetches_rows_from_script_discovered_catalog_site(self):
+        if os.environ.get("RUN_INTEGRATION_TESTS") != "1":
+            self.skipTest("Set RUN_INTEGRATION_TESTS=1 to run network integration tests")
+
         site_url = os.environ.get("SCRIPT_DISCOVERED_CATALOG_URL", DEFAULT_CATALOG_SITE_URL)
 
         with requests.Session() as session:
