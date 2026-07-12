@@ -5,6 +5,7 @@ from importlib import resources
 from live_stream_catalog.models import Channel
 from live_stream_catalog.sources.registry import get_resource_registry
 from live_stream_catalog.sources.script_discovered_catalog import load_configured_rest_catalogs
+from live_stream_catalog.sources.youtube_live_discovery import load_youtube_live_discovery_channels
 
 logger = logging.getLogger(__name__)
 
@@ -49,6 +50,7 @@ def load_catalog(default_resolution: str = "best") -> list[Channel]:
     for resource_name, source_type in get_resource_registry():
         channels.extend(_load_single_resource(resource_name, source_type, default_resolution))
 
+    channels.extend(load_youtube_live_discovery_channels(default_resolution=default_resolution))
     channels.extend(load_configured_rest_catalogs(default_resolution=default_resolution))
 
     return _deduplicate(channels)
