@@ -14,7 +14,7 @@
       "group": "sports"
     },
     {
-      "id":"SBTNacional.br",
+      "id":"SBTCentral.br",
       "name":"SBT Central Live",
       "url":"https://www.youtube.com/@SBTCENTRAL/live",
       "logo":"https://cdn.mitvstatic.com/channels/br_sbt_m.png",
@@ -91,34 +91,6 @@
       "group": "religious"
     },
     {
-      "id":"nino_tv_.br",
-      "name":"Chaves 24H - YouTube",
-      "url":"https://www.youtube.com/@AironMedo/live",
-      "logo":"",
-      "group": "series"
-    },
-    {
-      "id":"nino_tv2.br",
-      "name":"Chaves 24H 3",
-      "url":"https://www.youtube.com/watch?v=R235fYRmuaI",
-      "logo":"",
-      "group": "series"
-    },
-    {
-      "id":"nino_tv3.br",
-      "name":"Chapolin 24H",
-      "url":"https://www.youtube.com/watch?v=pmHQcbxViEA",
-      "logo":"",
-      "group": "series"
-    },
-    {
-      "id":"nino_tv4.br",
-      "name":"Chapolin 24H 4",
-      "url":"https://www.youtube.com/watch?v=3CjgMzHzgkc",
-      "logo":"",
-      "group": "series"
-    },
-    {
       "id":"shout-studios.tv",
       "name":"Shout! Studios - Alf",
       "url":"https://www.youtube.com/watch?v=qQMwtMpMAa4",
@@ -129,6 +101,13 @@
       "id":"classic-mr-bean.tv",
       "name":"Classic Mr Bean",
       "url":"https://www.youtube.com/@ClassicMrBean/live",
+      "logo":"https://yt3.ggpht.com/er0IYBx2fOrUdTheL_zI5MRTBuAJPpBqBWqsQxvX-X3h71gjISb6K0Hp02PkE083hiN2qCRw=s88-c-k-c0x00ffffff-no-rj",
+      "group": "series"
+    },
+    {
+      "id":"mr-bean.tv",
+      "name":"Mr Bean",
+      "url":"https://www.youtube.com/@MrBean/live",
       "logo":"https://yt3.ggpht.com/er0IYBx2fOrUdTheL_zI5MRTBuAJPpBqBWqsQxvX-X3h71gjISb6K0Hp02PkE083hiN2qCRw=s88-c-k-c0x00ffffff-no-rj",
       "group": "series"
     },
