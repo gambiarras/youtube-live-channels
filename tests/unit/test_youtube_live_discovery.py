@@ -62,6 +62,7 @@ class YoutubeLiveDiscoveryTest(unittest.TestCase):
             fallback_url="https://www.youtube.com/@sample/live",
             logo="https://img.example.test/channel.jpg",
             group="sports",
+            tvg_id="SampleTV.br",
         )
 
         channels = discover_live_channels(config, youtube_dl_cls=FakeYoutubeDL)
@@ -73,6 +74,7 @@ class YoutubeLiveDiscoveryTest(unittest.TestCase):
         self.assertEqual(channels[0].source_url, "https://www.youtube.com/watch?v=live_video_1")
         self.assertEqual(channels[0].logo, "https://img.example.test/live.jpg")
         self.assertEqual(channels[0].source_type, "youtube")
+        self.assertEqual(channels[0].tvg_id, "SampleTV.br")
         self.assertEqual(channels[0].status, "pending")
 
         self.assertEqual(channels[1].id, "sample.tv.live_video_2")
@@ -87,6 +89,7 @@ class YoutubeLiveDiscoveryTest(unittest.TestCase):
             fallback_url="https://www.youtube.com/@sample/live",
             logo="https://img.example.test/channel.jpg",
             group="news",
+            tvg_id="SampleTV.br",
             max_results=12,
         )
 
@@ -101,6 +104,7 @@ class YoutubeLiveDiscoveryTest(unittest.TestCase):
         self.assertEqual(channels[0].logo, "https://img.example.test/channel.jpg")
         self.assertEqual(channels[0].group, "news")
         self.assertEqual(channels[0].source_type, "youtube")
+        self.assertEqual(channels[0].tvg_id, "SampleTV.br")
 
     def test_loads_channels_from_supplied_configs(self):
         FakeYoutubeDL.payload = {

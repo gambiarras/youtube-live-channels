@@ -208,6 +208,16 @@ def _row_id(row: dict) -> str:
     return str(value)
 
 
+def _row_tvg_id(row: dict) -> str | None:
+    value = (
+        row.get("tvg_id")
+        or row.get("xmltv_id")
+        or row.get("epg_id")
+        or row.get("epg_slug")
+    )
+    return str(value) if value else None
+
+
 def row_to_channel(
     row: dict,
     source_type: str,
@@ -225,6 +235,7 @@ def row_to_channel(
         logo=str(row.get("logo_url") or row.get("logo") or ""),
         group=_category_name(row),
         source_type=source_type,
+        tvg_id=_row_tvg_id(row),
         resolution=default_resolution,
         stream_url=stream_url,
         status=_row_status(row, stream_url),

@@ -21,6 +21,7 @@ class YouTubeLiveDiscoveryConfig:
     name: str
     logo: str
     group: str
+    tvg_id: str | None = None
     handle: str | None = None
     streams_url: str | None = None
     url: str | None = None
@@ -37,6 +38,7 @@ class YouTubeLiveDiscoveryConfig:
             name=data["name"],
             logo=data.get("logo", ""),
             group=data.get("group", "general"),
+            tvg_id=data.get("tvg_id"),
             handle=data.get("handle"),
             streams_url=data.get("streams_url"),
             url=data.get("url"),
@@ -165,6 +167,7 @@ def _fallback_channel(config: YouTubeLiveDiscoveryConfig) -> Channel:
         logo=config.logo,
         group=config.group,
         source_type=SOURCE_TYPE,
+        tvg_id=config.tvg_id,
         resolution=config.resolution or "best",
     )
 
@@ -207,6 +210,7 @@ def discover_live_channels(
                 logo=_entry_logo(config, entry),
                 group=config.group,
                 source_type=SOURCE_TYPE,
+                tvg_id=config.tvg_id,
                 resolution=config.resolution or "best",
             )
         )
@@ -230,6 +234,7 @@ def load_youtube_live_discovery_channels(
             name=config.name,
             logo=config.logo,
             group=config.group,
+            tvg_id=config.tvg_id,
             handle=config.handle,
             streams_url=config.streams_url,
             url=config.url,

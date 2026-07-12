@@ -45,6 +45,7 @@ class FakeSession:
                         "epg_slug": "sample-channel",
                         "stream_url": "https://media.example.test/live.m3u8",
                         "logo_url": "https://media.example.test/logo.png",
+                        "tvg_id": "SampleChannel.br",
                         "stream_status": "active",
                         "categories": {"name": "news"},
                     }
@@ -118,6 +119,7 @@ class ScriptDiscoveredCatalogTest(unittest.TestCase):
                 "name": "Sample Channel",
                 "stream_url": "https://media.example.test/live.m3u8",
                 "logo_url": "https://media.example.test/logo.png",
+                "xmltv_id": "SampleChannel.br",
                 "categories": {"name": "news"},
             },
             source_type="script_discovered",
@@ -130,6 +132,7 @@ class ScriptDiscoveredCatalogTest(unittest.TestCase):
         self.assertEqual(channel.logo, "https://media.example.test/logo.png")
         self.assertEqual(channel.group, "news")
         self.assertEqual(channel.source_type, "script_discovered")
+        self.assertEqual(channel.tvg_id, "SampleChannel.br")
         self.assertEqual(channel.status, "resolved")
         self.assertIsNone(channel.ttl_seconds)
 
@@ -150,6 +153,7 @@ class ScriptDiscoveredCatalogTest(unittest.TestCase):
         self.assertEqual(channels[0].logo, "https://media.example.test/logo.png")
         self.assertEqual(channels[0].group, "news")
         self.assertEqual(channels[0].source_type, "script_discovered")
+        self.assertEqual(channels[0].tvg_id, "SampleChannel.br")
         self.assertEqual(channels[0].status, "resolved")
 
 

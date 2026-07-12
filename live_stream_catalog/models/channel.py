@@ -10,6 +10,7 @@ class Channel:
     logo: str
     group: str
     source_type: str
+    tvg_id: str | None = None
     resolution: str = "best"
     stream_url: str | None = None
     status: str = "pending"
@@ -27,6 +28,7 @@ class Channel:
             logo=data.get("logo", ""),
             group=data.get("group", "general"),
             source_type=data.get("source_type", "unknown"),
+            tvg_id=data.get("tvg_id"),
             resolution=data.get("resolution", default_resolution),
             stream_url=data.get("stream_url"),
             status=data.get("status", "pending"),
