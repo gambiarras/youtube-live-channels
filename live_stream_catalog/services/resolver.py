@@ -10,6 +10,10 @@ from live_stream_catalog.services.expiry import extract_expiry_from_stream_url, 
 logger = logging.getLogger(__name__)
 
 
+def _is_pre_resolved(channel: Channel) -> bool:
+    return channel.status == "resolved" and bool(channel.stream_url)
+
+
 def build_streamlink_session() -> Streamlink:
     session = Streamlink()
     register_custom_plugins(session)
@@ -17,7 +21,7 @@ def build_streamlink_session() -> Streamlink:
 
 
 def resolve_channel(channel: Channel) -> Channel:
-    if channel.status == "resolved" and channel.stream_url:
+    if _is_pre_resolved(channel):
         channel.error = None
         channel.resolved_at = utc_now().isoformat()
         channel.expires_at, channel.ttl_seconds = extract_expiry_from_stream_url(channel.stream_url)
@@ -63,10 +67,16 @@ def resolve_channel(channel: Channel) -> Channel:
 
 
 def resolve_channels(channels: list[Channel], max_workers: int) -> list[Channel]:
-    results: list[Channel] = []
+    pre_resolved = [channel for channel in channels if _is_pre_resolved(channel)]
+    unresolved = [channel for channel in channels if not _is_pre_resolved(channel)]
+    results = [resolve_channel(channel) for channel in pre_resolved]
 
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(resolve_channel, channel): channel for channel in channels}
+    if not unresolved:
+        return results
+
+    worker_count = max(1, min(max_workers, len(unresolved)))
+    with ThreadPoolExecutor(max_workers=worker_count) as executor:
+        futures = {executor.submit(resolve_channel, channel): channel for channel in unresolved}
 
         for future in as_completed(futures):
             results.append(future.result())
