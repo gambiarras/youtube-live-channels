@@ -8,6 +8,7 @@ dependencies = [
   "requests>=2.31.0",
   "streamlink>=7.0.0",
   "cloudscraper>=1.2.71",
+  "yt-dlp>=2025.1.15",
 ]
 
 [project.scripts]
