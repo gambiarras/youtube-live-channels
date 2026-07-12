@@ -49,10 +49,17 @@
       "group": "series"
     },
     {
-      "id":"aventuradogreg.tv",
-      "name":"AventuraDoGreg",
-      "url":"https://www.twitch.tv/todo_mundo_odei4_o_chris",
-      "logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/f7497cb9-c162-404b-8247-d487a145fa0c-profile_image-70x70.png",
+      "id":"iptvsimplesbr.tv",
+      "name":"Séries #1",
+      "url":"https://www.twitch.tv/iptvsimplesbr",
+      "logo":"",
+      "group": "series"
+    },
+    {
+      "id":"brasilfenixtvcommon.tv",
+      "name":"Séries #2",
+      "url":"https://www.twitch.tv/brasilfenixtvcommon",
+      "logo":"",
       "group": "series"
     }
   ]
