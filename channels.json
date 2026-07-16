@@ -43,7 +43,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-16T19:00:18.125793+00:00",
+    "resolved_at": "2026-07-16T19:30:17.983771+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -176,22 +176,6 @@
     "ttl_seconds": 21599
   },
   {
-    "id": "JovemPanNews.br.kyjj6Dbze_8",
-    "name": "Jovem Pan Live - TEMPO REAL - 16/07/26",
-    "source_url": "https://www.youtube.com/watch?v=kyjj6Dbze_8",
-    "logo": "https://i.ytimg.com/vi/kyjj6Dbze_8/hqdefault.jpg?v=6a558a9a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwje1OXkpa2IaIviFaahdZHPF1Xw",
-    "group": "news",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784242819/ei/Iw5Zar3qD4GiobIPj6bD0AY/ip/138.117.220.50/id/kyjj6Dbze_8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOPU54T9NNuvkz2HYrXDsiMO0WVytFqjWqpDDV64nBwbvr3uANEZgFhfIBk6CHRoDtIja1J3N-c/spc/SQ-umjkyaE0aMpichVmXuTneRDE-5AbHca--69svpXHXCEB8Qm2jDEQmT7SxLA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1667500/met/1784221219,/mh/Qn/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784220527/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAPcMqAnrYVv3gftyiFbYVml9Pp5_vxyeXM3cX_2ebbiVAiEA7vm5yzDuZ8pM8cQ-0xMsJER3ZpxNo3M1jMqO9csBFkU%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKk4btmjVRtgMxSfEkSDd6ezI0_eK5S4o3AeRxdnsOHDAiBQPMeSFhwIl0aDp2MrV8p15zMv8FgJeNus0usSIF8itQ%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-16T17:00:19.824185+00:00",
-    "expires_at": "2026-07-16T23:00:19+00:00",
-    "ttl_seconds": 21599
-  },
-  {
     "id": "mr-bean.tv.fD139Si2p4Q",
     "name": "Mr Bean - Mr. Bean Cartoon S1 LIVE: Hilarious Trouble Starts Here!",
     "source_url": "https://www.youtube.com/watch?v=fD139Si2p4Q",
@@ -219,7 +203,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-16T19:00:19.960126+00:00",
+    "resolved_at": "2026-07-16T19:30:18.687357+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -288,10 +272,26 @@
     "ttl_seconds": 21598
   },
   {
+    "id": "RecordNews.br.nqDCZA-V_Jo",
+    "name": "Record News Live - Link News - 16/07/2026",
+    "source_url": "https://www.youtube.com/watch?v=nqDCZA-V_Jo",
+    "logo": "https://i.ytimg.com/vi/nqDCZA-V_Jo/hqdefault.jpg?v=6a593023&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEs8pHWzuAT6IAixK27bF4-8rGrQ",
+    "group": "news",
+    "source_type": "youtube",
+    "tvg_id": null,
+    "resolution": "best",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784251819/ei/SzFZateMHvqZ-LAPu8Xh6A0/ip/138.117.220.50/id/nqDCZA-V_Jo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOjWq5_I8AIxwkQ31eozqYRHrP_UbBSrCEvdvsdqWjSbgPKOKy8A1gwnJjzZNQLNkf9GvJng-9m/spc/SQ-umhQCiEAqQ3fOZhM4npIQm9ykwdpf9HLXyjRq2dPBw8MoFnAgks-UX6gGog/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1697500/met/1784230220,/mh/mg/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784229872/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAMUSn0zhq4dSY7QcHHecnp3sqGqkAPiYVao-q3jbU0KIAiA6wm2F7779Ikp_EUAsjLZaaEXqMHj6cO0Xv5qZsOZfew%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPK3t-wjQVdAa8g-2v02aCck-TP71cTD12UmT6LRehPQAiEAlQsB6dG0j2qhQ4qixL2FE9rhBIBl83pxvhf_ObhgUJY%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-16T19:30:20.084771+00:00",
+    "expires_at": "2026-07-17T01:30:19+00:00",
+    "ttl_seconds": 21598
+  },
+  {
     "id": "SantuarioNacionaldeAparecida.tv.juUt-rN5CVo",
     "name": "Santuário Nacional de Aparecida - Santuário Nacional AO VIVO - Você em constante Oração na Casa da Mãe",
     "source_url": "https://www.youtube.com/watch?v=juUt-rN5CVo",
-    "logo": "https://i.ytimg.com/vi/juUt-rN5CVo/hqdefault.jpg?v=6871817d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACkz7ris78jvaS-R5FyeoIcJZ1ww",
+    "logo": "https://i.ytimg.com/vi/juUt-rN5CVo/hqdefault.jpg?v=6871817d&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDbIPNzwE6f2DlvK9whm966w3krKA",
     "group": "religious",
     "source_type": "youtube",
     "tvg_id": null,
@@ -307,7 +307,7 @@
     "id": "SBTNacional.br.LLpNUqHVam8",
     "name": "SBT - YouTube - SBT Ao Vivo",
     "source_url": "https://www.youtube.com/watch?v=LLpNUqHVam8",
-    "logo": "https://i.ytimg.com/vi/LLpNUqHVam8/hqdefault.jpg?v=6931e6d1&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAVV23BUzUchJtpS3WeAMje5t-ErA",
+    "logo": "https://i.ytimg.com/vi/LLpNUqHVam8/hqdefault.jpg?v=6931e6d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWjEQmE0753BwzWbin5stbK2N4gQ",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
