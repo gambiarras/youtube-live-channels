@@ -43,7 +43,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-16T12:30:17.058826+00:00",
+    "resolved_at": "2026-07-16T13:00:17.528516+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -112,20 +112,20 @@
     "ttl_seconds": 21599
   },
   {
-    "id": "DiarioTVTeresopolis.br",
-    "name": "Diário TV Teresópolis",
-    "source_url": "https://www.youtube.com/@odiariodeteresopolis/live",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp",
+    "id": "DiarioTVTeresopolis.br.wY0xa27Zojo",
+    "name": "Diário TV Teresópolis - DIÁRIO TV AO VIVO - Programação da Diário TV Teresópolis - Inscreva-se no nosso canal",
+    "source_url": "https://www.youtube.com/watch?v=wY0xa27Zojo",
+    "logo": "https://i.ytimg.com/vi/wY0xa27Zojo/hqdefault.jpg?v=6a58d4a2&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCVCmznrK19I2FPVFKWSDMCxn4szw",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "offline",
-    "error": "no_stream_found",
-    "resolved_at": "2026-07-16T12:30:18.608697+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784228420/ei/5NVYatbcCOiE1sQPhMmV8QY/ip/138.117.220.50/id/wY0xa27Zojo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhP1Vl91EOrWApERPl1iNanQEQjcRmL2vI9zEeBDFbP4GOTwD5dmYbqxUrLGO06DXmwJgSGz0ZDB/spc/SQ-umqsfm9it-qZizFwD0wi_Tv4KQLkmwVE1ioyHY7bQSeRqsz47tcwsRWQLFA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2292500/met/1784206820,/mh/eB/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784206352/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAPhu4Taqu3Ij__-WXSQKTxVVSdsAww4YHe5UdV8eDxmUAiApQw95YwbpUTY-iN07kCaJdbIfxSxP91qz4fECg_6-ww%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJfLDV621MWXa6jSzx2tElAS7DRwzeoRhYW7ifLHLGk0AiAh2PqBCgSLWh8Pg8SRprY762Toyf_polOKzOJcQXfwDQ%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-16T13:00:20.409915+00:00",
+    "expires_at": "2026-07-16T19:00:20+00:00",
+    "ttl_seconds": 21599
   },
   {
     "id": "iptvsimplesbr.tv",
@@ -176,6 +176,22 @@
     "ttl_seconds": 21598
   },
   {
+    "id": "JovemPanNews.br.V9N6ULcsWx8",
+    "name": "Jovem Pan Live - MORNING SHOW - 16/07/2026",
+    "source_url": "https://www.youtube.com/watch?v=V9N6ULcsWx8",
+    "logo": "https://i.ytimg.com/vi/V9N6ULcsWx8/hqdefault.jpg?v=6a5589fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqlrcvnaEQ-gjEcNJO-zJ3ApzCZw",
+    "group": "news",
+    "source_type": "youtube",
+    "tvg_id": null,
+    "resolution": "best",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784228418/ei/4tVYat2KNLjy1sQPovuUgQs/ip/138.117.220.50/id/V9N6ULcsWx8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNFIZ5v7NYPqJYVqIPtcrIGO13nCDpQ9WGAUSTdZq5XSwLEX_smWRnM27jAP64cnBRtu4Y0j-ho/spc/SQ-umr84c-MuYk8bRO1o6HjXW5PL5En71_jxTZs2GcsFEFYJ0_Fg669Y5ZiMJA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2292500/met/1784206819,/mh/dY/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784206352/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgJRib63axHDY-WE3HQ3NVX6-TK5Lt8phpXCu5ddXN-vICIQDFpx5bCx8hQ63pwpKKf9BkJuujMDEXd9aMYxgfbr7qrg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgE9El5Utl7W2jIRK1GQFPUikHEaXMggH1U6sXa2HKIUICIBymRQvDIwP1FW19qvGK58OWTmK1vzqC044lwpeB51c7/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-16T13:00:19.380680+00:00",
+    "expires_at": "2026-07-16T19:00:18+00:00",
+    "ttl_seconds": 21598
+  },
+  {
     "id": "mr-bean.tv.fD139Si2p4Q",
     "name": "Mr Bean - Mr. Bean Cartoon S1 LIVE: Hilarious Trouble Starts Here!",
     "source_url": "https://www.youtube.com/watch?v=fD139Si2p4Q",
@@ -203,7 +219,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-16T12:30:18.216943+00:00",
+    "resolved_at": "2026-07-16T13:00:18.224824+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
