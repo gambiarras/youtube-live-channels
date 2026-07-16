@@ -3,7 +3,7 @@ from unittest.mock import patch
 
 from live_stream_catalog.config import AppConfig
 from live_stream_catalog.models import Channel
-from live_stream_catalog.services.refresh import _load_dynamic_channels
+from live_stream_catalog.services.refresh import _carry_previous_resolution, _load_dynamic_channels
 
 
 class RefreshTest(unittest.TestCase):
@@ -121,6 +121,47 @@ class RefreshTest(unittest.TestCase):
             channels = _load_dynamic_channels(config, [existing_script])
 
         self.assertEqual(channels, [new_youtube, existing_script])
+
+    def test_carries_previous_resolution_for_rediscovered_dynamic_channels(self):
+        previous = Channel(
+            id="youtube.live.video",
+            name="Old title",
+            source_url="https://www.youtube.com/watch?v=video",
+            logo="",
+            group="general",
+            source_type="youtube",
+            stream_url="https://old.example.test/live.m3u8",
+            status="resolved",
+            error=None,
+            resolved_at="2026-07-16T00:00:00+00:00",
+            expires_at="2026-07-16T02:00:00+00:00",
+            ttl_seconds=3600,
+        )
+        rediscovered = Channel(
+            id="youtube.live.video",
+            name="New title",
+            source_url="https://www.youtube.com/watch?v=video",
+            logo="",
+            group="general",
+            source_type="youtube",
+        )
+        changed_video = Channel(
+            id="youtube.live.other",
+            name="Other",
+            source_url="https://www.youtube.com/watch?v=other",
+            logo="",
+            group="general",
+            source_type="youtube",
+        )
+
+        channels = _carry_previous_resolution([rediscovered, changed_video], [previous])
+
+        self.assertEqual(channels[0].stream_url, "https://old.example.test/live.m3u8")
+        self.assertEqual(channels[0].status, "resolved")
+        self.assertEqual(channels[0].resolved_at, "2026-07-16T00:00:00+00:00")
+        self.assertEqual(channels[0].expires_at, "2026-07-16T02:00:00+00:00")
+        self.assertEqual(channels[0].ttl_seconds, 3600)
+        self.assertIsNone(channels[1].stream_url)
 
 
 if __name__ == "__main__":

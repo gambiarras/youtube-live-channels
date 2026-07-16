@@ -37,6 +37,27 @@ def _current_channels_by_source(
     ]
 
 
+def _carry_previous_resolution(
+    channels: list[Channel],
+    current_channels: list[Channel],
+) -> list[Channel]:
+    current_by_id = {channel.id: channel for channel in current_channels}
+
+    for channel in channels:
+        current = current_by_id.get(channel.id)
+        if not current or current.source_url != channel.source_url or not current.stream_url:
+            continue
+
+        channel.stream_url = current.stream_url
+        channel.status = current.status
+        channel.error = current.error
+        channel.resolved_at = current.resolved_at
+        channel.expires_at = current.expires_at
+        channel.ttl_seconds = current.ttl_seconds
+
+    return channels
+
+
 def _load_dynamic_channels(
     config: AppConfig,
     current_channels: list[Channel],
@@ -87,7 +108,10 @@ def run_refresh(config: AppConfig) -> None:
         run_build(config)
         return
 
-    dynamic_channels = _load_dynamic_channels(config, current_channels)
+    dynamic_channels = _carry_previous_resolution(
+        _load_dynamic_channels(config, current_channels),
+        current_channels,
+    )
     static_channels = [
         channel
         for channel in current_channels

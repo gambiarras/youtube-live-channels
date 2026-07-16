@@ -1,10 +1,12 @@
 import unittest
+from unittest.mock import patch
 
 from live_stream_catalog.sources.registry import get_resource_registry
 from live_stream_catalog.sources.youtube_live_discovery import (
     YouTubeLiveDiscoveryConfig,
     discover_live_channels,
     load_config_resource,
+    _youtube_dl_options,
     load_youtube_live_discovery_channels,
 )
 
@@ -144,6 +146,15 @@ class YoutubeLiveDiscoveryTest(unittest.TestCase):
         self.assertNotIn("youtube_channels.json", resource_names)
         self.assertGreaterEqual(len(configs), 1)
         self.assertTrue(all(config.streams_url for config in configs))
+
+    def test_youtube_dl_options_accept_cookie_file_from_environment(self):
+        with patch.dict("os.environ", {"YOUTUBE_COOKIES_FILE": "/tmp/youtube-cookies.txt"}):
+            options = _youtube_dl_options(8)
+
+        self.assertEqual(options["playlistend"], 8)
+        self.assertEqual(options["cookiefile"], "/tmp/youtube-cookies.txt")
+        self.assertEqual(options["extractor_retries"], 3)
+        self.assertEqual(options["retries"], 3)
 
 
 if __name__ == "__main__":

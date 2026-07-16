@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 from dataclasses import dataclass
 from importlib import resources
 from urllib.parse import urlparse
@@ -150,13 +151,21 @@ def _entry_logo(config: YouTubeLiveDiscoveryConfig, entry: dict) -> str:
 
 
 def _youtube_dl_options(max_results: int) -> dict:
-    return {
+    options = {
         "quiet": True,
         "no_warnings": True,
         "skip_download": True,
         "extract_flat": "in_playlist",
         "playlistend": max_results,
+        "extractor_retries": 3,
+        "retries": 3,
     }
+
+    cookie_file = os.environ.get("YOUTUBE_COOKIES_FILE") or os.environ.get("YT_DLP_COOKIES_FILE")
+    if cookie_file:
+        options["cookiefile"] = cookie_file
+
+    return options
 
 
 def _fallback_channel(config: YouTubeLiveDiscoveryConfig) -> Channel:
