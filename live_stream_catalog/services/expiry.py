@@ -1,3 +1,5 @@
+import base64
+import json
 from datetime import datetime, timedelta, timezone
 from urllib.parse import parse_qs, unquote, urlparse
 
@@ -54,6 +56,26 @@ def _extract_expiry_from_query(url: str) -> tuple[str | None, int | None]:
     return None, None
 
 
+def _extract_expiry_from_jwt_query(url: str) -> tuple[str | None, int | None]:
+    parsed = urlparse(url)
+    query = parse_qs(parsed.query)
+
+    for token in query.get("token", []):
+        parts = token.split(".")
+        if len(parts) < 2:
+            continue
+
+        try:
+            payload = parts[1] + "=" * (-len(parts[1]) % 4)
+            data = json.loads(base64.urlsafe_b64decode(payload))
+            expire_ts = int(data["exp"])
+            return _build_expiry_result(expire_ts)
+        except (KeyError, TypeError, ValueError, json.JSONDecodeError):
+            continue
+
+    return None, None
+
+
 def extract_expiry_from_stream_url(url: str | None) -> tuple[str | None, int | None]:
     if not url:
         return None, None
@@ -64,7 +86,11 @@ def extract_expiry_from_stream_url(url: str | None) -> tuple[str | None, int | N
     if "googlevideo.com" in hostname:
         return _extract_youtube_expiry_from_path(unquote(parsed.path))
 
-    return _extract_expiry_from_query(url)
+    expires_at, ttl_seconds = _extract_expiry_from_query(url)
+    if expires_at is not None:
+        return expires_at, ttl_seconds
+
+    return _extract_expiry_from_jwt_query(url)
 
 
 def needs_refresh(channel, min_ttl_seconds: int, max_age_by_source: dict[str, int] | None = None) -> bool:

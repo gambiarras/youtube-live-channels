@@ -5,9 +5,15 @@ from live_stream_catalog.models import Channel
 from live_stream_catalog.services.resolver import resolve_channel, resolve_channels
 
 
+class FakeMultivariant:
+    def __init__(self, uri):
+        self.uri = uri
+
+
 class FakeStream:
-    def __init__(self, url):
+    def __init__(self, url, multivariant_uri=None):
         self.url = url
+        self.multivariant = FakeMultivariant(multivariant_uri) if multivariant_uri else None
 
 
 class ResolverTest(unittest.TestCase):
@@ -137,6 +143,63 @@ class ResolverTest(unittest.TestCase):
         self.assertEqual(result.status, "error")
         self.assertIsNone(result.stream_url)
         self.assertEqual(result.error, "403 Client Error: Forbidden")
+
+    def test_extracts_ttl_from_stream_multivariant_uri(self):
+        channel = Channel(
+            id="kick.live",
+            name="Kick Live",
+            source_url="https://kick.com/example",
+            logo="",
+            group="general",
+            source_type="kick",
+        )
+        session = Mock()
+        session.streams.return_value = {
+            "best": FakeStream(
+                "https://playlist.live-video.net/v1/playlist/final.m3u8",
+                "https://playback.live-video.net/master.m3u8?token="
+                "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9."
+                "eyJleHAiOjQxMDI0NDQ4MDB9.signature",
+            )
+        }
+
+        with patch(
+            "live_stream_catalog.services.resolver.build_streamlink_session",
+            return_value=session,
+        ):
+            result = resolve_channel(channel)
+
+        self.assertEqual(result.status, "resolved")
+        self.assertEqual(result.stream_url, "https://playlist.live-video.net/v1/playlist/final.m3u8")
+        self.assertEqual(result.expires_at, "2100-01-01T00:00:00+00:00")
+        self.assertIsNotNone(result.ttl_seconds)
+
+    def test_retries_empty_kick_streams_before_marking_offline(self):
+        channel = Channel(
+            id="kick.live",
+            name="Kick Live",
+            source_url="https://kick.com/example",
+            logo="",
+            group="general",
+            source_type="kick",
+        )
+        session = Mock()
+        session.streams.side_effect = [
+            {},
+            {},
+            {"best": FakeStream("https://kick.example.test/live.m3u8")},
+        ]
+
+        with patch(
+            "live_stream_catalog.services.resolver.build_streamlink_session",
+            return_value=session,
+        ), self.assertLogs("live_stream_catalog.services.resolver", level="WARNING"):
+            result = resolve_channel(channel)
+
+        self.assertEqual(session.streams.call_count, 3)
+        self.assertEqual(result.status, "resolved")
+        self.assertEqual(result.stream_url, "https://kick.example.test/live.m3u8")
+        self.assertIsNone(result.error)
 
     def test_accepts_zero_workers_when_there_is_nothing_to_resolve(self):
         result = resolve_channels([], max_workers=0)

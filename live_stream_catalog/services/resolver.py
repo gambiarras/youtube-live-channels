@@ -15,6 +15,8 @@ logger = logging.getLogger(__name__)
 
 DIRECT_STREAM_SOURCE_TYPES = {"script_discovered"}
 SERIAL_RESOLVE_SOURCE_TYPES = {"youtube"}
+NO_STREAM_RETRY_SOURCE_TYPES = {"kick", "twitch"}
+NO_STREAM_MAX_ATTEMPTS = 3
 TRANSIENT_RESOLVE_ERROR_MARKERS = (
     "429",
     "too many requests",
@@ -55,6 +57,39 @@ def _preserve_existing_stream_url(channel: Channel, exc: Exception) -> Channel:
     return channel
 
 
+def _stream_attempt_count(channel: Channel) -> int:
+    if channel.source_type in NO_STREAM_RETRY_SOURCE_TYPES:
+        return NO_STREAM_MAX_ATTEMPTS
+
+    return 1
+
+
+def _resolve_stream(session: Streamlink, channel: Channel):
+    stream = None
+
+    for attempt in range(1, _stream_attempt_count(channel) + 1):
+        streams = session.streams(channel.source_url)
+        stream = streams.get(channel.resolution) or streams.get("best")
+        if stream is not None:
+            return stream
+
+        if attempt < _stream_attempt_count(channel):
+            logger.warning(
+                "No stream found, retrying id=%s source_url=%s attempt=%s",
+                channel.id,
+                channel.source_url,
+                attempt,
+            )
+
+    return stream
+
+
+def _stream_expiry_source_url(stream) -> str | None:
+    multivariant = getattr(stream, "multivariant", None)
+    multivariant_uri = getattr(multivariant, "uri", None)
+    return multivariant_uri or getattr(stream, "url", None)
+
+
 def build_streamlink_session() -> Streamlink:
     session = Streamlink()
     register_custom_plugins(session)
@@ -71,8 +106,7 @@ def resolve_channel(channel: Channel) -> Channel:
     session = build_streamlink_session()
 
     try:
-        streams = session.streams(channel.source_url)
-        stream = streams.get(channel.resolution) or streams.get("best")
+        stream = _resolve_stream(session, channel)
 
         if stream is None:
             channel.status = "offline"
@@ -87,7 +121,7 @@ def resolve_channel(channel: Channel) -> Channel:
         channel.status = "resolved"
         channel.error = None
         channel.resolved_at = utc_now().isoformat()
-        channel.expires_at, channel.ttl_seconds = extract_expiry_from_stream_url(stream.url)
+        channel.expires_at, channel.ttl_seconds = extract_expiry_from_stream_url(_stream_expiry_source_url(stream))
         return channel
 
     except Exception as exc:

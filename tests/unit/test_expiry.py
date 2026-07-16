@@ -28,6 +28,17 @@ class ExpiryTest(unittest.TestCase):
         self.assertIsNotNone(ttl_seconds)
         self.assertGreater(ttl_seconds, 0)
 
+    def test_extracts_expiry_from_jwt_token_query_parameter(self):
+        expires_at, ttl_seconds = extract_expiry_from_stream_url(
+            "https://playback.live-video.net/master.m3u8?token="
+            "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9."
+            "eyJleHAiOjQxMDI0NDQ4MDB9.signature"
+        )
+
+        self.assertEqual(expires_at, "2100-01-01T00:00:00+00:00")
+        self.assertIsNotNone(ttl_seconds)
+        self.assertGreater(ttl_seconds, 0)
+
     def test_refreshes_unresolved_channels(self):
         channel = Channel(
             id="offline.tv",
