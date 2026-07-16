@@ -43,7 +43,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-16T14:00:17.469253+00:00",
+    "resolved_at": "2026-07-16T14:30:16.525315+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -96,22 +96,6 @@
     "ttl_seconds": 21598
   },
   {
-    "id": "CNNbrasil.tv.sTa5iRWSGMM",
-    "name": "CNN Brasil - AO VIVO: ARGENTINA BATE INGLATERRA E ENCARA ESPANHA NA FINAL. O QUE ESPERAR? | CONVOCAÇÃO CNN",
-    "source_url": "https://www.youtube.com/watch?v=sTa5iRWSGMM",
-    "logo": "https://i.ytimg.com/vi/sTa5iRWSGMM/hqdefault.jpg?v=6a58051d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm5AMXbg7-V_eqyVn67t5r8x97gQ",
-    "group": "news",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784230219/ei/69xYapqONNTJ8wKUk6KJDA/ip/138.117.220.50/id/sTa5iRWSGMM.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPCbPXNfjIuKTRxGl_uogosTKyOf-ZKpcie1Ym3pmRpWP9VSRqgZUZ-l-DTSVav0MKeCCf6Ew2O/spc/SQ-umrRnTuYmxdHLc8XPyg5bQZZneDRSDJV6ImVQbKtghvJ8E_o9OpLaKlRn2A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1711250/met/1784208620,/mh/1W/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784208035/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgMq5mymqc_G3G1SvymnKTBUexXLKci5NVDT_WaViIa5cCIHxaIxLRrEvCvEIr2nz1j5aTWm5nMnm2B9Tt5UQNOFe_/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO2T1frTiDCMcYteA95CRk2eeC9hvakLuNVGF4G-1gdxAiBFxZXtkqBRy1tYcrR878tSA-m46Ubr92fUjnUvKHiMKg%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-16T13:30:20.399484+00:00",
-    "expires_at": "2026-07-16T19:30:19+00:00",
-    "ttl_seconds": 21598
-  },
-  {
     "id": "CNNbrasil.tv.VW8Y0IOXnlU",
     "name": "CNN Brasil - AO VIVO: BRASIL REAGE AO TARIFAÇO DOS EUA E DIZ QUE USARÁ RECIPROCIDADE | LIVE CNN",
     "source_url": "https://www.youtube.com/watch?v=VW8Y0IOXnlU",
@@ -152,10 +136,10 @@
     "source_type": "twitch",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://sae11.playlist.ttvnw.net/v1/playlist/CtMEguujP2nrveBiQX8AGvYEm6qZWCxF17Jg_zA5XKgQgAlTWFJ5dAjlm8_1CvpJXYvdSmIE11LfZ8zLwJ3FnPv01c39161URxvP3fFCNHxcut44WM7eUBQUxHNaoEfhmqCG2zhkluFjtXxI4zc6NUyzDRO237b_2WCRo_oHPMbOs_ATNae3ZxxMMcvEGnrmykfwQnPxy2fmt1Eb1Ql7rcAXQ4p3MK3gjGcaL9qyLymYLmTZAg6vYv8lubAkGmZ5kpG01xjMP8j8NfcFxlznAcTgBTZNInt5UhJ2Mu6EFn4b1TrZsobLV_Rz9iy-HtBv2qZs1PPPoi1eUjWVcKLuk-w9fYzeIo9qB6950Pks6DSnlk10625YOUL8aJRG-4mTzc08rh4_c39jHVqaUmgTVr7Wxzp2z3PiN_zVPs80Jji3142GXz4D6D5d1Kgo2xJGeeVSScZSwl5nh6kJ9iZHF_dLQ0L1d6T2FhwUp7Ran3ivcoLGcaW643TsO5BIvK4_cE6SCWDIiQ4c9IsZmpWJIsqxg-fyoeH3q626Sg5YIjjXutpxYtMwD4EiJkNcrOom_eVJ2qz1nwlYVRSagEr6RBLSmJM63C9XU_69LeDMdipmcHmM3LkYTBiWBtGODl1jm8Ixyho6e9X7n0W5hf_IPgHeH8VkULzHIUHMJ8YCQm647NV7oifk-MkXV3Qn4EyDJasgxvEAHWr2H0Q0WUqCUKDaoZoiSZEDQUgQIDtAoIUmnD0rWxdZ5DLBYm_WLchoPkL5srs_YOd0pPTNajjJUkAHQ0A7ARoMZgNyKCAFYY4VOlCVIAEqCXVzLWVhc3QtMjDNDw.m3u8",
+    "stream_url": "https://sae11.playlist.ttvnw.net/v1/playlist/CtMEGpt-EogILhni0kzJJVH6pJ6ojx1MaapsKlRid5XbBeOhY5qFdZ_jDGuSe1qttXjjmNdXg21xxZSA-V30s0vnq70_CaJQNDQ9YAc33B_5RbhwXMYn6ogDD0qYHTM1uB24GA_BJh5JhwY2-gl1HIgGbm96fgwWJYOoY0HF5mNWh7f5pPmbtpSOd4BSsdaBV1GVOAu5v-e_n2YGc5bg7G8NM_JAN508KJUH178sCIMlcBC8_LZZAOsoLaDrRcuE1ukrAZE-8JvuF3A0m4_SYF7rA886E7raW7yj8MfkzQjosV5j2HlRELIbfU_H7tpoJ-UhKs_oDbtZWJSHusSKsW_WPh4_nLhIdLEJ68huSHNeBYXXvd4HhYvt53VhsdzCWT-zYhhJ7LzaDqm-DtGUPsxdCCzTB7gtzuVomtvoeFMc5Z-P2Crkb2cgxo87brNAkzm1R05g8TIwFDv33Mm9i9FVQYxeN3fNIqHNUhBvHtA06-RPottjVXNwTczZR90FbwRbarjZbAsy3tjX4B3p5Qdnu0NIdFluzbt8jKxspteokR5sOTI0uvCpw4204tbGcv9zSNZBLzWBUq720xHH0lvKxZp0s19KVpWGnywbj3qHxUYyZxasH7xGyDUICsz6xRR6_Jk38oVwpqeMNdsLlj5VFwTtK5bP1JKSZgAcCn6lzzbRV5DIhgRhWjOxuCXa2GGIXBGyxnbT1yc1rnQkdqMWjS5bPA2AQnUKf9mdLhOwky4qIoqI0umR7rxpio4nxCkr5v6ZkLnN-j12XJphNiSFbsklWRoM1ATs5tw91uoB7JDtIAEqCXVzLWVhc3QtMjDNDw.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-16T13:30:17.034548+00:00",
+    "resolved_at": "2026-07-16T14:30:17.358769+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -235,7 +219,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-16T14:00:18.150305+00:00",
+    "resolved_at": "2026-07-16T14:30:18.140438+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
