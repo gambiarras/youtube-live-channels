@@ -3,7 +3,8 @@ from unittest.mock import patch
 
 from live_stream_catalog.config import AppConfig
 from live_stream_catalog.models import Channel
-from live_stream_catalog.services.refresh import _carry_previous_resolution, _load_dynamic_channels
+from live_stream_catalog.services.catalog_state import carry_previous_resolution
+from live_stream_catalog.services.refresh import _load_dynamic_channels
 
 
 class RefreshTest(unittest.TestCase):
@@ -154,7 +155,7 @@ class RefreshTest(unittest.TestCase):
             source_type="youtube",
         )
 
-        channels = _carry_previous_resolution([rediscovered, changed_video], [previous])
+        channels = carry_previous_resolution([rediscovered, changed_video], [previous])
 
         self.assertEqual(channels[0].stream_url, "https://old.example.test/live.m3u8")
         self.assertEqual(channels[0].status, "resolved")

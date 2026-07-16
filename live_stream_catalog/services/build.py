@@ -1,7 +1,8 @@
 import logging
 
 from live_stream_catalog.config import AppConfig
-from live_stream_catalog.io import write_json_atomic
+from live_stream_catalog.io import load_channels_file, write_json_atomic
+from live_stream_catalog.services.catalog_state import carry_previous_resolution, split_refresh_candidates
 from live_stream_catalog.services.metadata import build_run_metadata
 from live_stream_catalog.services.resolver import resolve_channels
 from live_stream_catalog.sources import load_catalog
@@ -23,10 +24,24 @@ def _sort_for_resolution(channels):
 def run_build(config: AppConfig) -> None:
     logger.info("Starting full build")
 
+    current_channels = load_channels_file(
+        config.output_path,
+        default_resolution=config.default_resolution,
+    )
     catalog = load_catalog(default_resolution=config.default_resolution)
-    catalog = _sort_for_resolution(catalog)
-    resolved = resolve_channels(catalog, max_workers=config.max_workers)
+    catalog = carry_previous_resolution(catalog, current_channels)
 
+    to_keep, to_refresh = split_refresh_candidates(catalog, config.min_ttl_seconds)
+    to_refresh = _sort_for_resolution(to_refresh)
+
+    logger.info(
+        "Build selection total=%s refresh=%s keep=%s",
+        len(catalog),
+        len(to_refresh),
+        len(to_keep),
+    )
+
+    resolved = to_keep + resolve_channels(to_refresh, max_workers=config.max_workers)
     resolved.sort(key=lambda item: item.id.casefold())
 
     write_json_atomic(config.output_path, [channel.to_dict() for channel in resolved])
