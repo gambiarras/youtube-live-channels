@@ -40,12 +40,12 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrEFCAnHpvEtE9d25j_h2zwrslBambqW5jRw9hNp9CQtHaLhL2Nt4m-QptvWYFwQc5DINrNv5f5FolJngGU1qQL4myCxyHpx5ZSSXfv4-v-n8oijeES_S23yu_169GiAsaQ5GUrj_gnIWjFiB2Jp1khc-h3T5hrYFGsTdIBLufWfh_GNuwBFz6F3z7Plb4OgCkzfqeqrtxe2MbrBTIFC7JgL0Nod5sGitrTcPUerE0Ex5uzyePOCAYqUHKgrOZZZuexqYdLGIq1sZ5GsUixs2tC2nRYwa3Xi7BOZTITDpkN3z1LbJbUWWnPYmHpIINJNmweApb4ckprppCY1wGMbBgyiN2tCq7zWnthqY8HiAz4O1AC87LDLUtCP-rsGh55Xi6cwnnrBxMXw4hqtrNLuZS4SYxwqIV20ECTpUKiEgSPckUiOyyVoKds4WXpOtgsI6Oo4n8sq2LMJYbn1i-NUQLYji2OktqeFTSdoGamylkO-1C56sryNCAbt7OtoZoGr58HWvpW1Q-3h_n1Gzv91QUh7dCn4WCPFo-56oEKSTxoMD6uY8x_8yRolNgxM93tF9N2y7Gspd_y3-tjRMsezTOGtmbnQ-_oDVGjiKbG-9LoqQokwiZm14SBWoZgs0tZhTVHA9FaC8ahsgcp47dG-5PeHCcgYW05jhi49dqvkAxb_kqRuzlubqOdyutkQOTD643yCVIK8BasDk86Zm66yDrheOUOeoPmx2tGHM29EhrTNo3I4648LgzL00r6Kk29iN1ByGuJsX_XHej5zPyuY1en3gxyCKfq9f5M-7l7fXLeDTMcqF074bgw632gvlALYCOpw5sWeHqg01FqKSYjqKpVkkDvF-iFd4gXGGx8OP3DfFwSAQG4d-cXP3xKZlD_0DiVP39kY4PMRodHnJOP-aQlaElgaDJ7jajcnd_vfMFZOsSABKgl1cy1lYXN0LTIwzg8.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-17T20:30:37.970351+00:00",
-    "expires_at": "2026-07-17T20:40:17+00:00",
-    "ttl_seconds": 579
+    "stream_url": null,
+    "status": "offline",
+    "error": "no_stream_found",
+    "resolved_at": "2026-07-17T21:00:17.572890+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
@@ -96,20 +96,20 @@
     "ttl_seconds": 21599
   },
   {
-    "id": "CNNbrasil.tv.oYG3_-mPEjQ",
-    "name": "CNN Brasil - AO VIVO: IRÃ EXPANDE RETALIAÇÃO APÓS EUA BOMBARDEAREM PONTES | CNN 360°",
-    "source_url": "https://www.youtube.com/watch?v=oYG3_-mPEjQ",
-    "logo": "https://i.ytimg.com/vi/oYG3_-mPEjQ/hqdefault.jpg?v=6a594df8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFODB4GmH5V34XVRUwPLEkQ5njSw",
+    "id": "CNNbrasil.tv.GxMLhavfxqo",
+    "name": "CNN Brasil - AO VIVO: GOVERNO RECUA SOBRE RETALIAÇÃO AOS EUA | HORA H",
+    "source_url": "https://www.youtube.com/watch?v=GxMLhavfxqo",
+    "logo": "https://i.ytimg.com/vi/GxMLhavfxqo/hqdefault.jpg?v=6a581936&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl_bczlADBp4SkRF75EUty6KFEpw",
     "group": "news",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784332819/ei/s21aatb9H8uH4dUP5MWQ4Aw/ip/138.117.220.50/id/oYG3_-mPEjQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhNhMNswtqeQA3wNvhOEmP0Vdwoq5EvRQ9j0Iw1m1Molnp-RgxgYVwvUnRmN-bz9Sh4V4tb0yV0I/spc/SQ-umvd6F_s1_39y_19mwveBvQV9fDbcmd85UEmA4hJxE2quZP5QAp4wVkI0FQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1913750/met/1784311220,/mh/M0/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784310521/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgKkwck9dSD5qsR-rCl4fQoN40-6O__psoV40ANTEo7vUCIEHgELNmLO6mlvSDkcHy6Dhi_o4G0xpYNdxV4srmgNJa/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgPAMLI3riZfKQkyCVEDcbg_eb96v9DL41HvehwV_tqfsCIQD8HXWTh1uKZY7nhBM6Lw74-2ifd2BE_WDTuMt-M0m8Xw%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-17T18:00:20.099635+00:00",
-    "expires_at": "2026-07-18T00:00:19+00:00",
-    "ttl_seconds": 21598
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=GxMLhavfxqo (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DGxMLhavfxqo&q=EgSKdd6gGOSv6tIGIjCG43QTzZ3uazGM96blW37GKSTToxfzD55oSSw5H-tRsodMfokEZQ57JFCgGKfVzP0yAnJSWgFD)",
+    "resolved_at": "2026-07-17T21:00:20.712789+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "DiarioTVTeresopolis.br.wY0xa27Zojo",
@@ -139,7 +139,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-17T20:30:18.690119+00:00",
+    "resolved_at": "2026-07-17T21:00:18.799484+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -158,6 +158,22 @@
     "resolved_at": "2026-07-17T17:31:02.674126+00:00",
     "expires_at": "2026-07-17T23:31:02+00:00",
     "ttl_seconds": 21599
+  },
+  {
+    "id": "JovemPanNews.br.fVcp5xAQm88",
+    "name": "Jovem Pan Live - OS PINGOS NOS IS - 17/07/2026",
+    "source_url": "https://www.youtube.com/watch?v=fVcp5xAQm88",
+    "logo": "https://i.ytimg.com/vi/fVcp5xAQm88/hqdefault.jpg?v=6a596760&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN3vV3iFQUQQXXq7N0GWuG8luAAg",
+    "group": "news",
+    "source_type": "youtube",
+    "tvg_id": null,
+    "resolution": "best",
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=fVcp5xAQm88 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DfVcp5xAQm88&q=EgSKdd6gGOOv6tIGIjAPh-dP5USjNOWW1KoUaiI_3Ie7TZMSj5RaHpRvXfFP46WA1oJ4Huoala2gMBja0KQyAnJSWgFD)",
+    "resolved_at": "2026-07-17T21:00:20.172933+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "JovemPanNews.br.i7WQUQDbi1g",
@@ -219,7 +235,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-17T20:30:38.871664+00:00",
+    "resolved_at": "2026-07-17T21:00:19.523287+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
