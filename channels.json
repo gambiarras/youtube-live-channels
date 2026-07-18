@@ -8,12 +8,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331066/ei/2mZaasaWGZaQ4dUP7PmF2Ac/ip/138.117.220.50/id/3ybMHSJ2XSE.1~45786093/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhOwPIoQ-aPF7E6Q5b83Iz7wWrL0qGhN-PFJ_KE2nltt80XE63LlNja2H79fvlxlyKrw-hL1f8pb/spc/SQ-umiG8pk7JMBcZXhbZYPQBubXkCw5U1pYLUeuLt6YiFd4t8LXeYsD2rChqwQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309466,/mh/D2/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgMk182_iqmf3tjpnxblXQyCJx3KwM8UJMAtJeereum3ECIHcCVpKhdTAVT5jBNwq3jQc7ltOqLa6cZIHRCA6R79NT/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgTfVci-ko5U67EKSGANx11Aa_OnSz04klRvwgw9sv0cUCICGqI76y_jc9jDbeoHtYm2fLxuEEeGNyPiYi355dTLum/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=3ybMHSJ2XSE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D3ybMHSJ2XSE&q=EgSKdd6gGI_26tIGIjCfzmRhR0KX8R10qzIQLB3ZRIfAo5Il8OghUA7ls4tYyO7k_0wEiaabOK_XZk-MwJMyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:24.242971+00:00",
-    "expires_at": "2026-07-17T23:31:06+00:00",
-    "ttl_seconds": 41
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=3ybMHSJ2XSE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D3ybMHSJ2XSE&q=EgSKdd6gGKqE69IGIjA4GzE61UGMfWqDIN8mwcbHqaC4gJ_8-_InFx8kZ1_-qIxJ8S9EG2Cjc74namUd5LcyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:42.652898+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "Caze.tv._qnQ-zc6qDg",
@@ -40,12 +40,12 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrEFTORhJwm_wQS-sqDDvlhLAYRmewyY2I1nVaMnSn6iq5Nmnl99h91bUCdYHwL5RrxRpaqA1Ye5VFgYPeWxbD437I08LxbvYm-Rovi0sqje0mJna65foP9Qfqwafgn4n-OEbRWlyCN_C0Za9yMNwt4LB9uqrpqkW5YSDtmeh1jhjsY5KtE_8CiJqnZD6NIERHjKlzSXJhCSoCHuaN7G2lwPCODMt8INJpk9cDq4IuL4rt7zu2hZKrDQJV9kZ9HLyQIQU3rbl8nECvg1LS3-xsTKMtSVq5K5Yjf6mvanlFCCZZByFrRqlQ7fc0PH1xv4UaDRCZaUoXEDfx_XxyBqqQI1Pfxjf9DF2Tim9dXnmq2cClrrjTyJBD3zpxCb-j4ZX9zcvpgmYzkgifefpmgeFhXIKeUa0Bm1asQRZWV2RlzmVzaiWJ3aqjvLiOlYLs8gJnw5N2C-wqd3Dez61ZeqQ5rJ_Z1xXghUi3LtPZbwT3x6z4AcefpiUpsMjt12aN2LmrCBGz4gnJkx8nz7FYxjZKU7er9GLIPUQzShYrVufwGRknMGiyooeT1KU4RXhjESf1HIXV_XV-aGWOUkzRIDsruVXa_wmvFU06DLZIONw6CLIKdvSQsuLa41u7udNkFaT_JAGJ0WicEYMRc5QMx88xNFilpWtnLeQE9kqk6nFoxeA3vA5Uqs6G25DaQmFshx1RYYENoYtFx_j5Wn9lV67bnR2Bi7CV3JC0Uy8nHV6Z7AoXSk4GGSJZL4UsgJtKn_1yg28q3Euhqc-8zuHcQRz9fhQoNTJOgoUYbH2uA-rC4VyiyzirM-sdgxgwyjLA6gB_myi4fQkEGF37XyfTWHk4gikYgBc7ITo0RBNwZ-l-TSxrmXwAhZSThzuYcwNUUySQfwfTQl3hNNFb_azPE1ZR-QwN0aDIYfWdOmLArjcsaMGSABKgl1cy1lYXN0LTIwzw8.m3u8",
+    "stream_url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrEFBX6OUUzJq9qidu3NAuEniBT7rmSzm0ujhxMX4NKJ5D69SKwp9gGrwQX6RzyNWnKqrkSkmoNUJXXUi4g35uPPDeT0QfTxepx6Zki3TOx3F8jgYRgT16GJcEIvZTZVW3dv8YnNnweq1mJLUqSxK9_aLqDY5KBqb2PHDKs8ON7mUbex1p0jw9f8ckref_1lO5HWx89e94LURYXFCF4Wm0lmlvnC2LJKwXUBPON6C0Da0acmm9xUPSlwCIWG6B0fQR914G-DCRKoAQ8sx-p-hgJAlF5ZGgmGfsBX1sj9wUQ80F3JF3yM0fRTGpJ2UijCzuJ2rPpQoSovqZLxvQGDu8DdRhCPKe55dg_9Qo1m04qnXqrIKov2TONcfiWs5A7zvQhuurnmY7XzZSd9B-BRMWHlSu7T9g94_jkhCRp5mRtJk4hjzSqOBytVv49DgsTCyphcxpKcf-kzBiE-LABKSx0TvYAE9QXwOFO0KkmYXObEcQa6sZ7Wub18blJY5JctQETk8zTnC0uZJkSxG2_Kbz58lktcwfrRuX1UgOe2qdqVKt6K7trvndN-D0nNNpVG5jW-qdepFtGD3qGoi9NAcHCUxCIump-xwCm35OeeiwaHkzcf3JdMMCWB-cbY4rhr50_g1C0vVvoRZyWZ4Lef_qEh-ZLRngQjCtOMxZacgpwqOxNXIxbW6NSxdYfE-iPXvbTxhw5jhUok2xPwZ6YP1WJA-fvN4ub30GJFzAyGhk-0zJT9JhAvjOys5nO0RfNFVctuFsnabCeuO8J9DpiT4qY3M0YnfKk-OvNrbLXS1T4B38K0L1teszRht8NLh7FmsewBzt3bXtDW5r_EQLIDEUt2PDdWjV4jGFT9t238M2xx6H-E1PDYjPuunazCQ2GQu35CZnOxCsibc45D445eSMY9GfcaDEU9O4lphgqhv9zvTiABKgl1cy1lYXN0LTIwzw8.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-17T23:30:19.322368+00:00",
-    "expires_at": "2026-07-17T23:40:18+00:00",
-    "ttl_seconds": 598
+    "resolved_at": "2026-07-18T00:00:38.482227+00:00",
+    "expires_at": "2026-07-18T00:10:17+00:00",
+    "ttl_seconds": 578
   },
   {
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
@@ -56,12 +56,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331071/ei/32ZaasTBL5Tn1sQPhpTTiQE/ip/138.117.220.50/id/8nORcRZ7gqs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhNMFSqiWvIDADR5nVnMYpikFRmXcX1j5t-DFuDFWvVr-X1CzWq-q9pGbtCndaHrdgePePKdMKiP/spc/SQ-umgTqPogR392hWCjWsLfgja7fop6k_dWBd93huzGeVecHxZ2IPExxb7MMvg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309472,/mh/Cr/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992867/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAPhCI_PYv-NKqmv0EWNhHI-aUkWVVusNnK0eVTfRj5OPAiEA-prDvCqO4rbDfe1WAy_DoMs1ibAG4BE-kE1gF_nw2ys%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJO_tqlgfWCMzRC81W_jCEMkXI5tG6dN_VpKw3HjbAL_AiAkXa2lBO4Ehqcx1w74Ncj6x9WR8NCmMTOMESEfiwCqIQ%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=8nORcRZ7gqs (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D8nORcRZ7gqs&q=EgSKdd6gGJP26tIGIjA6g3ApU0Hmtub3R-1kjVVBUqFNgBXLhYkZNA0j4oUFQwvIDqZ8X7Xr2jDcw98jruYyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:27.844075+00:00",
-    "expires_at": "2026-07-17T23:31:11+00:00",
-    "ttl_seconds": 43
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=8nORcRZ7gqs (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D8nORcRZ7gqs&q=EgSKdd6gGK2E69IGIjDkyO1fPhAMLI0kQYGcL6VEtWKfq9KA4pqbuKTYBzJ8Ybf73lxTZSr2mWSgnqPFmWsyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:45.973588+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "classic-mr-bean.tv.U__tcQKkU9w",
@@ -72,12 +72,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331073/ei/4WZaaq_xBqbT1sQPvu-fSQ/ip/138.117.220.50/id/U__tcQKkU9w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhNqJBU8Nqbx-MncObBU6nyOUxTyApLqgg5F-q6GIKn06UHpGTBgEU3i-XC2YpzKt74IufFbBB9A/spc/SQ-umpm5VL_ZY2HnA4Sd_we12GHQwJB7eJTGQdFsu0t2skTC4CEpB73KKdNgwA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309473,/mh/rf/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgMx7dDgGLue8jZZK25uNjS_VTd6D37Ye0kFHhI9OXioECIDIaAzkHq8g8hHrBD6T4izFsHXLpjz33I_jBM2Sl2ltW/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPlDt3h4dt_oNCfVC1ooHzPFTJ81SWXecreM8RhsYDkIAiEA6UlLVQFT9E2Psp6HynSnRUTlVMzKtzuFVQmIDimgzLc%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=U__tcQKkU9w (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DU__tcQKkU9w&q=EgSKdd6gGJP26tIGIjBbasop7iYhDtKQI7N4zILBCKnJEBiCfiC0WkJ-ZqqyJpeTgfMyoz84JloWq89F2xcyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:28.647708+00:00",
-    "expires_at": "2026-07-17T23:31:13+00:00",
-    "ttl_seconds": 44
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=U__tcQKkU9w (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DU__tcQKkU9w&q=EgSKdd6gGK6E69IGIjAqddXKTKmaQ61mB9oVz_2xr5UEtrspXVDyQ2ynjUEHvZafNpdUWR9X838OL_vZE-oyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:46.611716+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "classic-mr-bean.tv.XQLEvieRMj4",
@@ -88,12 +88,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331074/ei/4mZaar2iG6SyobIPzqrp6QY/ip/138.117.220.50/id/XQLEvieRMj4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhO9M1nfBZNpCKdDkv87eiPQYN8OfmZ2SrX4rU51QeFWJtcWq3f511QrAocbo91dKagP4ghhWdvl/spc/SQ-umiMFQjAyn92M98J4-PxjQPsA1utMyn2llVjGLkQhXfP58_ZptoocHkZQrw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309474,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgLzLQAorK8Czd-uT5f3zS2D_Wn8ob7zJv2fua_ynmkOwCIBQiLNR2ykN0oDBSeGQUyvWx95pZbiZCQDWb-rJ7xpMm/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKCtg0kGFeNdlOlzGeu7pTaBB1BmorEuVwuyN7aUDt95AiB9AivHM2-d8CzRWi8QPWFzx_6mQKS4oZJTQcJBhKklwA%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=XQLEvieRMj4 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DXQLEvieRMj4&q=EgSKdd6gGJT26tIGIjDrQnVGeGHV8s8jU7tqxWjPeD7gRZldQjDG_eFq8KoVOh35jg053jSk51KIaMCVhKAyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:29.311102+00:00",
-    "expires_at": "2026-07-17T23:31:14+00:00",
-    "ttl_seconds": 44
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=XQLEvieRMj4 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DXQLEvieRMj4&q=EgSKdd6gGK6E69IGIjBOECBwS87xGct3sA-Dy7LlBeYW1YhAumDLBPdVZyfcl6TdasKHB1RJA05hDEoHRQgyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:47.318490+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "CNNbrasil.tv.HRMmmHV_CIc",
@@ -106,8 +106,8 @@
     "resolution": "best",
     "stream_url": null,
     "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=HRMmmHV_CIc (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DHRMmmHV_CIc&q=EgSKdd6gGJH26tIGIjB_3FuW8nNE0oMLIHLvkQUTAQ-eFXBY-RygZqr8g-Li1HXp74vySwnHfVikIfpwcFkyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:26.316593+00:00",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=HRMmmHV_CIc (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DHRMmmHV_CIc&q=EgSKdd6gGKyE69IGIjDYVC1jLJ_3Zq9cvD11t9kkDZlOF0PXk3hAs8sAmwLpdCdI4i86i9EZ1SFYOAoZ-_kyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:44.473067+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -120,12 +120,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331065/ei/2WZaavnAB8idobIP07Pd4As/ip/138.117.220.50/id/wY0xa27Zojo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOLgcCvp2mTdPZV-aCegPkXz8JTj9PiVV9Uon95PEVKHKTnq_twnPfWr-9T59dcGDfR1h-J93yT/spc/SQ-umuwYCcuYebcq8C57t33UApw7iKC2PGKpc3ez4T5L1R24R8JCWm6__HbAVA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309465,/mh/eB/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgVeccTljw_zyQ1Iurs3pYzfK_Eb16OASbChb8-b0h8koCIG_AbQ6IDEcnd2UezY66ONLI52fmGsVG9RWboram9fs9/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgapPkqMCoD3pxgWmn-nmNd8-Q3qJv-eau7wk2A_pvh3YCICf1sUdXE9WA6PCpcfcgTrxqMlaTjf5nw6QIN64uTUg-/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=wY0xa27Zojo (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DwY0xa27Zojo&q=EgSKdd6gGI_26tIGIjCyjZtOEQO2Z2fKo8jCmnlVeTK9vNGZjSOfWFovGxY7DN3kbyyYvAEquw2Ju1MMtlIyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:23.691132+00:00",
-    "expires_at": "2026-07-17T23:31:05+00:00",
-    "ttl_seconds": 41
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=wY0xa27Zojo (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DwY0xa27Zojo&q=EgSKdd6gGKmE69IGIjBfcvNqaCHKg_7kkmuRBSVXM-D51D5AFcXI2ensmgHcm2agu23DWQfY68YwyDzXiyIyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:41.981409+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "iptvsimplesbr.tv",
@@ -139,7 +139,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-17T23:30:19.643661+00:00",
+    "resolved_at": "2026-07-18T00:00:18.860867+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -154,8 +154,8 @@
     "resolution": "best",
     "stream_url": null,
     "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=4MpL_faZOqU (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D4MpL_faZOqU&q=EgSKdd6gGI326tIGIjBzfzxOoMrnlKBHV0-S7Go3cj4zwIhO1g1VUNIfBQ9DDzQ2dg9uYVid848P4X5L24YyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:21.645241+00:00",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=4MpL_faZOqU (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D4MpL_faZOqU&q=EgSKdd6gGKeE69IGIjCcYlR8OlfSa8qHMJY7sjJG37BBGLuLb2Vnc9KXnV6KLQE9AP7VmxljK-w-QgaMCGIyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:40.119305+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -168,12 +168,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331062/ei/1mZaau2-B6Cb-LAP-IuXyAY/ip/138.117.220.50/id/eTz4XgOQaAE.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhNcvbAhn_heKW3RIjtx76pQFuqcA_dQLc0E34xWuH4yIr2zaOJiF01ebnsQ7-1HyKZP39j6OF0-/spc/SQ-umiV6uqEKqnRSm2yjXPKUFKb6N3_QOG5-pbk780yT0L7ctszg-iZN62yPsw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1898750/met/1784309462,/mh/Ro/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784309314/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgD9q5ddwjnmJv_e87m4Edr6rX72wcwN-z28YlNEhB9sACIGf3xjthvZuDtt14Cw_Q4LtZcItN05xHEBiQOOxQnvAz/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIJASGJBTkErBi2GXG6DqVFue-yHnBD7eiL2OCmwhjKfAiEAtrnqlJW2Hwe-07Ilsb5_UGKLoUvZ5umawFTZyL26LbI%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=eTz4XgOQaAE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DeTz4XgOQaAE&q=EgSKdd6gGI326tIGIjAfPoRfHUbNOo1ymKJI3o_pUl7dFXMGVQcpUf_ffC7fB8ogJfxNfSr5_tWayey2AF0yAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:22.386698+00:00",
-    "expires_at": "2026-07-17T23:31:02+00:00",
-    "ttl_seconds": 39
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=eTz4XgOQaAE (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DeTz4XgOQaAE&q=EgSKdd6gGKiE69IGIjDoyCU04w3VTlCmyJj1KgsD3TyOl5SV8RuX7sm_bLok2P4TAy6brGYAPJJZj31bqJ4yAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:40.868444+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "mr-bean.tv.fD139Si2p4Q",
@@ -184,12 +184,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331075/ei/42ZaaoXSK5vT-LAPk4Pt2Qc/ip/138.117.220.50/id/fD139Si2p4Q.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhM8POttBh25wQ9RtlAyG-Q4SuzlSPej9UL3AphNWQOyIWOdtohtt8b3mFgeJwyFImWxu97I_KsH/spc/SQ-umnUW4Z2v7RuUimtnSul81SwVjILCgcIPe-AmMb7rxhinqXMN4cuiqfFs6g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309476,/mh/UW/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJU3rAJodYGm3QmP_smZUdVf3IyXWMWZVItf_pLg6dIUAiABIk7lQ95domNtvWIG456DivbndXZJHxd2cWk2nMSwFg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMtX5iuf_ZdtA5yF-XdyR-MS7tCoLD2_dZQuT3GX4-sdAiB7lSL7_kr28xwOTMqG8wF8E2zTFeQ63Aug0kYOvCXWtA%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=fD139Si2p4Q (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DfD139Si2p4Q&q=EgSKdd6gGJX26tIGIjDDexBoo0gUq11p5LSwBuimMHg2MNTi2Zkm-D7AouOaL3BniSFGELFtFpp5Wo_h7zcyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:30.045821+00:00",
-    "expires_at": "2026-07-17T23:31:15+00:00",
-    "ttl_seconds": 44
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=fD139Si2p4Q (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DfD139Si2p4Q&q=EgSKdd6gGK-E69IGIjAUZ4MZitThtmOElvXsllEed51wLRmCStKIpe_cSto1dliTmFky-geqhbIyjF1zfjsyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:47.933380+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "NBABrasil.tv.UbzqW_YEZpQ",
@@ -202,8 +202,8 @@
     "resolution": "best",
     "stream_url": null,
     "status": "error",
-    "error": "Unable to open URL: https://www.youtube.com/watch?v=UbzqW_YEZpQ (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DUbzqW_YEZpQ&q=EgSKdd6gGIv26tIGIjAbo34cBaDiUDDCq_H1XJQEhinWdgv6005KDAqcQnNxoNpJ71ZAftxqryIFmcVJ6dsyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:20.286401+00:00",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=UbzqW_YEZpQ (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DUbzqW_YEZpQ&q=EgSKdd6gGKaE69IGIjCA-AMcwfrrmqGnEALAJaQaX0K0ohoezgYD5nY9-WAv3Co4yUdoqCOGY535XLxcgNcyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:39.062286+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -216,12 +216,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331067/ei/22ZaatqBO_mJ1sQPqKGAqQE/ip/138.117.220.50/id/bK03WDeq5SI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMNX_f8V_UPuzKNd-fmhtEeJVOYHKSEYFphjo3XXdbmBNdxb1teZvMh4UjsygkxiKPmYBlHq7hr/spc/SQ-umnlCnb2zpHY6b-qhoylGxJ4lILpGeWhbvetnhpux7ygkPP4HKFDVjRKtug/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309468,/mh/VC/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgWG1U2AJoK6qoOVaZZp0-XXL93TFp6JMJZ8pt3seod24CIQCnuOCdjwmdyrkPPUZwcV8jE4fCdIS7zPRtJbuzBfFzbA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALTjILRKY4g8jIrJ9F3w_V5msF7_RjixKN5uhHCXE3RGAiEA5Y0Qcm1Jkh87Rh1-NDi4QGpiP-P3Jmh7dJnbWn-ZYLk%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=bK03WDeq5SI (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DbK03WDeq5SI&q=EgSKdd6gGJD26tIGIjB2gYT1ecZFx0xau6i41zJMKR3jnl3FQFKLZOZpL-KOWj5LAlso_7WMzMMcB8PQLiQyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:25.027625+00:00",
-    "expires_at": "2026-07-17T23:31:07+00:00",
-    "ttl_seconds": 41
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=bK03WDeq5SI (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DbK03WDeq5SI&q=EgSKdd6gGKqE69IGIjAayW_IG6Nh-OK30KSrp0Qllx0oqWfw6ojNM2ZNRejK4C09fa8bcv8eUtUkevogM1gyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:43.295856+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "pica-pau.br.xIs3odCrjZs",
@@ -232,12 +232,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331069/ei/3WZaaraYF-OT-LAP1OaA8A0/ip/138.117.220.50/id/xIs3odCrjZs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMHiI_9NIbgKfHBoxH33IuSlHYJHRhwMSrvZMSb8CkL7283IkEWMXtryzt67eWRFeYtXrEqA_j8/spc/SQ-umrN2GtctaOxOg7pzLYTDcvNDeiZYzh8tdrsktOaVTT2-qUXg8EfQj3kaNQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309469,/mh/HB/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992868/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgauIOVVaQdto3fxp7-c7VGPSOLunaGpsSc6wPbYQS3fwCIB43JF_IN1mRLR-KBk7zwg-sc-8a1dCQ6kyNtsM_B3YS/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgGtRXrTjnk5eHpqXQxGpyqJ3wNaA4KnoEHTQh1iLDxVQCIQCL9RcKUtY3TrWDcn1SuhnSrBDak6p6LzAC_xb3yb9vBQ%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=xIs3odCrjZs (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DxIs3odCrjZs&q=EgSKdd6gGJH26tIGIjAJ6fSIzABFkUpcaX2T4WsNUnYmU_--ALIkpbP-PmOoz_9HTnfXmJXS2hCH9IAB-cgyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:25.802289+00:00",
-    "expires_at": "2026-07-17T23:31:09+00:00",
-    "ttl_seconds": 43
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=xIs3odCrjZs (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DxIs3odCrjZs&q=EgSKdd6gGKuE69IGIjDEsDh7H9tmnzsBg1KNMiA-gVQb0wEO4geJTNyUWnKsvtT_a4HWaT524gni07TptAEyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:43.939274+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "PowerRangersTV.br.cQHlHWNg5zA",
@@ -248,12 +248,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331063/ei/12ZaaoXUJIuE1sQPuKKf8QE/ip/138.117.220.50/id/cQHlHWNg5zA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOx7jghWx0KYVN2mkJNnwZvXxoSA84Q2dQBO3X13Ittmlpn_hejLEkB29FEuCgOjqfwKVhpcGxg/spc/SQ-umknQKZoYUNDCax8-E8Lvv4L3TQVzdS150mllv_Wkd5haZbmad8tEKdgH4g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309464,/mh/El/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJmi-6BllaYDIYcDETB_FV7D50po8lMhNpPkQDNf41TqAiAApJUZyMPJKSyRTKjETs2ftTplWoeHjy4PtZ3r3LfP6A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgevpLwsKSFrCLKaqynzjmYEi2ax6qlh2UdSrFkXvVCy4CIQDuCSWZLUiDdOGZt5-cZdiawXMIpFKD4eZPTvW1M4evRQ%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=cQHlHWNg5zA (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DcQHlHWNg5zA&q=EgSKdd6gGI726tIGIjBiHj2yTBbn-B0j8GzVADt0-VNcqI35_i3lS9Mjah5NjYEPrnqsXdi9kRdDIGeteWcyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:22.987740+00:00",
-    "expires_at": "2026-07-17T23:31:03+00:00",
-    "ttl_seconds": 40
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=cQHlHWNg5zA (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DcQHlHWNg5zA&q=EgSKdd6gGKmE69IGIjBR5nQ4lNa0KyLFuRs3eEFeMDIlIgLuwUNK0d5UhPoCVnVXxziWx6ZsHTpxfHaWhs4yAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:41.415540+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "RecordNews.br._EsZlKt0foE",
@@ -291,17 +291,17 @@
     "id": "SantuarioNacionaldeAparecida.tv.juUt-rN5CVo",
     "name": "Santuário Nacional de Aparecida - Santuário Nacional AO VIVO - Você em constante Oração na Casa da Mãe",
     "source_url": "https://www.youtube.com/watch?v=juUt-rN5CVo",
-    "logo": "https://i.ytimg.com/vi/juUt-rN5CVo/hqdefault.jpg?v=6871817d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACkz7ris78jvaS-R5FyeoIcJZ1ww",
+    "logo": "https://i.ytimg.com/vi/juUt-rN5CVo/hqdefault.jpg?v=6871817d&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDbIPNzwE6f2DlvK9whm966w3krKA",
     "group": "religious",
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331070/ei/3mZaauvaHdHp1sQPxLSNqA0/ip/138.117.220.50/id/juUt-rN5CVo.27/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhOg1xvM0o8rS5KeHYsCiPeCSZaEwLAqDa1tM-dt892fzjPkgGD2oycCBAyGM3l8cYg89Cv3mAfs/spc/SQ-umn3IbLnISdXfhX8DZMfTrtU31MPmYNPfnqM2Zbd36PUrlYM9PhcqasuV1g/vprv/1/reg/0/playlist_type/LIVE/initcwndbps/1898750/met/1784309470,/mh/tn/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992868/mt/1784309072/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAMjXdGUqrSZI0BkS1r3FnOM7fFuIMD_VeFCWhfnYN-6DAiABSwTLhT61WvbOVsJdiFsklwmdUlpCitWITktisRcQXQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMHAQKQHOFakbmwWZiFF3wC8Nfo7HhhISkmEfvSyCBcZAiEA-w_5Pkg9V4aI8bziP2c7prPBbZZ7lsZRXMIvOuZYeRg%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=juUt-rN5CVo (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DjuUt-rN5CVo&q=EgSKdd6gGJL26tIGIjCwZdjKHADgLAO1dQwqkEDvlqXaXK1JNUzQArFbLaltMeOatf9gmawyeoUYb9P5yRMyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:27.097627+00:00",
-    "expires_at": "2026-07-17T23:31:10+00:00",
-    "ttl_seconds": 42
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=juUt-rN5CVo (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DjuUt-rN5CVo&q=EgSKdd6gGKyE69IGIjA4DZ2JeWAirwA-wEa2cT5TWTR7xGUc2tKrb1lVcODLKfkI5jH_F0CW1N891u52rfoyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:45.182516+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "SBTNacional.br.LLpNUqHVam8",
@@ -312,12 +312,12 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331059/ei/02Zaapf9Ir34-LAPoNHuoQ0/ip/138.117.220.50/id/LLpNUqHVam8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhMqJ8WX1YRhBHkE7t7OM0OGtnanDESyvqRTPlrmREzMqPRZmbPaG9HzcS5Izfd2l2RRCwIUd0ZC/spc/SQ-umqmcWkeCX-oIO4-v1p_kWRsRB99riO8GjkRhKLN4AxFUF7ykipObDzwh_g/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1856250/met/1784309460,/mh/pR/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAMNiRoNKXeKn3WPgeor9RArN9bgLCHsQG4XKMfqj-XmOAiBmpJY7tD4x09jiW9pets_nzTvzDhLtuTxd07OH0XnaOQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgaEdFDRcqBNXYL2i7gklDUMtPx24IR7taWIm8bSiMTCwCIQCvQoDDhNtuL8YR6WThBaB_2a_x7ZV7JA4jWpLYF6AHUA%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=LLpNUqHVam8 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DLLpNUqHVam8&q=EgSKdd6gGIz26tIGIjBiV0rsnLO3jhg5iGbuCkSHQW9Nq_bzzV_B1mCTCQiXWEM9GCmRaCB-6uL4TT1ftkcyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:20.883434+00:00",
-    "expires_at": "2026-07-17T23:30:59+00:00",
-    "ttl_seconds": 38
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=LLpNUqHVam8 (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DLLpNUqHVam8&q=EgSKdd6gGKeE69IGIjChGjmgKB24UYFB2pJlTQ-8kDFAajuYBYforgRXugw24pWYC-XKoH1hOnFOnDPqOb0yAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:39.581919+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "script_catalog_1.101",
@@ -2296,11 +2296,11 @@
     "source_type": "youtube",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784331077/ei/5WZaasDDDNXhobIPqaG4wQc/ip/138.117.220.50/id/1G_Rtif7fmM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOdB8t3sBsejW83AoJ5nFUomZ7rxAwMcbAZ0gSLfemNL6eyhKjVyT11MPm-3CiYKkztQG5x-gvF/spc/SQ-umoUHg4DKMEvWSeagwlFTtse9DOtko0EKUi2MbIS35ojIg_ge-ZlXsxaK7A/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1784309477,/mh/Gf/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992867/mt/1784309081/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgYat4tLFP4XLEQzpYGxYJOdI3SqMDwLcwYaFh_HhM76wCIGVFh3HDzgPh56Az9CmZ5v4mok76cG46xhRxR23qFFUq/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgVP4RWN4PR9dlt7UoGhd87Pjowpd4oq21ht_CykWj5b4CIQDyVTHIF_OIvjuiW6FjzapB01Zj5dcALaU9WPaXxKLUXA%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": "transient_resolve_error: Unable to open URL: https://www.youtube.com/watch?v=1G_Rtif7fmM (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D1G_Rtif7fmM&q=EgSKdd6gGJb26tIGIjB_vYiqV4fy9U2Qfhkb_YGbQD0sD3zqFVkrr98NsgFunFExsTkFZQfNsuCm03T-jckyAnJSWgFD)",
-    "resolved_at": "2026-07-17T23:30:30.558852+00:00",
-    "expires_at": "2026-07-17T23:31:17+00:00",
-    "ttl_seconds": 46
+    "stream_url": null,
+    "status": "error",
+    "error": "Unable to open URL: https://www.youtube.com/watch?v=1G_Rtif7fmM (429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D1G_Rtif7fmM&q=EgSKdd6gGLCE69IGIjCYgQLfh0BsLF0XN_YzMF19bcUV5epJV7mZii_cuaZUdpecUROM-jY31c2zPcfj96AyAnJSWgFD)",
+    "resolved_at": "2026-07-18T00:00:48.676316+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   }
 ]
