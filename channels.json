@@ -40,12 +40,12 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CrEFXpU440TVoCWYPQRfCj8VlDVpQSsKg7zmN1C5uJUjy_Qyei2oqJAt0hIarOnPdShXVomIDH35OcEXGCDFgWvnNNyL4ye8g7-rHvvYhBsoE_M3IVQvwxw3udlwk-q_HQcJ5fd0ith5SQZRr6DUFs_qpSGr4xmAmo09NW_gJEf5aN83knStZn0X1flDQchuESOnyCpHJpQtHmPUY7dvfgEQ6uG950FX1E9epms0gv4bfyQkENLiOQIdbvo9vtR3_pI10uNfojofxBviO-8gY9drPPMkL2L3C1BlSqdHjDXGzAEi8lkeGPDqZ_dR9nVgZ17Z4j8u5zmrMLRv81nxB_aFkKqleKivAlFbau4ddynwtDvoFBbvKw6HYwSMZsmjccARtbQNNcCM-UDlWQAmWR1jqpByH6n8AdsLwk0nYb45o0MKKOWn3CsNgNtwrHwXCUTtKBCcM_C5pZSi4DlQ1ksRSb18Rs1A7KkXoQcqQJ068um8_ii80NFxfC-EkBuyb4RDUr4DOD8StnFWFB0-aWzGaIjQJckUK-eK6_G65UWMaVa6ggz2-SJviG9sEdP1x9_ep3UvfLxXBx7Yc7EkveoSIDPIULUZXC-hjFu5YMz29fyDpz1GV2dIaojnpSb2EGtS5hp83gQ296Pmt2MOTm0PEbP1gEC8y0P--DnS3q4pzjBTr8bO-akhaY02v3XD2BPArmgugTJGW71bLkHnEDcRS24Uf8rRw67rwPj6_Ju4MOhnXQf59Ft2ORQrIv2jR3fvE58qsB2n_60TVZfmYotRqsA8MwKlBAYq0y7Vk1j17q68WkSCebdsMZgQjTGxdv5yXygxW0atw4mFtfwUNYo6XCcFxv1-SOkmmHhvRrUeVyhT_l1f3IWCQ_6mHGVL4BYlPJ9RdQdRUvOEzZIAThagUeMaDF4y0c4izqm36VMdqCABKgl1cy1lYXN0LTIwzw8.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-18T00:30:17.833399+00:00",
-    "expires_at": "2026-07-18T00:40:17+00:00",
-    "ttl_seconds": 599
+    "stream_url": null,
+    "status": "offline",
+    "error": "no_stream_found",
+    "resolved_at": "2026-07-18T01:00:16.494334+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
@@ -59,7 +59,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-18T00:30:34.072073+00:00",
+    "resolved_at": "2026-07-18T01:00:20.555291+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -75,7 +75,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-18T00:30:34.947054+00:00",
+    "resolved_at": "2026-07-18T01:00:21.603269+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -112,10 +112,26 @@
     "ttl_seconds": 21599
   },
   {
+    "id": "CNNbrasil.tv.Ou5XuJh0C-o",
+    "name": "CNN Brasil - AO VIVO: WW - 17/07/2026",
+    "source_url": "https://www.youtube.com/watch?v=Ou5XuJh0C-o",
+    "logo": "https://i.ytimg.com/vi/Ou5XuJh0C-o/hqdefault.jpg?v=6a599bf8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNdYtKxQs13mCtXqeD6YUeGilKSQ",
+    "group": "news",
+    "source_type": "youtube",
+    "tvg_id": null,
+    "resolution": "best",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784358019/ei/I9BaavPbCK6G4dUPhOqBsAE/ip/138.117.222.160/id/Ou5XuJh0C-o.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhOM9gOokkhXvFkSiArFOwew8HjHqZlpsxGEBI5Q9c9UTBfdxDTYg_NWZg2hRqo61clV6PLFr5j4/spc/SQ-umjYuDDiQSlnpX9GZ_8Q7aiNdg3FbLnLbJ9dcBBVHUHxeikbyW5ufq5aVIQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1213750/met/1784336419,/mh/eu/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784335964/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgARysEFzb5SQwbHTYOwM27JHBFUKDBn9Ti225l89mvkACIHQYNABKGnHxsLtaW35y19lgGXBMEhePoVvBxjUhtLH1/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALaCGK3ruzxFCOJDFxQFF0KRA5b9wLfv9Q2UhvJgOavdAiAmaOlUv2U4_9z31BGb2UJgRkCtmY91cWWbFTI60i0MBg%3D%3D/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-18T01:00:19.630568+00:00",
+    "expires_at": "2026-07-18T07:00:19+00:00",
+    "ttl_seconds": 21599
+  },
+  {
     "id": "DiarioTVTeresopolis.br.wY0xa27Zojo",
     "name": "Diário TV Teresópolis - DIÁRIO TV AO VIVO - Programação da Diário TV Teresópolis - Inscreva-se no nosso canal",
     "source_url": "https://www.youtube.com/watch?v=wY0xa27Zojo",
-    "logo": "https://i.ytimg.com/vi/wY0xa27Zojo/hqdefault.jpg?v=6a58d4a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAigoM1oxxZ0I0L3RdOMQqupmHpFw",
+    "logo": "https://i.ytimg.com/vi/wY0xa27Zojo/hqdefault.jpg?v=6a58d4a2&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCVCmznrK19I2FPVFKWSDMCxn4szw",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
@@ -139,7 +155,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-18T00:30:17.871317+00:00",
+    "resolved_at": "2026-07-18T01:00:18.151164+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -291,7 +307,7 @@
     "id": "SantuarioNacionaldeAparecida.tv.juUt-rN5CVo",
     "name": "Santuário Nacional de Aparecida - Santuário Nacional AO VIVO - Você em constante Oração na Casa da Mãe",
     "source_url": "https://www.youtube.com/watch?v=juUt-rN5CVo",
-    "logo": "https://i.ytimg.com/vi/juUt-rN5CVo/hqdefault.jpg?v=6871817d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACkz7ris78jvaS-R5FyeoIcJZ1ww",
+    "logo": "https://i.ytimg.com/vi/juUt-rN5CVo/hqdefault.jpg?v=6871817d&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCEkrVXWBzlOmBqc06CFgPT0WnPIQ",
     "group": "religious",
     "source_type": "youtube",
     "tvg_id": null,
