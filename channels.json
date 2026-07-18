@@ -19,7 +19,7 @@
     "id": "Caze.tv.r5PvNTvf3Go",
     "name": "CazéTV - AO VIVO: FRANÇA X INGLATERRA | COPA DO MUNDO FIFA™ 2026 | DISPUTA DO BRONZE",
     "source_url": "https://www.youtube.com/watch?v=r5PvNTvf3Go",
-    "logo": "https://i.ytimg.com/vi/r5PvNTvf3Go/hqdefault.jpg?v=6a5ab50f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbYZ2c3u2rRcwiwuMUVIUvIh6wdw",
+    "logo": "https://i.ytimg.com/vi/r5PvNTvf3Go/hqdefault.jpg?v=6a5ab50f&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB9-zKxSVtAm2ESrI0xt0rlNeHwRA",
     "group": "sports",
     "source_type": "youtube",
     "tvg_id": null,
@@ -40,12 +40,12 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrAF8c5ta9ODnOiSmk9wFeHk12QQxzONgUXISlSLukJk27IpR6Ei9NW5fdwCTQnzJM9xVw9F2hmUpzO4OuikNioQIZ4SgGaxytF-8w-0SWHljmikM2EzEF4PVTOb1bmJ5D9-0_hRfD_UP85A8WZY5cK0bIPzI4K-v4vZuithBiYoVqR3HSU68ElJGhxQY_hEs9nJnABNYy949ECRsQX6RVbOGd1410kIej4ukD3JYgOPcbeppH3aF6NaJ3eaUaq0PjRmEok3-jWWIjM7Iz0AMUFhMQ4HMW83m_ujIhlkZC2-oOeppM83C3sER7ZwA26kewiYNSbj3_8zgIC_5BHVaMP09GnK3BEpjB-vKV2oGXcNDXxogH9R8cOwwHBerc6IhxuDtx7JedK--HG52YeESB6xfMvMkC9pjBgqpXqqA66S1K4EtUxnyeooTUSPMs5mo33i73L5UhN2fAp2h_HAjV7qd9kvM3MhYL8Xakixxsyc9_uF5CYbKn0GQSdtbh4VBcRJKxRVjIO2CtfI794ChW4t5ddNRk38TOMQhOWO4-WAwYUjq1AB07iD-0Zgbz5dvpqpjMo4IEuZuSLuJD-1zJo5rLr1EBo85kp8IEGHrz169vXYzVK3Q7hblO5Xad0wtULCP-uw5PmoelOFBIDtzbVBI9JXu3S0saNntc0QSpRxCvjeXIwYREuytFZSHpso4z7Bqz8HNxx36mTCC8WH02bWKTjGGZ0Smjv82Yw4yvOLxP3eatXcel2VZ9XwxHQ3zYaTbCmX4XhW3qMLVVxxN0l35u34fm5Z1IkpXmgfuHGcYNtQRbMeiu1ahQrhor4IbHdZgNcNAN9fc4esvS6dVlnVPdaC-coTTaW99LqtjrPCmr3AvVc-FJQZis8JIs1DDLyXK9HWbj98xfNMD4w8_f7xDBoM77Qs2mQzKFOTu9lVIAEqCXVzLWVhc3QtMjDQDw.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-18T22:30:16.441789+00:00",
-    "expires_at": "2026-07-18T22:40:16+00:00",
-    "ttl_seconds": 599
+    "stream_url": null,
+    "status": "offline",
+    "error": "no_stream_found",
+    "resolved_at": "2026-07-18T23:00:16.221087+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
@@ -96,6 +96,22 @@
     "ttl_seconds": 21598
   },
   {
+    "id": "CNNbrasil.tv.1FXzIKVlIiM",
+    "name": "CNN Brasil - AO VIVO: CNN PRIME TIME - Edição de sábado - 18/07/2026",
+    "source_url": "https://www.youtube.com/watch?v=1FXzIKVlIiM",
+    "logo": "https://i.ytimg.com/vi/1FXzIKVlIiM/hqdefault.jpg?v=6a59aa6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf74Tb6UX0sCnUJkzi0hqAtJP7pg",
+    "group": "news",
+    "source_type": "youtube",
+    "tvg_id": null,
+    "resolution": "best",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784437218/ei/ggVcasfVNqv6-LAPp5Lz-Ac/ip/138.117.221.16/id/1FXzIKVlIiM.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-gpv7kn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhPZHYaHyUBTys2_4I7r2h6hxQRyzYuJ_4JGOiYYqjVMtIbEQZr_GTw7sUfwL2xqlIKdL4p4hpXa/spc/SQ-umnmsGAdwfnuJRM2rKXhK3EWhqrojPlGmi_zP8GE3pt9vW23MNI9BeRVLow/vprv/1/reg/0/playlist_type/DVR/initcwndbps/567500/met/1784415619,/mh/_4/mm/44/mn/sn-gpv7kn7r/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784415383/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAI3FXJITFMUNQmr35pcbOi-odHCe0G2pUDO4DQTLrnsPAiBOGUqf0ApFLgPPoBrIMFqAHNHgflvT6ZleJkCo1q9wGA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgAZ2Yv3rzWqtP77pSIVF-_F3VBXqaHvIDbc9ua3I4aJoCIENsGbehZKYdA-uH5CMtNnzbsGml5zbOa-wrerx77skA/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-18T23:00:19.417680+00:00",
+    "expires_at": "2026-07-19T05:00:18+00:00",
+    "ttl_seconds": 21598
+  },
+  {
     "id": "CNNbrasil.tv.Csww5952Vhs",
     "name": "CNN Brasil - AO VIVO: CNN SINAIS VITAIS - DR. KALIL ENTREVISTA: ENDOMETRIOSE | 18/07/2026",
     "source_url": "https://www.youtube.com/watch?v=Csww5952Vhs",
@@ -109,22 +125,6 @@
     "error": null,
     "resolved_at": "2026-07-18T22:30:19.364035+00:00",
     "expires_at": "2026-07-19T04:30:18+00:00",
-    "ttl_seconds": 21598
-  },
-  {
-    "id": "CNNbrasil.tv.jGJ8DISdCcQ",
-    "name": "CNN Brasil - AO VIVO: CAMPANHA DE FLÁVIO QUER EXPLORAR DECISÃO DE MORAES | AGORA CNN NOITE",
-    "source_url": "https://www.youtube.com/watch?v=jGJ8DISdCcQ",
-    "logo": "https://i.ytimg.com/vi/jGJ8DISdCcQ/hqdefault.jpg?v=6a5a6525&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtmDJfYY5xUezbyPFM73opmuRVBw",
-    "group": "news",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784433640/ei/iPdbaoKIK8GR-LAP2-GK4QY/ip/138.117.221.16/id/jGJ8DISdCcQ.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhN_Jup0SG72y4qq1kyKlv3KxlvvlIgAFdVgr-JjiFFRKpK0828WMJ14MVIEjBYnsOBUChZ6iE_B/spc/SQ-umtMaJJ6DdBVdgUF7nEbwEy8GU0eN3dC-TatIxeuLeDgIUtakXRqqN5fTkA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3063750/met/1784412041,/mh/lt/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784411572/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgdh1Vxtz3h-atQNlPyLJPzhUMz-ABu_H206A3SOUB9D0CIQD6Cs8gDH0UDTyJwixrREZ-t2FPaEdsN_cVz-_jk2N4gQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJw56eaKMBt4vMfa0Bo4Tso8-AFWqT8_CBkoSltJ_gK6AiBO92QuyDflXnyaXKQLNJFO1YCsFTz-Jnt00Vk4ev1q9w%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-18T22:00:41.241492+00:00",
-    "expires_at": "2026-07-19T04:00:40+00:00",
     "ttl_seconds": 21598
   },
   {
@@ -155,7 +155,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-18T22:30:17.188379+00:00",
+    "resolved_at": "2026-07-18T23:00:17.285275+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -235,7 +235,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-18T22:30:17.871109+00:00",
+    "resolved_at": "2026-07-18T23:00:18.036403+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
