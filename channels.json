@@ -27,7 +27,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-21T01:30:16.736600+00:00",
+    "resolved_at": "2026-07-21T02:00:16.555828+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -43,7 +43,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-21T01:30:16.126336+00:00",
+    "resolved_at": "2026-07-21T02:00:15.067873+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -97,7 +97,7 @@
   },
   {
     "id": "CNNbrasil.tv.h58bZNjSdmI",
-    "name": "CNN Brasil - AO VIVO: DINO QUER TIRAR O SUPREMO PODER DOS CACIQUES POLÍTICOS | WW - 20/07/2026",
+    "name": "CNN Brasil - AO VIVO: DINO QUER TIRAR O SUPREMO PODER DOS CACIQUES POLÍTICOS | WW",
     "source_url": "https://www.youtube.com/watch?v=h58bZNjSdmI",
     "logo": "https://i.ytimg.com/vi/h58bZNjSdmI/hqdefault.jpg?v=6a5ec290&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT2EQiQszpH-6VogKRLSEjPgvxnw",
     "group": "news",
@@ -110,6 +110,22 @@
     "resolved_at": "2026-07-21T01:00:39.998107+00:00",
     "expires_at": "2026-07-21T07:00:39+00:00",
     "ttl_seconds": 21599
+  },
+  {
+    "id": "CNNbrasil.tv.VCS6WagOdXU",
+    "name": "CNN Brasil - AO VIVO: GREEN CARD A EDUARDO MOSTRA FORÇA DE ALIANÇA COM TRUMP? | O GRANDE DEBATE",
+    "source_url": "https://www.youtube.com/watch?v=VCS6WagOdXU",
+    "logo": "https://i.ytimg.com/vi/VCS6WagOdXU/hqdefault.jpg?v=6a5d0ee3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXx85VKDQPeHj6luxXDSi1orDzOQ",
+    "group": "news",
+    "source_type": "youtube",
+    "tvg_id": null,
+    "resolution": "best",
+    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784620817/ei/sdJeaoKDH4PK1sQPkaHZaQ/ip/138.117.221.16/id/VCS6WagOdXU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhPICg1EwISPRfcQIshXyOrvXzPrhBQNAEcEp3Q3amcZQU6caY8r5XqMaMd1JJRa084mmIh4VKe0/spc/SQ-umsC78Gm9cTBskyxnZvQAUVUm81ea6r1mhYXZhpwPo4W0XQkDYiDKQCdJwA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1785000/met/1784599218,/mh/jE/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837/mt/1784597315/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgRlr6UcpwWDUf4q_92XqT6dZICvtqeo7DWCtkzT1uj60CIDdeVmyZEAGvH9PCMBTAdYc4O_uFBddi_L085gwNZu5D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgWuH_72GM2RQA2w7SEBmsT3pqhpLuMu-zbOdz28SOixUCIGfrEdz586GkVmCdSlxV2PmBoljyV87ZIR8ZVu73TZnf/playlist/index.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-21T02:00:18.019112+00:00",
+    "expires_at": "2026-07-21T08:00:17+00:00",
+    "ttl_seconds": 21598
   },
   {
     "id": "DiarioTVTeresopolis.br.wY0xa27Zojo",
@@ -136,28 +152,12 @@
     "source_type": "twitch",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://sae12.playlist.ttvnw.net/v1/playlist/CtIERd_UFr4Qt1sCfMh847d9N3pX-6EpLNCX2jlTnQIb0Yxo4-WaCxs5Xno9mid0s3rdLbJbGHLgfzzKQL7lud78jRI4dIV0WTI3uUerprPZBxdHLAyP1485RqjLAxBMKb-jUTtlyxXFOrXHJUU6808SBNuqhJegykEMHD9NFI8yo3KOSx7LApcMcJSmY6ffZkwVRSZf8OmeQOoMRY4lv20_o7EEexf21Knl6tloVcc4MTvzWaAZsb7EhgCLphYWTMlPbgvE-MphZZ-WETI8V8EY_Y0WOsEo6Fha1PHqLkcdwkxxMuZy_SMfUc_wIftEM-Oup1_vo1mUWPxg8-F8Z1h3FHnF4hH08uYNPvI1nhVoSYeccAVFNH5yaofpyuhUsDwljDVkdIq9eJ2uYdxCPH-8RDiG9KVJAhRKU33cLlzIT21kIzm4omQSSXzokYOJ0alKWzyEIiWhTbakRZC_Kv7EJtm0CUuOkk_9i5337VOVaeJZx-I5e0h0sT98yiczTVR3XvDbMHRqH7iAk_Ozbk1VdRhujbvkSWfWcPa2T7jytBVjqkU9nsM5e_BzoyuqfXLvXh7yYqsC-vlh2QqfVzjOew3po5ijcedFTJbe-ruLNYdfOR9oIUfwparfbNXcjTS5DOVXQ8P7qt_pnGOtiKstvGblb_ndKAP5oLX2fwvHvcdONfsoQny20TaYLMjAk4KVHuV86_tjP5kZxJd8_DvZePT8Jjqu9g3hIaVRUUhBklUQoeMEZTtaiawr8hSwvNb5F5-QM9cWRfjIkOoJDSuDbT34Ggz98z7GNvSLqXhXTfAgASoJdXMtZWFzdC0yMNIP.m3u8",
+    "stream_url": "https://sae13.playlist.ttvnw.net/v1/playlist/CtIEDh9Hy3-H30Qne9H1-S2ZxAdWXbVt4UsJNbg5FU4Zn34rVp6bl4hUiqpOrJh93spZcbUYyxWV1Bmrwk1CtI9a6Ssiyoq0rvNmqhUC3t01Bzjp-weEzrQs5dLsvOU6GKLo7xn54-yPsNF-hQPNUxd-gqCFdB-fMpBdfrhTi56Yi0vPizJNp2rjX89Rawpct5VuYtUhO8qc7k9OjGT2JI0c4S8Y-JjZUkg_96nNndiutIXmJPpABhlYYOtd6MDyG-axmSj2X7-oKVLTqNFbY6uQHV8l8tYJ6ob3O7Fp71SEeOP1Qcz0Slcp3nKamkio-gjeVAyUzEnWPc9tyyjCIQg7GXbqwA0tl6VqMEdkMqbbtgEoqGVLIJFiVWP9Syl1vZXXW17GkFUR7lgyEAdrGvDFW5XOtpkfyy5nheDmMBV3n58hjKAJQhlSmdZLP5QpbGRP7zYVB9YLVqRMREVyLDpStudkrdXwWM3L39FSD0Zf77FtX0iMCx55jx7Sl7Tn0Qp4eCeuExvlFdi4QA4WBjF86wJHwN68fDgzGWkXNYz-71_kZZrKdtz988qKhCTAwn85DI-b2SSKe651ylpSxV1KoTSuk5GsLyrRCoQ5rBP9yekoG1kRO7PueN7iOeJRIf9Gv5rMeTME91_6c9b46BBt9sTOn0yGRgdqSLMfzGoqoSAcFbZ4u4q27Qqgsv-hyMfg4YjZkUrC-WRw05_VMwGlLL0KbvHDfY4JkfL1Lwm_-5j8N0C5nuLXOnaG4gbUEK0sM7mGbcisvwxZF3pJciyUKDTTGgwp0s0qBVlpKQedqLQgASoJdXMtZWFzdC0yMNIP.m3u8",
     "status": "resolved",
     "error": null,
-    "resolved_at": "2026-07-21T01:00:37.940239+00:00",
+    "resolved_at": "2026-07-21T02:00:15.945303+00:00",
     "expires_at": null,
     "ttl_seconds": null
-  },
-  {
-    "id": "JovemPanNews.br.8drsstd42nU",
-    "name": "Jovem Pan Live - MARINA SILVA | DIRETO AO PONTO – 20/07/2026",
-    "source_url": "https://www.youtube.com/watch?v=8drsstd42nU",
-    "logo": "https://i.ytimg.com/vi/8drsstd42nU/hqdefault.jpg?v=6a5e7803&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo3UvvBT4fR73qSu9PSEE3DrZLuw",
-    "group": "news",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784615439/ei/r71eapOaMbmg-LAPrf3KoAc/ip/138.117.221.16/id/8drsstd42nU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPzgdYdfSCQjhD78KwOpgqYtcCvGsC4AtcI1ZoWqK06sVG_lkQ9NGWObcfS21N5AW_Wgw7NaS_T/spc/SQ-ums7uO4ll_Swq1PE5Vw_Ke3vJGbLVpOSoSqWNhaT1BekJ3qb_WnS2aAtZTg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1586250/met/1784593840,/mh/pI/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784593476/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIganZ5e_LwC2xBtYohr5De6rrFDTMZvej1F9upQB7tVSwCIQDG3w8H176cCPiw6pHrr3oTZelEwf13Kh5l_FXA1NBSKw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJVCWQ240EMmGnunN2O-u5kNdCRDulHfT52Aa4qJ69Q8AiBIcz-q7JjSffFWAuxG8jF-aNvXi39UCKEVm60aaaBxFw%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-21T00:30:40.283634+00:00",
-    "expires_at": "2026-07-21T06:30:39+00:00",
-    "ttl_seconds": 21598
   },
   {
     "id": "JovemPanNews.br.eTz4XgOQaAE",
@@ -270,22 +270,6 @@
     "resolved_at": "2026-07-21T01:30:19.403782+00:00",
     "expires_at": "2026-07-21T07:30:18+00:00",
     "ttl_seconds": 21598
-  },
-  {
-    "id": "RecordNews.br.zL_rjcl-K-k",
-    "name": "Record News Live - News das 10 - 20/07/2026",
-    "source_url": "https://www.youtube.com/watch?v=zL_rjcl-K-k",
-    "logo": "https://i.ytimg.com/vi/zL_rjcl-K-k/hqdefault.jpg?v=6a5e2914&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC39s_QFh5UwrElxNPiCpsS8yPwjA",
-    "group": "news",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784619017/ei/qctearuGHKHv1sQP87-c8QI/ip/138.117.221.16/id/zL_rjcl-K-k.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhPc91b6gDfgPTMJuzyfjWa1AJTJd-YkaMlFhfFd8A8ih3uk9V9ZUm8Zyrfh3cWhtELsZ67ER5yl/spc/SQ-umji41R7jnh981KNvhi9cYWoRtAY9I6_fdA-WWOaqr2LL_j9WE8WgYcAUAA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1426250/met/1784597417,/mh/x2/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1784597076/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAPHX1quv0XoKA5jivH7ka_SKMrhxjvcnOrukgMxnDVU8AiEA_Aw2MQOQ8vF78vZAdmGx3kGj3oBpAUSbNV7oLDwjnAI%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOyjJdvhpPtRMkc5Lvz9olj-uor3qexwhECxM-pvNHy7AiAfwcNbyKSnI2swSclBTOzZgKb-R-umRTWuVNCK8Hsffw%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-21T01:30:17.934186+00:00",
-    "expires_at": "2026-07-21T07:30:17+00:00",
-    "ttl_seconds": 21599
   },
   {
     "id": "SantuarioNacionaldeAparecida.tv.juUt-rN5CVo",
