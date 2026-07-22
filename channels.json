@@ -27,7 +27,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-22T03:01:20.962081+00:00",
+    "resolved_at": "2026-07-22T03:30:37.715739+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -40,12 +40,12 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": null,
-    "status": "offline",
-    "error": "no_stream_found",
-    "resolved_at": "2026-07-22T03:00:59.617236+00:00",
-    "expires_at": null,
-    "ttl_seconds": null
+    "stream_url": "https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrEFxFXQry4oU4NKes5AvJw6eIJmaFdsHrfvjm6WIyW59CDMmeYse5yhkeutjs0YVHmG49s81cx-BIx3tNgy-pnKk0DUWfSJwq2wAW9qk5IRv1pr9xMJkodOiZgO5jc-nT17fnRuN60SxkuqeCP9JR_Ng52CDahN7bmkuDIGm3yb_jwSM93MX_UXX-B3U-mIHOSKP05xKHBmrsduZi_bhLXE2VZQ4RBHbXm9dT6Xr4H6Ae-vVzkaO9qVEJTur5zSshkMmuc-ACtvxcmNTNN9enVY3Hze9atH60gnAqZeMLCBQQSubt4VXdE3OrAj-ezKplouxHh_B0OAlOcDW8PYkcP_zgnTNxPbd54QrzSPsmPwEbFZyfo6tsbt-LbDOMAu-v4WhFZeDsPwD9YP5Fo9SLfMfA1gPHUStQSc8pBGF-bKDiRDWGkz32y2xrbhNGMXMfn59_bJs28CEYgUn50PYaQ-Pfa3SBsjFgHWBYltOJM0QW4o__ZSjPPxzOm1d6vNxvN8M1Fg7syElAK6cRGrwYKUcmWL-6keQMK4VypEOxsI0AtJG-ZwvnfTQTDesur0wUjWDTCW8OjF1mJyl3NBkOGE5cAQ1kockZmhfP2nMRUn3DFnuxzyR_ooYAZXaIi-trO_094ASczc3BUqjCk0IrQ7LX8MQe38cDjrhspL8LK7_1fHzq4XmyzXNr161fq9Dym2ohkQHxr-O503Axz8OJyPcrkDoOY_dgLOQxslPw46OTiB1HpHnvIxXoR4H5GF72vYkGA64mviu5TT1IXp0LLjcrnjC_Sezfy31ExFI8gqYIJP1UX6BFc0rhsxmHCoMdA-QoGJOJiaCtKWNLRo_RzUhvJGwJl18KM89xo-7COw9ckLIMywJFNuMivgBhosfWDfDibYWiMdw75UdqAFyPBb_z0aDLJsvmromPup-dZhZSABKgl1cy1lYXN0LTIw0w8.m3u8",
+    "status": "resolved",
+    "error": null,
+    "resolved_at": "2026-07-22T03:30:36.998540+00:00",
+    "expires_at": "2026-07-22T03:40:16+00:00",
+    "ttl_seconds": 579
   },
   {
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
@@ -187,7 +187,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-22T03:01:21.680175+00:00",
+    "resolved_at": "2026-07-22T03:30:38.388011+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -227,7 +227,7 @@
     "id": "PowerRangersTV.br.cQHlHWNg5zA",
     "name": "PowerRangers TV - 🔴 Power Rangers AO VIVO | Dino Fury | Séries para Crianças",
     "source_url": "https://www.youtube.com/watch?v=cQHlHWNg5zA",
-    "logo": "https://i.ytimg.com/vi/cQHlHWNg5zA/hqdefault.jpg?v=6a0d8090&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-6XpFw1Q-uhnQbbzpuFXxBvLWyw",
+    "logo": "https://i.ytimg.com/vi/cQHlHWNg5zA/hqdefault.jpg?v=6a0d8090&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDi_ef45t6XTuI-kbQgEO2rtmEtKw",
     "group": "kids",
     "source_type": "youtube",
     "tvg_id": null,
@@ -285,22 +285,6 @@
     "error": null,
     "resolved_at": "2026-07-22T00:00:22.447019+00:00",
     "expires_at": "2026-07-22T06:00:21+00:00",
-    "ttl_seconds": 21598
-  },
-  {
-    "id": "SBTNacional.br.w1iHVgw9ByY",
-    "name": "SBT - YouTube - Universidad Central x Santos - AO VIVO E COM IMAGENS | Sul-Americana 2026",
-    "source_url": "https://www.youtube.com/watch?v=w1iHVgw9ByY",
-    "logo": "https://i.ytimg.com/vi/w1iHVgw9ByY/hqdefault.jpg?v=6a5fae81&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByevel164Of0NrEZx3C_5QL_6cYA",
-    "group": "general",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784700361/ei/aQlgap2kKb6d-LAPu4_8gA8/ip/138.117.221.16/id/w1iHVgw9ByY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/AZFlqhMEwRjixyPLlmeuh4ZAh-vBSuWbxs0RrO680KtRNFVs7mTXsOjGBe2ntEVBZfb6ls4ADdpzi-Tg/spc/SQ-umsWV_TzOol_kTvqbRVV8QRicxh3sC8GHuzEND5JG8yObNka6rbT1TmT-PA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1520000/met/1784678762,/mh/MW/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784678427/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAL7PKNYmoVsF7Nxn3fTreUXj5w6kaAx4Ea79tFTU7jFRAiBWxH9GWlNIdRFYf0y4EkmNv0TseDCRlDaOo-xZrf78MA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgH4fEbn45PT29L6hZKMkyzuOdN3mI6oZQWgxEjAgHFFYCIBIfZBR40Ys0ZxHcVGXMfUmD9Nn3wargQyvL-T147bEq/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-22T00:06:02.224076+00:00",
-    "expires_at": "2026-07-22T06:06:01+00:00",
     "ttl_seconds": 21598
   },
   {
