@@ -40,12 +40,12 @@
     "source_type": "kick",
     "tvg_id": null,
     "resolution": "best",
-    "stream_url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrAFxcc97q0rUlAaGSTn2zFI8ETHnIts2PuhLGO36x_f_l6nKBf83Cku5ml5um3jjOoRgIFqIKIAnmtCgNg142Hzlc0DTesWiY9Yibep9Yhb5zCN9zUjItAJPFGtO4v3mwW-7c23Igdh_fxTCCCK-mC3FDpL07u_NT6AitP4wJG6ljpNxE086vKSerQY8O9h_RJbQTPoujXsXpvNoTcH7DE1SlNFxYKD3zaGvBjJDSdwao3VQMzMlSrsvZhHWH3qqzyO1KI1cN6K8WURXSj5XouZYqBJ5OE75jtbelbnnjM0ub_0qvzzTSagivguErZRwf1Bex3NpSFxqaE8DLRnjIszUmuf5OAis-xawUFDl0t46LJsmvBJs-pH3L5Rxn_HtLTMnnKmLF3T3Ir3UGCajB9Mx1wNIHKfhDHFQ0_05hvVWk53qHhVZ7bNCE7f0e3ev2BFXZTZEhxJ8IrS2s_BEMBo84OlK_vJswuVYUep6SaBJgK9BDR3HsTx3UxbcKrX8FhSmy2zoMVCGScG-_UA8JjfbAEKAtdg01z23YVUGZsV6mbEgp4ksFnDDXwcTl_qzJCLgOkovJ3xsHGuIGyOFzu0ro_3XtvRbzSJj9YFTfKHU2pyChasYeyZec-rrMO8_GyxcaGXJwbONiA8YfIdarDFNUGXA0oirAPhgrQzB9PCkZUHQMvLxknTFH1gDJeXBCYslAoeewo7_8sZCdW6F-KchKjOQsG9FFDa8HOdE1WrW3iRoTUSVXPhjoZ4RnmSUuLQhgHLJjuvfjH8yOIlxd1O0UvgnMVoJ560z9La25gXo5kCGhc4fIxGJ62DDyJ6XOQjrSDILXI40kRHHSrOt5FOOe1tvLqt9jgHV_iUM6orGk7e490a7ScUxwKIurKm_zvkNEgTpZbtmHIrpIrEQ5Ks5hoMQq6C9mc34l735t9FIAEqCXVzLWVhc3QtMjDVDw.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-24T13:00:18.295973+00:00",
-    "expires_at": "2026-07-24T13:10:17+00:00",
-    "ttl_seconds": 598
+    "stream_url": null,
+    "status": "offline",
+    "error": "no_stream_found",
+    "resolved_at": "2026-07-24T13:30:17.880197+00:00",
+    "expires_at": null,
+    "ttl_seconds": null
   },
   {
     "id": "classic-mr-bean.tv.8nORcRZ7gqs",
@@ -115,7 +115,7 @@
     "id": "DiarioTVTeresopolis.br.naO5KE6X4u4",
     "name": "Diário TV Teresópolis - DIÁRIO TV AO VIVO - Programação da Diário TV Teresópolis - Inscreva-se no nosso canal",
     "source_url": "https://www.youtube.com/watch?v=naO5KE6X4u4",
-    "logo": "https://i.ytimg.com/vi/naO5KE6X4u4/hqdefault.jpg?v=6a61239c&sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGKLzl_8DCgicx4TTBhjgqAE=&rs=AOn4CLBFqSOKuLmzqv3_5IhsSKAo0h_2Aw&usqp=CBg",
+    "logo": "https://i.ytimg.com/vi/naO5KE6X4u4/hqdefault.jpg?v=6a61239c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWo7FvJ2rjaELwWz40V5HA6Hivlw",
     "group": "general",
     "source_type": "youtube",
     "tvg_id": null,
@@ -160,22 +160,6 @@
     "ttl_seconds": 21599
   },
   {
-    "id": "JovemPanNews.br.WGj2zjr68zE",
-    "name": "Jovem Pan Live - JORNAL DA MANHÃ - 2° EDIÇÃO - 24/07/2026",
-    "source_url": "https://www.youtube.com/watch?v=WGj2zjr68zE",
-    "logo": "https://i.ytimg.com/vi/WGj2zjr68zE/hqdefault.jpg?v=6a627d76&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWbWfBXXHOWZziE0mb6EU5ESQE7w",
-    "group": "news",
-    "source_type": "youtube",
-    "tvg_id": null,
-    "resolution": "best",
-    "stream_url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784916019/ei/01Njap-DOt-1obIP1Yu52QE/ip/138.117.221.16/id/WGj2zjr68zE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMpFuRv2oytaH2GG8N5iofLCQL5IqaQrQWW_mF2qEYx8W83vdm0yF4KCdRlSv5HelrNJcTDPQlr/spc/SQ-umnXvbFWetyUMstsyJXKM9uMi5ASfvjym0st_T-cywvpzaz69j8Q1I8VPcg/vprv/1/reg/0/playlist_type/DVR/hcs/ir/initcwndbps/1935000/met/1784894420,/mh/qR/mm/44/mn/sn-n0hpjput-bpbk/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,51992867/mt/1784893960/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgO_t0S54bqcsFUruVzaYFyU49bEoEPs7YKieLjFi1SOECIQDk5a8Jnf1W5iAvqPq_KMP6Fiax0EeT_8SX4nfYmGiIkg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJrn7PgjPPKGdQVlMR9yqssW8ht8zmLB-c6Yv9G79dU3AiAD419Y_9xFtdEMRg4ydX2ktTgxf_FbEY369zNYxQr5OA%3D%3D/playlist/index.m3u8",
-    "status": "resolved",
-    "error": null,
-    "resolved_at": "2026-07-24T12:00:20.493175+00:00",
-    "expires_at": "2026-07-24T18:00:19+00:00",
-    "ttl_seconds": 21598
-  },
-  {
     "id": "JovemPanNews.br.xz49yBnZC7M",
     "name": "Jovem Pan Live - MORNING SHOW - 24/07/2026",
     "source_url": "https://www.youtube.com/watch?v=xz49yBnZC7M",
@@ -203,7 +187,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-24T13:00:22.244440+00:00",
+    "resolved_at": "2026-07-24T13:30:18.959630+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -219,7 +203,7 @@
     "stream_url": null,
     "status": "offline",
     "error": "no_stream_found",
-    "resolved_at": "2026-07-24T13:00:20.682524+00:00",
+    "resolved_at": "2026-07-24T13:30:18.652498+00:00",
     "expires_at": null,
     "ttl_seconds": null
   },
@@ -275,7 +259,7 @@
     "id": "RecordNews.br.YLUkhMIGmqk",
     "name": "Record News Live - AO VIVO: Acompanhe as principais notícias do dia na Record News",
     "source_url": "https://www.youtube.com/watch?v=YLUkhMIGmqk",
-    "logo": "https://i.ytimg.com/vi/YLUkhMIGmqk/hqdefault.jpg?v=6a621e0f&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA44gUkUJJ22S95Tak2h_OSifrW3g",
+    "logo": "https://i.ytimg.com/vi/YLUkhMIGmqk/hqdefault.jpg?v=6a621e0f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZCc-T_a4svSG8f5tIFt2HiFGm1Q",
     "group": "news",
     "source_type": "youtube",
     "tvg_id": null,
